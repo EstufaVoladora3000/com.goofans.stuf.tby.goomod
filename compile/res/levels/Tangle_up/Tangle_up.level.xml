@@ -1,0 +1,71 @@
+<!-- Created by WooGLE v0.78 RC7 -->
+<level allowskip="false" autobounds="true" ballsrequired="20" letterboxed="false" strandgeom="false" textcolor="255,255,255" timebugprobability="0.2" visualdebug="false">
+
+	
+	<camera aspect="normal" endpos="0,0" endzoom="1">
+		<poi pause="0" pos="0,0" traveltime="0" zoom="1" />
+</camera>
+<camera aspect="widescreen" endpos="0,0" endzoom="1">
+		<poi pause="0" pos="0,0" traveltime="0" zoom="1" />
+</camera>
+<levelexit filter="" id="theExit" pos="0.0,1800" radius="75">
+	</levelexit>
+<pipe>
+<Vertex x="0.0" y="1800" />
+<Vertex x="0.0" y="1945" />
+<Vertex x="705" y="1945" />
+<Vertex x="705" y="1775" />
+<Vertex x="275" y="1775.0" />
+<Vertex x="275" y="1885" />
+<Vertex x="-705" y="1885" />
+<Vertex x="-705" y="1770" />
+<Vertex x="-500" y="1770" />
+<Vertex x="-500.0" y="1650" />
+<Vertex x="500" y="1650" />
+</pipe>
+<BallInstance angle="0" id="goo1" type="Ivy" x="-60" y="137" />
+<BallInstance angle="0" discovered="false" id="goo2" type="Ivy" x="60" y="137" />
+<BallInstance angle="0" id="goo3" type="Ivy" x="60" y="250" />
+<BallInstance angle="0" discovered="false" id="goo4" type="Ivy" x="-60" y="250" />
+<Strand gb1="goo4" gb2="goo3" />
+<Strand gb1="goo3" gb2="goo1" />
+<Strand gb1="goo1" gb2="goo2" />
+<Strand gb1="goo2" gb2="goo4" />
+<Strand gb1="goo4" gb2="goo1" />
+<Strand gb1="goo2" gb2="goo3" />
+<BallInstance angle="0" discovered="false" id="goo5" type="Ivy" x="-0.11" y="194.7" />
+<BallInstance angle="0" discovered="false" id="goo6" type="Ivy" x="20.59" y="212.64" />
+<BallInstance angle="0" discovered="false" id="goo7" type="Ivy" x="-21.64" y="211.59" />
+<BallInstance angle="0" discovered="false" id="goo8" type="Ivy" x="19.75" y="174.61" />
+<BallInstance angle="0" discovered="false" id="goo9" type="Ivy" x="-20.17" y="175.66" />
+<BallInstance angle="0" discovered="false" id="goo10" type="Ivy" x="41.39" y="231.55" />
+<BallInstance angle="0" discovered="false" id="goo11" type="Ivy" x="-40.55" y="231.34" />
+<BallInstance angle="0" discovered="false" id="goo12" type="Ivy" x="40.76" y="156.12" />
+<BallInstance angle="0" discovered="false" id="goo13" type="Ivy" x="-40.55" y="156.12" />
+<BallInstance angle="0" discovered="false" id="goo14" type="Ivy" x="60.93" y="221.89" />
+<BallInstance angle="0" discovered="false" id="goo15" type="Ivy" x="59.46" y="165.57" />
+<BallInstance angle="0" discovered="false" id="goo16" type="Ivy" x="59.25" y="193.73" />
+<BallInstance angle="0" discovered="false" id="goo17" type="Ivy" x="-31.52" y="251.93" />
+<BallInstance angle="0" discovered="false" id="goo18" type="Ivy" x="31.1" y="250.88" />
+<BallInstance angle="0" discovered="false" id="goo19" type="Ivy" x="-0.21" y="251.51" />
+<BallInstance angle="0" discovered="false" id="goo20" type="Ivy" x="-59.88" y="165.36" />
+<BallInstance angle="0" discovered="false" id="goo21" type="Ivy" x="-59.88" y="193.73" />
+<BallInstance angle="0" discovered="false" id="goo22" type="Ivy" x="-60.09" y="222.1" />
+<BallInstance angle="0" discovered="false" id="goo23" type="Ivy" x="-31.31" y="137.42" />
+<BallInstance angle="0" discovered="false" id="goo24" type="Ivy" x="31.31" y="137.63" />
+<BallInstance angle="0" discovered="false" id="goo25" type="Ivy" x="-0.0" y="137.84" />
+<BallInstance angle="0" discovered="false" id="goo26" type="Bone" x="-1.49" y="221.15" />
+<BallInstance angle="0" discovered="false" id="goo27" type="Bone" x="38.87" y="190.58" />
+<BallInstance angle="0" discovered="false" id="goo28" type="Bone" x="-38.03" y="191.0" />
+<BallInstance angle="0" discovered="false" id="goo29" type="Bone" x="-0.84" y="155.28" />
+<BallInstance angle="0" discovered="false" id="goo30" type="Bone" x="37.58" y="220.46" />
+<BallInstance angle="0" discovered="false" id="goo31" type="Bone" x="-37.74" y="220.49" />
+<BallInstance angle="0" discovered="false" id="goo32" type="Bone" x="-37.61" y="158.34" />
+<BallInstance angle="0" discovered="false" id="goo33" type="Bone" x="41.86" y="156.16" />
+<music id="song" />
+<BallInstance angle="0" discovered="false" id="goo34" type="balloon" x="-200" y="1226" />
+<BallInstance angle="0" discovered="false" id="goo35" type="balloon" x="-75" y="1226" />
+<BallInstance angle="0" discovered="false" id="goo36" type="balloon" x="150" y="1226" />
+<BallInstance angle="0" discovered="false" id="goo37" type="balloon" x="50" y="1226" />
+<signpost alpha="1" colorize="255,255,255" depth="3" image="SPSP" name="sgn1" rotation="-14.08" scalex="0.661" scaley="0.661" text="ch1lvO3sgn1" x="206.47" y="218.77" />
+</level>

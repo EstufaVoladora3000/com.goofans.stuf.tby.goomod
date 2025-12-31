@@ -1,0 +1,6 @@
+<ResourceManifest>
+	<Resources id="movie_LevelEndBlackMovie">
+		<SetDefaults idprefix="" path="./" />
+<Image id="BLACK" path="res/movie/_generic/black32" />
+</Resources>
+</ResourceManifest>

@@ -1,0 +1,20 @@
+<!-- Created by WooBLE v0.14 RC2 -->
+<ResourceManifest>
+
+  <Resources id="ball_Goolden">
+
+    
+    <SetDefaults idprefix="" path="./" />
+<Image id="IMAGE_BALL_GOOLDEN_BODY" path="res/balls/Goolden/Goolden" />
+<SetDefaults idprefix="" path="./" />
+<SetDefaults idprefix="" path="./" />
+<Image id="ojo" path="res/balls/Goolden/Goolden_ojo" />
+<Image id="Glow" path="res/balls/Goolden/hola" />
+<Image id="inactive" path="res/balls/Goolden/inactive_strand" />
+<Image id="strand" path="res/balls/Goolden/strand" />
+<Image id="splat" path="res/balls/Goolden/flash" />
+<Image id="2" path="res/balls/Goolden/2" />
+<Image id="3" path="res/balls/Goolden/3" />
+<Image id="IMAGE_BALL_GOOLDEN_NOTHING" path="res/balls/Goolden/Nothing" />
+</Resources>
+</ResourceManifest>

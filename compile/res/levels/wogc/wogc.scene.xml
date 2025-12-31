@@ -1,0 +1,43 @@
+<scene backgroundcolor="0,128,255" miny="-100">
+
+	
+	<linearforcefield antigrav="true" dampeningfactor="0.5" force="0,-10" geomonly="false" type="gravity" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="0.8" image="IMAGE_SCENE_WOGC_NUKEM_BG" name="nukem_bg" rotation="0" scalex="1" scaley="1" x="106" y="-60" />
+<SceneLayer alpha="1" anim="blink" animspeed="1.25" colorize="255,255,255" depth="-7.2" image="IMAGE_SCENE_WOGC_CONSOLECURSOR" name="consolecursor" rotation="-4.1" scalex="0.667" scaley="0.667" x="1075.9" y="120.83" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-8.8" image="IMAGE_SCENE_WOGC_PTERMINALPOLE" name="pterminalPole" rotation="0" scalex="1" scaley="1" x="1097.39" y="44.0" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-320" id="linetext_connectfail" image="IMAGE_SCENE_WOGC_CONNECTBB_CONTENT_CONNECTFAIL" name="ConnectBB_content_connectfail" rotation="0" scalex="0.639" scaley="0.639" x="678.5" y="560.12" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-320" id="linetext_disconnected" image="IMAGE_SCENE_WOGC_CONNECTBB_CONTENT_DISCONNECTED" name="ConnectBB_content_disconnected" rotation="0" scalex="0.648" scaley="0.648" x="676" y="564.5" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-320" id="linetext_connecting" image="IMAGE_SCENE_WOGC_CONNECTBB_CONTENT_CONNECTING" name="ConnectBB_content_connecting" rotation="0" scalex="1" scaley="1" x="679" y="549" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-320" id="linetext_connected" image="IMAGE_SCENE_WOGC_CONNECTBB_CONTENT_CONNECTED" name="ConnectBB_content_connected" rotation="0" scalex="0.664" scaley="0.664" x="679" y="558.5" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-320.8" image="IMAGE_SCENE_WOGC_CONNECTBB_BLANK" name="ConnectBB_blank" rotation="0" scalex="0.744" scaley="1" x="685.5" y="525.96" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-328" image="IMAGE_SCENE_WOGC_BBPOST" name="bbpost" rotation="0.12" scalex="0.526" scaley="2.022" x="755.31" y="169.08" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-328" image="IMAGE_SCENE_WOGC_BBPOST" name="bbpost" rotation="-0.25" scalex="0.577" scaley="2.092" x="589.52" y="167.89" />
+<button alpha="1" colorize="255,255,255" depth="0" font="FONT_OUTLINE_18" id="zoomout" onclick="zoomout" over="IMAGE_SCENE_WOGC_QUIT_OVER" overlay="true" rotation="0" scalex="0.657" scaley="0.657" screenspace="true" text="LABEL_SAVE_AND_EXIT" up="IMAGE_SCENE_WOGC_QUIT_UP" x="700" y="579.59" />
+<buttongroup id="terminalButtonGroup" osx="70,1.12">
+		<button alpha="1" colorize="255,255,255" depth="-8" id="pterminalbutton" onclick="showtermsandconditions" over="IMAGE_SCENE_WOGC_PTERMINALMONITOR_OVER" rotation="-6.76" scalex="1" scaley="1" up="IMAGE_SCENE_WOGC_PTERMINALMONITOR_UP" x="1098.5" y="104.99" />
+</buttongroup>
+<buttongroup id="connectbuttongroup" osx="80,1.12">
+		<button alpha="1" colorize="255,255,255" depth="-319.2" id="connect" onclick="doconnect" over="IMAGE_SCENE_WOGC_BUTTONCONNECT_OVER" rotation="0" scalex="0.948" scaley="0.915" up="IMAGE_SCENE_WOGC_BUTTONCONNECT_UP" x="659.44" y="409.42" />
+</buttongroup>
+<label align="right" depth="0" font="FONT_OUTLINE_18" id="metershigh" overlay="true" rotation="-0.437" scale="1" screenspace="true" text="LABEL_METERS_HIGH" x="791.39" y="24.9" />
+<label align="right" depth="0" font="FONT_OUTLINE_26" id="height" overlay="true" rotation="-0.437" scale="0.89" screenspace="true" text="LABEL_X" x="661.37" y="21.36" />
+<label align="right" depth="0" font="FONT_OUTLINE_18" id="ballsused" overlay="true" rotation="-0.791" scale="0.6" screenspace="true" text="LABEL_USING_X_OF_Y" x="792" y="48.06" />
+<label align="right" depth="0" font="FONT_OUTLINE_18" id="rank" overlay="true" rotation="0" scale="0.76" screenspace="true" text="LABEL_TALLEST_IN_THE_WORLD" x="792.36" y="68.49" />
+<label align="left" depth="0" font="FONT_OUTLINE_26" id="name" overlay="true" rotation="0.115" scale="1" screenspace="true" text="LABEL_X" x="816.27" y="22.73" />
+<line anchor="0,0" id="" material="rock" normal="0,1" />
+<SceneLayer alpha="1" depth="-1850" image="GPCBG" name="BBG" rotation="0" scalex="40" scaley="4" tilex="true" tiley="true" x="0" y="1390" />
+<SceneLayer alpha="1" depth="-1000" image="DomeBG" name="BG" rotation="0" scalex="0.8" scaley="0.8" tilex="true" tiley="false" x="-500" y="2000" />
+<SceneLayer alpha="0.96" depth="-1000" image="FBG" name="FBG" rotation="0" scalex="1" scaley="0.8" tilex="true" tiley="true" x="-600" y="330" />
+<SceneLayer alpha="1" depth="0" image="Ground" rotation="0" scalex="0.902" scaley="0.9" tilex="true" tiley="false" x="0" y="-75" />
+<SceneLayer alpha="1" depth="0" image="Ground" rotation="0" scalex="0.9" scaley="0.9" tilex="true" tiley="false" x="0" y="-75" />
+<SceneLayer alpha="1" depth="-1600" image="BGVeggies" rotation="0" scalex="5.25" scaley="3.25" tilex="true" tiley="false" x="15" y="315" />
+<SceneLayer alpha="1" depth="-1300" image="BGVeggies" rotation="0" scalex="4.096" scaley="3.542" tilex="true" tiley="false" x="777" y="-113" />
+<SceneLayer alpha="1" depth="-5" image="veggiLoop" rotation="0" scalex="1.127" scaley="1.37" tilex="true" tiley="false" x="20.91" y="48.36" />
+<SceneLayer alpha="0.8" colorize="200,255,255" depth="-1800" image="distantHills" rotation="0" scalex="9" scaley="6" tilex="true" tiley="false" x="0" y="400" />
+<SceneLayer alpha="0.8" colorize="225,255,255" depth="-1800" image="distantHills" rotation="0" scalex="7.591" scaley="7.614" tilex="true" tiley="false" x="-1417.17" y="71.47" />
+<SceneLayer alpha="1" depth="-10" image="veggiLoop" rotation="0" scalex="1.2" scaley="1.373" tilex="true" tiley="false" x="-259.33" y="24.43" />
+<SceneLayer alpha="1" depth="-9" image="IMAGE_SCENE_WOGC_BB_DELICIOUS" rotation="0" scalex="0.726" scaley="1.041" tilex="false" tiley="false" x="24313.76" y="535.88" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-10" image="IMAGE_SCENE_WOGC_BBPOST" name="bbpost" rotation="0.12" scalex="0.476" scaley="1.802" x="24349.22" y="215.02" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-10" image="IMAGE_SCENE_WOGC_BBPOST" name="bbpost" rotation="0.12" scalex="0.476" scaley="1.802" x="24228.39" y="211.63" />
+<SceneLayer alpha="1" depth="-1850" image="GPCBG" name="BBG" rotation="0" scalex="40" scaley="4" tilex="true" tiley="true" x="24033.48" y="1390.0" />
+</scene>

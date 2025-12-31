@@ -1,0 +1,12 @@
+<level allowskip="false" autobounds="true" ballsrequired="0" letterboxed="false" strandgeom="false" textcolor="255,255,255" texteffects="true" timebugprobability="0" visualdebug="false">
+
+	
+	<camera aspect="normal">
+		<poi pause="0" pos="-39.5,200" traveltime="0" zoom="1" />
+</camera>
+<camera aspect="widescreen">
+		<poi pause="0" pos="-39.5,200" traveltime="0" zoom="1" />
+</camera>
+<music id="TDIWISIG" />
+<loopsound id="DAL" />
+</level>

@@ -1,0 +1,4 @@
+<!-- Created by WooBLE v0.14 RC2 -->
+<ball autobounds="false" autoboundsunattached="false" climbspeed="0" detachable="false" draggable="false" grumpy="true" mass="20" name="Distant_Spawner" shape="rectangle,20,20" spawn="Distant_" speedvariance="0" stacking="true" static="true" strands="0" suckable="false" towermass="20" walkspeed="0">
+<part image="0" layer="1" name="body" scale="0.3" x="0" y="0" />
+</ball>

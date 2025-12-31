@@ -1,0 +1,19 @@
+<ResourceManifest>
+	<Resources id="movie_ModDemoEnd">
+		<SetDefaults idprefix="" path="./" />
+<Image id="SKY" path="res/movie/ModDemoEnd/sky" />
+<Image id="Hills" path="res/movie/ModDemoEnd/bg_hills_bleeding" />
+<Image id="Circle" path="res/movie/ModDemoEnd/Circle" />
+<Image id="Goo" path="res/movie/ModDemoEnd/GooBig" />
+<Image id="Fader" path="res/movie/ModDemoEnd/Fader" />
+<Image id="Pixel" path="res/movie/ModDemoEnd/PX" />
+<Image id="World" path="res/levels/MapWorldView/title_WORLD" />
+<Image id="OF" path="res/movie/ModDemoEnd/title_OF" />
+<Image id="Title_Goo" path="res/levels/MapWorldView/title_GOO" />
+<Image id="TBY" path="res/movie/ModDemoEnd/TBY" />
+<Image id="End" path="res/images/WaG/Anim/EndOfDemo" />
+<Image id="End.es" path="res/images/WaG/Anim/EndOfDemo.es" />
+<Image id="BGhills" path="res/levels/BlusteryDay/bgHills" />
+<Image id="Is2BG" path="res/levels/island2/bg" />
+</Resources>
+</ResourceManifest>

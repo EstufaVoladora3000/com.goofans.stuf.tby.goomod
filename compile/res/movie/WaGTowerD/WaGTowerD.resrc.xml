@@ -1,0 +1,16 @@
+<ResourceManifest>
+<Resources id="movie_WaGTowerD">
+<SetDefaults idprefix="" path="./" />
+<Sound id="sound" path="res/sounds/TBY/TBYTD" />
+<Image id="BlackScuare" path="res/movie/_generic/black32" />
+<Image id="Ground" path="res/images/TBY/animimages/Ground_A" />
+<Image id="BG" path="res/images/TBY/levelimages/sunset_sky" />
+<Image id="Tower" path="res/images/TBY/animimages/Tower" />
+<Image id="Explotion" path="res/images/TBY/animimages/Explotion" />
+<Image id="Shadow" path="res/images/TBY/animimages/Blur" />
+<Image id="flash" path="res/images/fx/flash" />
+<Image id="Tower_derbis" path="res/images/TBY/animimages/Tower_derbis" />
+<Image id="ExplotionFx" path="res/images/TBY/animimages/ExplotionFx" />
+<Image id="white" path="res/movie/_generic/white32" />
+</Resources>
+</ResourceManifest>

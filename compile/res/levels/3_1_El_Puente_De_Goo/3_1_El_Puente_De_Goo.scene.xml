@@ -1,0 +1,77 @@
+<!-- Created by WooGLE v0.78 RC7 -->
+<scene backgroundcolor="50,50,255" maxx="1356" maxy="1200" minx="-1110" miny="-190.65">
+	<linearforcefield antigrav="false" dampeningfactor="0" force="0,-10" type="gravity" />
+<line anchor="1370,0" id="right" normal="-1,0" tag="detaching" />
+<line anchor="-1125,0" id="left" normal="1,0" tag="detaching" />
+<line anchor="1.54,-230" id="ground" normal="0,1" />
+<SceneLayer alpha="0.9" colorize="230,240,255" depth="-1800" image="BG" name="bg" rotation="0" scalex="4.758" scaley="2.863" x="142.97" y="536.43" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-900" image="BGV" name="bgVeggies" rotation="0" scalex="5.023" scaley="2.204" x="84.6" y="-112.85" />
+<circle contacts="false" id="geometry1" radius="135.01" static="true" x="-491.03" y="335.45" />
+<rectangle height="683.04" id="geometry2" rotation="-0.00244346095279" static="true" width="335.56" x="-923.87" y="147.45" />
+<rectangle height="277.61" id="geometry3" rotation="-0.0209439510239" static="true" width="259.54" x="-633.84" y="347.49" />
+<rectangle height="774.69" id="geometry4" rotation="-0.0298451302091" static="true" width="631.94" x="-957.91" y="93.4" />
+<rectangle height="12.19" id="geometry5" rotation="0.00628318530718" static="true" width="86.97" x="-525.12" y="206.54" />
+<rectangle height="45.53" id="geometry6" rotation="-0.325329372572" static="true" width="62.97" x="-617.3" y="179.63" />
+<rectangle height="81.65" id="geometry8" rotation="-0.210835773641" static="true" width="278.55" x="-734.7" y="153.97" />
+<rectangle height="164.5" id="geometry9" rotation="-0.134390352404" static="true" width="281.5" x="-755.3" y="42.81" />
+<rectangle height="91.44" id="geometry10" rotation="-0.108035880698" static="true" width="301.82" x="-781.85" y="-82.88" />
+<rectangle height="100" id="geometry11" rotation="-0.0719075651822" static="true" width="100" x="-690.43" y="-188.31" />
+<rectangle contacts="true" height="29.3" id="geometry14" material="verysticky" rotation="-0.0191986217719" static="true" tag="stopsign,unwalkable" width="66.26" x="-589.56" y="472.49" />
+<rectangle contacts="true" height="40.34" id="geometry15" material="slightlysticky" rotation="-0.0144862327916" static="true" tag="stopsign,unwalkable" width="118.64" x="-714.33" y="468.47" />
+<rectangle contacts="true" height="33.42" id="geometry16" material="slightlysticky" rotation="-0.0181514242207" static="true" tag="stopsign" width="208.65" x="-875.67" y="474.17" />
+<rectangle contacts="true" height="33.05" id="geometry17" material="slightlysticky" rotation="0.0125663706144" static="true" tag="stopsign" width="100.65" x="-1028.28" y="475.59" />
+<circle contacts="true" id="geometry18" radius="129.66" static="true" x="1049.22" y="417.59" />
+<rectangle height="17.94" id="geometry12" rotation="-0.142418866963" static="true" width="21.8" x="-491.88" y="473.13" />
+<rectangle height="44.76" id="geometry7" rotation="0.644899158612" static="true" width="47.94" x="-596.65" y="205.41" />
+<circle id="geometry13" radius="67.83" static="true" x="-415.5" y="329.91" />
+<circle id="geometry24" radius="104.24" static="true" x="-470.7" y="300.69" />
+<circle id="geometry25" radius="130.44" static="true" x="-479.4" y="347.1" />
+<rectangle height="26.27" id="geometry26" rotation="-0.146607657168" static="true" width="29.71" x="-471.68" y="465.92" />
+<linearforcefield antigrav="false" center="83.47,-131.93" color="150,0,145,255" dampeningfactor="0.4" depth="1" enabled="true" force="0,16" geomonly="false" height="357.75" id="gooWater" type="force" water="true" width="2862.9" />
+<circle id="geometry19" radius="105.46" static="true" tag="unwalkable" x="1019.41" y="428.65" />
+<circle id="geometry20" radius="105.46" static="true" x="1030.83" y="396.07" />
+<rectangle height="251.32" id="geometry21" rotation="-0.10978120995" static="true" width="292.89" x="1237.42" y="407.31" />
+<rectangle height="21.09" id="geometry22" rotation="0.0108210413624" static="true" width="62.14" x="1075.0" y="537.34" />
+<rectangle height="21.57" id="geometry23" rotation="-0.0589921287174" static="true" width="106.84" x="1101.3" y="295.05" />
+<rectangle height="13.43" id="geometry27" rotation="-0.262672052425" static="true" width="22.71" x="1124.77" y="287.51" />
+<rectangle height="13.43" id="geometry28" rotation="-0.623955207588" static="true" width="22.71" x="1145.46" y="277.56" />
+<rectangle height="23.52" id="geometry29" rotation="-1.20881503993" static="true" width="36.25" x="1153.84" y="275.78" />
+<rectangle height="12.46" id="geometry30" rotation="-1.51983271264" static="true" width="102.6" x="1157.87" y="205.72" />
+<rectangle height="12.86" id="geometry32" rotation="-1.62420340191" static="true" width="223.43" x="1155.35" y="-34.84" />
+<rectangle height="12.86" id="geometry33" rotation="-1.65195413701" static="true" width="223.43" x="1150.15" y="-89.33" />
+<rectangle height="641.83" id="geometry34" rotation="0.0" static="true" width="224.68" x="1266.45" y="176.42" />
+<rectangle height="75.69" id="geometry31" rotation="0.0" static="true" width="238.94" x="1265.67" y="-167.14" />
+<rectangle contacts="true" height="28.96" id="geometry35" material="slightlysticky" rotation="-0.112748269679" static="true" tag="unwalkable" width="85.49" x="1317.49" y="512.69" />
+<rectangle contacts="true" height="15.17" id="geometry36" material="slightlysticky" rotation="-0.112748269679" static="true" tag="unwalkable" width="61.98" x="1206.84" y="532.06" />
+<SceneLayer alpha="0.99" colorize="255,255,255" depth="160" image="BGV" name="bgVeggies" rotation="-21.72" scalex="2.051" scaley="1.74" x="-905.67" y="-32.56" />
+<SceneLayer alpha="1" depth="0" image="ground1" rotation="-9.21" scalex="0.4625" scaley="0.4465" tilex="false" tiley="false" x="-849.91" y="139.62" />
+<SceneLayer alpha="1" depth="0" image="ground2" rotation="0" scalex="0.51225" scaley="0.42" tilex="false" tiley="false" x="1137.44" y="178.79" />
+<SceneLayer alpha="0.99" colorize="255,255,255" depth="160" image="BGV" name="bgVeggies" rotation="24.87" scalex="2.051" scaley="1.74" x="1250" y="-75.65" />
+<SceneLayer alpha="0.9" colorize="0,145,255" depth="1" image="fade" name="" rotation="0" scalex="57.196" scaley="0.708" tilex="false" tiley="false" x="84.73" y="-133.01" />
+<SceneLayer alpha="1" colorize="100,140,100" depth="-2" image="bush" name="Bush1" rotation="-4.18" scalex="1" scaley="1" tilex="false" tiley="false" x="-925.62" y="554.58" />
+<SceneLayer alpha="1" depth="-1" image="bush" name="Bush2" scalex="1" scaley="1" tilex="false" tiley="false" x="-961.57" y="550" />
+<SceneLayer alpha="1" colorize="90,130,90" depth="-0.002" image="bush" name="Bush2" rotation="-144.12" scalex="1" scaley="1" tilex="false" tiley="false" x="-477.93" y="191.79" />
+<SceneLayer alpha="1" colorize="90,130,90" depth="-0.002" image="bush" name="Bush2" rotation="-250.78" scalex="1" scaley="1" tilex="false" tiley="false" x="1114.18" y="168.81" />
+<SceneLayer alpha="1" depth="-0.001" image="bush" name="Bush1" rotation="-6.12" scalex="1" scaley="1" tilex="false" tiley="false" x="1281.7" y="589.3" />
+<SceneLayer alpha="1" colorize="90,130,90" depth="-0.002" image="bush" name="Bush2" rotation="18.38" scalex="0.925" scaley="0.986" tilex="false" tiley="false" x="1174.7" y="584.68" />
+<SceneLayer alpha="1" depth="-0.1" image="SIGNSTICK_S.P." rotation="-28.15" scalex="1" scaley="1.5" tilex="false" tiley="false" x="411.07" y="602.65" />
+<circle id="geometry38" radius="111.53" static="true" tag="stopsign,unwalkable" x="-400.11" y="441.37" />
+<SceneLayer alpha="1" depth="-8" image="Trunk" rotation="23.08" scalex="1" scaley="1" tilex="false" tiley="false" x="1276.08" y="745.98" />
+<SceneLayer alpha="1" depth="-6" image="Leaves" rotation="11.97" scalex="1" scaley="1" tilex="false" tiley="false" x="1176.64" y="1066.9" />
+<SceneLayer alpha="1" depth="-6" image="Leaves" rotation="-167.15" scalex="1" scaley="1" tilex="false" tiley="false" x="1211.97" y="927.0" />
+<SceneLayer alpha="1" depth="-8" image="Trunk" rotation="166.05" scalex="1" scaley="1" tilex="false" tiley="false" x="-644.4" y="595.95" />
+<SceneLayer alpha="1" depth="-6" image="Leaves" rotation="-112.52" scalex="0.715" scaley="0.668" tilex="false" tiley="false" x="-564.52" y="850.37" />
+<SceneLayer alpha="1" depth="-6" image="Leaves" rotation="-291.78" scalex="0.725" scaley="0.649" tilex="false" tiley="false" x="-653.27" y="885.41" />
+<SceneLayer alpha="1" depth="-8" image="Trunk" rotation="209.56" scalex="0.937" scaley="1.114" tilex="false" tiley="false" x="-1017.68" y="743.82" />
+<SceneLayer alpha="1" depth="-9" image="Leaves" rotation="-69.9" scalex="0.63" scaley="0.619" tilex="false" tiley="false" x="-1056.93" y="585.6" />
+<SceneLayer alpha="1" depth="-9" image="Leaves" rotation="-10.8" scalex="0.505" scaley="0.491" tilex="false" tiley="false" x="-834.48" y="532.4" />
+<SceneLayer alpha="1" depth="-9" image="Leaves" rotation="-203.23" scalex="0.363" scaley="0.357" tilex="false" tiley="false" x="-655.96" y="464.96" />
+<SceneLayer alpha="1" depth="-9" image="Leaves" rotation="-86.33" scalex="0.363" scaley="0.357" tilex="false" tiley="false" x="-628.16" y="493.44" />
+<SceneLayer alpha="1" depth="-40" image="Trunk" rotation="353.51" scalex="1" scaley="1" tilex="false" tiley="false" x="-1027.14" y="542.97" />
+<SceneLayer alpha="1" depth="-38" image="Leaves" rotation="-247.71" scalex="0.725" scaley="0.649" tilex="false" tiley="false" x="-1020.08" y="773.26" />
+<SceneLayer alpha="1" depth="-38" image="Leaves" rotation="-67.61" scalex="0.715" scaley="0.668" tilex="false" tiley="false" x="-932.18" y="810.52" />
+<SceneLayer alpha="1" depth="-6" image="Sign" rotation="-4.12" scalex="0.15" scaley="0.15" tilex="false" tiley="false" x="-789.7" y="628.35" />
+<SceneLayer alpha="1" depth="-3" image="SIGNSTICK_S.P." rotation="9.23" scalex="1" scaley="1.5" tilex="false" tiley="false" x="1086.68" y="649.9" />
+<circle contacts="false" id="geometry37" radius="45.29" static="true" tag="unwalkable" x="960.96" y="505.32" />
+<SceneLayer alpha="0.75" colorize="0,145,255" depth="1" image="fade" name="" rotation="0" scalex="57.204" scaley="0.403" tilex="false" tiley="false" x="84.53" y="-209.16" />
+</scene>

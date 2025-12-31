@@ -1,0 +1,19 @@
+<!-- Created by WooGLE v0.78 RC7 -->
+<ResourceManifest>
+	<Resources id="scene_Ch1F">
+		<SetDefaults idprefix="" path="./" />
+<Image id="DS" path="res/images/TBY/Useful_blacksquare" />
+<Image id="CIRCLE" path="res/images/TBY/Useful_Circle" />
+<Image id="BG" path="res/images/TBY/levelimages/sunset_sky" />
+<Sound id="Song" path="res/music/TBY/Ode_to_the_Gooball_Lover" />
+<Sound id="Sound" path="res/sounds/loop_eveningWater" />
+<Image id="BB" path="res/images/levelimages/bush_leafy_1b_black" />
+<Image id="BGHB" path="res/images/TBY/levelimages/bg_hills_bleeding" />
+<Image id="Gear" path="res/images/levelimages/gear1black" />
+<Image id="Cloud" path="res/images/levelimages/stormCloud1" />
+<Image id="Light" path="res/images/TBY/Useful_Ligt" />
+<Image id="MOM" path="res/images/TBY/levelimages/MOMsgn" />
+<Image id="SPSP" path="res/images/TBY/signpost" />
+<Image id="SPSPP" path="res/images/TBY/signpostPole" />
+</Resources>
+</ResourceManifest>

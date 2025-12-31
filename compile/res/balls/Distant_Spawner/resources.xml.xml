@@ -1,0 +1,7 @@
+<!-- Created by WooBLE v0.14 RC2 -->
+<ResourceManifest>
+<Resources id="ball_Distant_Spawner">
+<SetDefaults idprefix="" path="./" />
+<Image id="0" path="res/balls/common_black/common_ball" />
+</Resources>
+</ResourceManifest>

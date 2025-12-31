@@ -1,0 +1,28 @@
+<!-- Created by WooBLE v0.14 RC2 -->
+<ball climbspeed="2.0" detachable="true" jump="0.4,1.2" mass="30" name="Distant_" shape="circle,10,0.25" speedvariance="0.2" strands="2" towermass="7.5" walkspeed="0.1">
+
+  <marker detach="IMAGE_BALL_DISTANT__DETACHMARKER" drag="IMAGE_BALL_DISTANT__DRAGMARKER" rotspeed="2" />
+<particles id="sleepyZzz" overball="true" states="sleeping" />
+<strand dampfac="1.9" image="IMAGE_BALL_DISTANT__STRAND" inactiveimage="IMAGE_BALL_DISTANT__STRAND" maxforce="600" maxlen1="80" maxlen2="50" minlen="40" springconstmax="6" springconstmin="6" type="spring" />
+<detachstrand image="IMAGE_BALL_DISTANT__DSTRAND" maxlen="60" />
+<splat image="IMAGE_BALL_DISTANT__SPLAT1,IMAGE_BALL_DISTANT__SPLAT2" />
+<part image="IMAGE_BALL_DISTANT__BODY" layer="1" name="body" rotate="true" scale="0.2" stretch="12,2,0.5" x="0" y="0" />
+<sinvariance amp="0.1" freq="1.2" shift="0.0">
+    <sinanim amp="0.1" axis="x" freq="2.0" part="body" shift="0" state="walking" type="scale" />
+<sinanim amp="0.1" axis="y" freq="2.0" part="body" shift="0.5" state="walking" type="scale" />
+<sinanim amp="2" axis="y" freq="2.0" part="body" shift="0" state="walking" type="translate" />
+</sinvariance>
+<sinvariance amp="0.025" freq=".6" shift="0.0">
+    <sinanim amp="0.07" axis="x" freq="1.0" part="body" shift="0" state="attached" type="scale" />
+<sinanim amp="0.07" axis="y" freq="1.0" part="body" shift="0.5" state="attached" type="scale" />
+</sinvariance>
+<sinvariance amp="0.05" freq="1.5" shift="0">
+    <sinanim amp="0.2" axis="x" freq="1.0" part="body" shift="0" state="dragging" type="scale" />
+<sinanim amp="0.2" axis="y" freq="1.0" part="body" shift="0.33" state="dragging" type="scale" />
+</sinvariance>
+<sinvariance amp="0.1" freq="1.2" shift="0.0">
+    <sinanim amp="0.1" axis="x" freq="2.0" part="body" shift="0" state="climbing" type="scale" />
+<sinanim amp="0.1" axis="y" freq="2.0" part="body" shift="0.5" state="climbing" type="scale" />
+<sinanim amp="2" axis="y" freq="2.0" part="body" shift="0" state="climbing" type="translate" />
+</sinvariance>
+</ball>

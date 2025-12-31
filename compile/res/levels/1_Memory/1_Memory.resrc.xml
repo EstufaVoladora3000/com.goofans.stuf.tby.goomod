@@ -1,0 +1,21 @@
+<!-- Created by WooGLE v0.78 RC7 -->
+<ResourceManifest>
+	<Resources id="scene_1_Memory">
+		<SetDefaults idprefix="" path="./" />
+<Sound id="Song" path="res/music/TBY/Re-tumbler-Loop" />
+<Image id="Tower_of_Goo_Sign" path="res/images/TBY/levelimages/ToG_sign" />
+<Image id="leaves" path="res/images/levelimages/bush_fg1a" />
+<Image id="BG_VEGGIES" path="res/images/levelimages/bgVeggies" />
+<Image id="arbustoL" path="res/images/levelimages/bush_leafy_1" />
+<Image id="arbustoR" path="res/images/levelimages/bush_leafy_1b" />
+<Image id="Tronco" path="res/images/levelimages/tree_stripe1" />
+<Image id="Arbol" path="res/images/levelimages/tree_sil_1" />
+<Image id="nube" path="res/images/levelimages/wogcCloud1" />
+<Image id="BG" path="res/images/TBY/levelimages/Mbg" />
+<Image id="SUN" path="res/images/TBY/levelimages/sun" />
+<Image id="Star" path="res/images/TBY/star" />
+<Image id="piso" path="res/images/TBY/levelimages/GHM" />
+<Image id="SPSPP" path="res/images/TBY/signpostPole" />
+<Image id="SPSP" path="res/images/TBY/signpost" />
+</Resources>
+</ResourceManifest>

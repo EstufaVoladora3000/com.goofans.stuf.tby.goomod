@@ -1,0 +1,9 @@
+<scene>
+  <buttongroup id="gamemenugroup" osx="140,1.12">
+    <button depth="1" font="FONT_OUTLINE_18" id="restart" onclick="restartlevelrightnow" over="IMAGE_SCENE_GAME_MENU_BUTTON_OVER" rotation="0" scalex="1.15" scaley="1.15" text="RESTART_BUTTON_TEXT" up="IMAGE_SCENE_GAME_MENU_BUTTON" x="0" y="104" />
+    <button depth="1" font="FONT_OUTLINE_18" id="backtoisland" onclick="backtoisland" over="IMAGE_SCENE_GAME_MENU_BUTTON_OVER" rotation="0" scalex="1.15" scaley="1.15" text="BACK_TO_ISLAND_BUTTON_TEXT" up="IMAGE_SCENE_GAME_MENU_BUTTON" x="0" y="-26" />
+    <button depth="1" font="FONT_OUTLINE_18" id="ocdcriteria" onclick="showocdcriteria" over="IMAGE_SCENE_GAME_MENU_BUTTON_OVER" rotation="0" scalex="1.15" scaley="1.15" text="OCD_CRITERIA_BUTTON_TEXT" up="IMAGE_SCENE_GAME_MENU_BUTTON" x="0" y="40" />
+    <button depth="1" font="FONT_OUTLINE_18" id="resume" onclick="resumegame" over="IMAGE_SCENE_GAME_MENU_BUTTON_OVER" rotation="0" scalex="1.15" scaley="1.15" text="RESUME_BUTTON_TEXT" up="IMAGE_SCENE_GAME_MENU_BUTTON" x="0" y="-104" />
+    <button depth="1" font="FONT_OUTLINE_18" id="quitgame" onclick="quit" over="IMAGE_SCENE_GAME_MENU_BUTTON_OVER" rotation="0" scalex="0.8" scaley="1" text="QUIT_GAME_BUTTON_TEXT" up="IMAGE_SCENE_GAME_MENU_BUTTON" x="-300" y="-160" />
+  </buttongroup>
+</scene>

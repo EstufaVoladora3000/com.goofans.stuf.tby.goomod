@@ -1,0 +1,26 @@
+<ResourceManifest>
+	<Resources id="movie_2dboyLogo">
+		<SetDefaults idprefix="" path="./" />
+<Image id="Fader" path="res/images/TBY/Fade" />
+<Image id="DISTANTTOWER" path="res/movie/Chapter5End/distantTower" />
+<Image id="TELESCOPEBIG" path="res/movie/Chapter5End/telescopeBig" />
+<Image id="S1_BG" path="res/movie/Chapter5End/s1_bg" />
+<Image id="BLK" path="res/images/TBY/Useful_blacksquare" />
+<Image id="MEMORIES" path="res/images/TBY/animimages/Memories" />
+<Image id="TOMORROWC" path="res/images/TBY/animimages/TOMORROW_CORP" />
+<Image id="SUN" path="res/images/TBY/animimages/Tomorrow&apos;s_Sun" />
+<Image id="SunLigt" path="res/images/TBY/animimages/TomorrowLit" />
+<Image id="LOGO_LIGT" path="res/images/TBY/Useful_Ligt" />
+<Image id="MEMORY_WoGC" path="res/images/TBY/animimages/WoGC" />
+<Image id="lit" path="res/images/TBY/lensFlare" />
+<Image id="2DBOY" path="res/movie/credits/2dboy" />
+<Image id="TBG" path="res/levels/island5/bg" />
+<Sound id="Intro" path="res/movie/_generic/lightson" />
+<Image id="TV_CHN" path="res/movie/Chapter5End/tv_chn" />
+<Image id="POSTER" path="res/movie/WagIntro/Poster" />
+<Image id="WORLD" path="res/levels/MapWorldView/title_WORLD" />
+<Image id="OF" path="res/images/TBY/animimages/title_OF" />
+<Image id="GOO" path="res/levels/MapWorldView/title_GOO" />
+<Image id="TBY" path="res/images/TBY/TBY" />
+</Resources>
+</ResourceManifest>

@@ -1,0 +1,16 @@
+<scene backgroundcolor="0,0,0" maxx="400" maxy="300" minx="-400" miny="-300">
+
+	
+
+	
+
+	
+  <SceneLayer context="screen" depth="0.1" id="newmail" image="IMAGE_SCENE_ISLANDUI_NEWMAIL" rotation="10.13" scalex="0.8" scaley="0.8" x="660" y="563" />
+<buttongroup id="v" osx="60,1.1">
+    <button alpha="0.8" colorize="255,255,255" context="screen" depth="0" font="FONT_OUTLINE_18" id="zoomout" onclick="zoomout" over="IMAGE_SCENE_ISLANDUI_ZOOMOUT_OVER" rotation="0" scalex="1" scaley="1" text="BACK_BUTTON_TEXT" textcolorup="255,64,64,64" textcolorupover="255,255,255,255" up="IMAGE_SCENE_ISLANDUI_ZOOMOUT_UP" x="79" y="545" />
+</buttongroup>
+<buttongroup id="extraUiGroup" osx="120,1.01">
+    <button alpha="1" colorize="255,255,255" context="screen" depth="0" id="gotoWorldOfGooCorp" onclick="wogcorp_from_island" over="IMAGE_SCENE_ISLANDUI_WOGC_BUTTON_OVER" rotation="0" scalex="0.5" scaley="0.5" up="IMAGE_SCENE_ISLANDUI_WOGC_BUTTON_UP" x="700" y="560" />
+</buttongroup>
+<label align="center" depth="0" font="FONT_OUTLINE_18" id="newballs" overlay="false" rotation="6.337" scale="0.48" screenspace="true" text="LABEL_PLUS_X" x="655" y="573" />
+</scene>

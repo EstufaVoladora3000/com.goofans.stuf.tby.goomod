@@ -1,0 +1,55 @@
+<ResourceManifest>
+	<Resources id="scene_MapWorldView">
+		<SetDefaults idprefix="" path="./" />
+<Sound id="N2" path="res/music/RCE-O-M" />
+<Image id="BlackSign" path="res/images/TBY/TitleBlackSign" />
+<Image id="Nilisland" path="res/images/TBY/icon_chN" />
+<Image id="Dome" path="res/images/TBY/Dome" />
+<Image id="DomeNight" path="res/images/TBY/Dome[Night]" />
+<Image id="DomeNil" path="res/images/TBY/Dome[Nil]" />
+<Image id="TBY" path="res/images/TBY/TBY" />
+<Image id="NEWMAIL" path="res/images/newmail" />
+<Image id="GLOBE_SHADOW" path="res/images/TBY/Useful_Circle" />
+<Image id="WINDMILLPROPELLERSMALL" path="res/images/levelimages/windmillPropellerSmall" />
+<Image id="GEAR1BLURGRAY" path="res/images/levelimages/gear1blurGray" />
+<Image id="LETTERBOX_TOP" path="res/levels/MapWorldView/letterbox_top" />
+<Image id="SWIRLMIST" path="res/images/levelimages/swirlMist" />
+<Image id="SWIRLCLOUDS" path="res/images/levelimages/swirlClouds" />
+<Image id="TITLE_WORLD" path="res/levels/MapWorldView/title_WORLD" />
+<Image id="TITLE_OF" path="res/images/TBY/animimages/title_OF" />
+<Image id="TITLE_GOO" path="res/levels/MapWorldView/title_GOO" />
+<Image id="BURST" path="res/images/levelimages/burst" />
+<Image id="BG" path="res/images/TBY/TitleBG" />
+<Image id="MM_PROFILES_OVER" path="res/levels/MapWorldView/mm_profiles_over" />
+<Image id="MM_PROFILES_UP" path="res/levels/MapWorldView/mm_profiles_up" />
+<Image id="MM_CREDITS_OVER" path="res/levels/MapWorldView/mm_credits_over" />
+<Image id="MM_CREDITS_UP" path="res/levels/MapWorldView/mm_credits_up" />
+<Image id="MM_EXIT_OVER" path="res/levels/MapWorldView/mm_exit_over" />
+<Image id="MM_EXIT_UP" path="res/levels/MapWorldView/mm_exit_up" />
+<Image id="II_C1_OVER" path="res/images/TBY/icon_ch1" />
+<Image id="II_C1_UP" path="res/images/TBY/icon_ch1[Night]" />
+<Image id="II_C2_OVER" path="res/levels/MapWorldView/ii_c2_over" />
+<Image id="II_C2_DISABLED" path="res/levels/MapWorldView/ii_c2_disabled" />
+<Image id="II_C2_UP" path="res/levels/MapWorldView/ii_c2_up" />
+<Image id="II_C4_OVER" path="res/levels/MapWorldView/ii_c4_over" />
+<Image id="II_C4_DISABLED" path="res/levels/MapWorldView/ii_c4_disabled" />
+<Image id="II_C4_UP" path="res/levels/MapWorldView/ii_c4_up" />
+<Image id="II_C3_OVER" path="res/levels/MapWorldView/ii_c3_over" />
+<Image id="II_C3_DISABLED" path="res/levels/MapWorldView/ii_c3_disabled" />
+<Image id="II_C3_UP" path="res/levels/MapWorldView/ii_c3_up" />
+<Image id="II_C5_OVER" path="res/levels/MapWorldView/ii_c5_over" />
+<Image id="II_C5_DISABLED" path="res/levels/MapWorldView/ii_c5_disabled" />
+<Image id="II_C5_UP" path="res/levels/MapWorldView/ii_c5_up" />
+<Image id="II_WOGC_OVER" path="res/levels/MapWorldView/ii_wogc_over" />
+<Image id="II_WOGC_DISABLED" path="res/levels/MapWorldView/ii_wogc_disabled" />
+<Image id="II_WOGC_UP" path="res/levels/MapWorldView/ii_wogc_up" />
+<Image id="II_WOGC3D_OVER" path="res/levels/MapWorldView/ii_wogc3d_over" />
+<Image id="II_WOGC3D_UP" path="res/levels/MapWorldView/ii_wogc3d_up" />
+<Image id="II_WOGCD_OVER" path="res/levels/MapWorldView/ii_wogcd_over" />
+<Image id="II_WOGCD_UP" path="res/levels/MapWorldView/ii_wogcd_up" />
+<Image id="II_C6_OVER" path="res/levels/MapWorldView/ii_c6_over" />
+<Image id="II_C6_DISABLED" path="res/levels/MapWorldView/ii_c6_disabled" />
+<Image id="II_C6_UP" path="res/levels/MapWorldView/ii_c6_up" />
+<Image id="ADGS" path="res/images/TBY/adgs" />
+</Resources>
+</ResourceManifest>

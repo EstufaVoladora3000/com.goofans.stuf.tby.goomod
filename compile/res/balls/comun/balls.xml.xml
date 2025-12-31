@@ -1,0 +1,65 @@
+<!-- Created by WooBLE v0.14 RC2 -->
+<ball blinkcolor="0,0,0" climbspeed="2.0" detachable="false" jump="0.0,0.3" mass="30" name="comun" shape="circle,30,0.25" speedvariance="0.2" strands="2" towermass="3.0" walkforce="500" walkspeed="0.1">
+
+	
+  <marker detach="IMAGE_BALL_COMUN_DRAGMARKER_P1" drag="IMAGE_BALL_COMUN_DRAGMARKER_P1" rotspeed="-2" />
+<shadow image="IMAGE_BALL_GENERIC_SHADOW1" />
+<particles id="sleepyZzz" overball="true" states="sleeping" />
+<strand dampfac="0.9" image="IMAGE_BALL_COMUN_STRAND" inactiveimage="IMAGE_BALL_GENERIC_ARM_INACTIVE" maxforce="1000" maxlen1="200" maxlen2="140" minlen="100" springconstmax="9" springconstmin="9" type="spring" />
+<detachstrand image="IMAGE_BALL_COMUN_STRAND" maxlen="60" />
+<splat image="IMAGE_BALL_COMUN_SPLAT1,IMAGE_BALL_COMUN_SPLAT2" />
+<part image="IMAGE_BALL_COMUN_BODY" layer="1" name="body" scale="0.125" stretch="16,2,0.5" x="0" y="0" />
+<part image="IMAGE_BALL_COMUN_HILITE128" layer="2" name="hilite1" scale="0.055" state="standing,walking,tank,attached,stuck_attached,sleeping,pipe,stuck,detaching,stuck_detaching,climbing,falling,dragging" x="-5,0" y="6,10" />
+<part image="IMAGE_BALL_COMUN_HILITE64" layer="2" name="hilite2" scale="0.07" state="standing,walking,tank,attached,stuck_attached,sleeping,pipe,stuck,detaching,stuck_detaching,climbing,falling,dragging" x="-10,-6" y="0,5" />
+<part eye="true" image="IMAGE_BALL_GENERIC_EYE_GLASS_1,IMAGE_BALL_GENERIC_EYE_GLASS_2,IMAGE_BALL_GENERIC_EYE_GLASS_3" layer="2" name="lefteye" pupil="IMAGE_BALL_GENERIC_PUPIL1" pupilinset="12" rotate="true" scale="0.5" state="climbing,walking,falling,dragging,detaching,standing,tank" x="-12,-8" xrange="-18,0" y="-5,5" yrange="-12,12" />
+<part eye="true" image="IMAGE_BALL_GENERIC_EYE_GLASS_1,IMAGE_BALL_GENERIC_EYE_GLASS_2,IMAGE_BALL_GENERIC_EYE_GLASS_3" layer="2" name="righteye" pupil="IMAGE_BALL_GENERIC_PUPIL1" pupilinset="12" rotate="true" scale="0.5" state="climbing,walking,falling,dragging,detaching,standing,tank" x="8,12" xrange="0,18" y="-5,5" yrange="-12,12" />
+<sinvariance amp="0.1" freq="1.2" shift="0.0">
+    <sinanim amp="0.1" axis="x" freq="2.0" part="body" shift="0" state="walking" type="scale" />
+<sinanim amp="0.1" axis="y" freq="2.0" part="body" shift="0.5" state="walking" type="scale" />
+<sinanim amp="2" axis="y" freq="2.0" part="body" shift="0" state="walking" type="translate" />
+<sinanim amp="2" axis="y" freq="2.0" part="lefteye,righteye" shift="0" state="walking" type="translate" />
+<sinanim amp="0.5" axis="x" freq="2.0" part="righteye" shift="0" state="walking" type="translate" />
+<sinanim amp="0.5" axis="x" freq="2.0" part="lefteye" shift="0.5" state="walking" type="translate" />
+</sinvariance>
+<sinvariance amp="0.025" freq=".6" shift="0.0">
+    <sinanim amp="0.07" axis="x" freq="1.0" part="body" shift="0" state="attached" type="scale" />
+<sinanim amp="0.07" axis="y" freq="1.0" part="body" shift="0.5" state="attached" type="scale" />
+<sinanim amp="0.07" axis="x" freq="1.0" part="hilite1,hilite2" shift="0" state="attached" type="scale" />
+<sinanim amp="0.07" axis="y" freq="1.0" part="hilite1,hilite2" shift="0.5" state="attached" type="scale" />
+</sinvariance>
+<sinvariance amp="0.05" freq="1.5" shift="0">
+    <sinanim amp="0.2" axis="x" freq="1.0" part="body" shift="0" state="dragging" type="scale" />
+<sinanim amp="0.2" axis="y" freq="1.0" part="body" shift="0.33" state="dragging" type="scale" />
+</sinvariance>
+<sinvariance amp="0.5" freq="1.5" shift="0">
+    <sinanim amp="-1" axis="x" freq="1.0" part="righteye" shift="0" state="dragging" type="translate" />
+<sinanim amp="1" axis="x" freq="1.0" part="lefteye" shift="0" state="dragging" type="translate" />
+</sinvariance>
+<sinvariance amp="0.1" freq="1.2" shift="0.0">
+    <sinanim amp="0.1" axis="x" freq="2.0" part="body" shift="0" state="climbing" type="scale" />
+<sinanim amp="0.1" axis="y" freq="2.0" part="body" shift="0.5" state="climbing" type="scale" />
+<sinanim amp="2" axis="y" freq="2.0" part="body" shift="0" state="climbing" type="translate" />
+<sinanim amp="2" axis="y" freq="2.0" part="lefteye,righteye" shift="0" state="climbing" type="translate" />
+<sinanim amp="0.5" axis="x" freq="2.0" part="righteye" shift="0" state="climbing" type="translate" />
+<sinanim amp="0.5" axis="x" freq="2.0" part="lefteye" shift="0.5" state="climbing" type="translate" />
+</sinvariance>
+<sinvariance amp="0.02" freq="0.3" shift="0.0">
+    <sinanim amp="0.06" axis="x" freq="1.0" part="body" shift="0" state="tank" type="scale" />
+<sinanim amp="0.06" axis="y" freq="1.0" part="body" shift="0.5" state="tank" type="scale" />
+<sinanim amp="0.2" axis="x" freq="1.0" part="righteye" shift="0" state="tank" type="translate" />
+<sinanim amp="0.2" axis="x" freq="1.0" part="lefteye" shift="0.5" state="tank" type="translate" />
+</sinvariance>
+<sinvariance amp="1" freq="0.1" shift="0.0">
+    <sinanim amp="3" axis="y" freq="0.4" part="body,lefteye,righteye" shift="0" state="tank" type="translate" />
+</sinvariance>
+<sound event="marker" id="SOUND_BALL_GENERIC_ROLLOVER1,SOUND_BALL_GENERIC_ROLLOVER2,SOUND_BALL_GENERIC_ROLLOVER3,SOUND_BALL_GENERIC_ROLLOVER4,SOUND_BALL_GENERIC_ROLLOVER5,SOUND_BALL_GENERIC_ROLLOVER6,SOUND_BALL_GENERIC_ROLLOVER7,SOUND_BALL_GENERIC_ROLLOVER8" />
+<sound event="pickup" id="SOUND_BALL_COMUN_SQUEAK01,SOUND_BALL_COMUN_SQUEAK02,SOUND_BALL_COMUN_SQUEAK03,SOUND_BALL_COMUN_SQUEAK04,SOUND_BALL_COMUN_SQUEAK05,SOUND_BALL_COMUN_SQUEAK06,SOUND_BALL_COMUN_SQUEAK07,SOUND_BALL_COMUN_SQUEAK08,SOUND_BALL_COMUN_SQUEAK09,SOUND_BALL_COMUN_SQUEAK10,SOUND_BALL_COMUN_SQUEAK11,SOUND_BALL_COMUN_SQUEAK12,SOUND_BALL_COMUN_SQUEAK13,SOUND_BALL_COMUN_SQUEAK14,SOUND_BALL_COMUN_SQUEAK15,SOUND_BALL_COMUN_SQUEAK16" />
+<sound event="drop" id="SOUND_BALL_GENERIC_MUMBLE1,SOUND_BALL_GENERIC_MUMBLE2,SOUND_BALL_GENERIC_MUMBLE3,SOUND_BALL_GENERIC_MUMBLE4,SOUND_BALL_GENERIC_MUMBLE5,SOUND_BALL_GENERIC_MUMBLE6,SOUND_BALL_GENERIC_MUMBLE7" />
+<sound event="throw" id="SOUND_BALL_GENERIC_MUMBLE1,SOUND_BALL_GENERIC_MUMBLE2,SOUND_BALL_GENERIC_MUMBLE3,SOUND_BALL_GENERIC_MUMBLE4,SOUND_BALL_GENERIC_MUMBLE5,SOUND_BALL_GENERIC_MUMBLE6,SOUND_BALL_GENERIC_MUMBLE7" />
+<sound event="bounce" id="SOUND_BALL_GENERIC_BOUNCE1,SOUND_BALL_GENERIC_BOUNCE2,SOUND_BALL_GENERIC_BOUNCE3,SOUND_BALL_GENERIC_BOUNCE4" />
+<sound event="land" id="SOUND_BALL_GENERIC_STICK1,SOUND_BALL_GENERIC_STICK2,SOUND_BALL_GENERIC_STICK3,SOUND_BALL_GENERIC_STICK4,SOUND_BALL_GENERIC_STICK5,SOUND_BALL_GENERIC_STICK6" />
+<sound event="attach" id="SOUND_BALL_GENERIC_ATTACH01,SOUND_BALL_GENERIC_ATTACH02,SOUND_BALL_GENERIC_ATTACH03,SOUND_BALL_GENERIC_STICK1,SOUND_BALL_GENERIC_STICK2,SOUND_BALL_GENERIC_STICK3,SOUND_BALL_GENERIC_STICK4,SOUND_BALL_GENERIC_STICK5,SOUND_BALL_GENERIC_STICK6" />
+<sound event="attachcloser" id="SOUND_BALL_GENERIC_GLEE1,SOUND_BALL_GENERIC_GLEE2,SOUND_BALL_GENERIC_GLEE3,SOUND_BALL_GENERIC_GLEE4,SOUND_BALL_GENERIC_GLEE5,SOUND_BALL_GENERIC_GLEE6,SOUND_BALL_GENERIC_GLEE7,SOUND_BALL_GENERIC_GLEE8,SOUND_BALL_GENERIC_GLEE9,SOUND_BALL_GENERIC_GLEE10,SOUND_BALL_GENERIC_GLEE11" />
+<sound event="death" id="SOUND_BALL_GENERIC_DEATH1,SOUND_BALL_GENERIC_DEATH2,SOUND_BALL_GENERIC_DEATH3,SOUND_BALL_GENERIC_DEATH4,SOUND_BALL_GENERIC_DEATH5" />
+<sound event="suction" id="SOUND_BALL_GENERIC_DETACHED1" />
+</ball>

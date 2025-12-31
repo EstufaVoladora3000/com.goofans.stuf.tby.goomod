@@ -1,0 +1,23 @@
+<!-- Created by WooBLE v0.14 RC2 -->
+<ball alwayslookatmouse="true" autoboundsunattached="true" blinkcolor="0,0,0" climbspeed="1.8" detachable="true" draggable="true" hideeyes="false" hingedrag="false" jump="0.4,1.2" jumponwakeup="true" mass="15" material="BeautyBall" name="Goolden" shape="circle,35,0.125" speedvariance="0.2" staticwhensleeping="true" strands="10" suckable="true" towermass="2" walkforce="1" walkspeed="0.05">
+
+  <marker detach="3" drag="2" rotspeed="-2.5" />
+<particles id="sleepyZzz" overball="true" states="sleeping" />
+<particles id="fireArmBurn" overball="true" states="pipe,detaching,falling" />
+<strand dampfac="0.2" image="strand" inactiveimage="inactive" mass="15" maxforce="300" maxlen1="200" maxlen2="150" minlen="100" shrinklen="130" springconstmax="7.5" springconstmin="6.5" type="spring" walkable="true" />
+<detachstrand image="Glow" maxlen="200" />
+<splat image="splat,splat" />
+<part image="Glow" name="wodahs" rotate="true" scale="0.253" x="0.0" y="0.0" />
+<part image="Glow" name="what" rotate="true" scale="0.207" stretch="16,2,0.5" x="0" y="0" />
+<part image="IMAGE_BALL_GOOLDEN_BODY" layer="1" name="body" rotate="true" scale="0.33" state="standing,walking,tank,attached,sleeping,pipe,detaching,climbing,falling,dragging" stretch="16,2,0.5" x="0.0" y="0.0" />
+<part eye="true" image="IMAGE_BALL_GOOLDEN_NOTHING" layer="1" name="eye" pupil="ojo" pupilinset="13" rotate="true" scale="0.35" state="walking,tank,detaching,stuck_detaching,climbing,dragging" x="0,0" xrange="-5.0,5.0" y="0,0" yrange="-5.0,5.0" />
+<sinvariance amp="0.1" freq="1.2" shift="0.0">
+    <sinanim amp="0.1" axis="x" freq="2.0" part="body" shift="0" state="falling" type="scale" />
+<sinanim amp="0.1" axis="y" freq="2.0" part="body" shift="0.5" state="falling" type="scale" />
+<sinanim amp="2" axis="y" freq="2.0" part="body" shift="0" state="falling" type="translate" />
+</sinvariance>
+<sinvariance amp="0.1" freq="1.2" shift="0.0">
+<sinanim amp="0.1" axis="x" freq="2.0" part="wodahs" shift="1" state="standing,walking,tank,attached,sleeping,pipe,detaching,climbing,falling" type="scale" />
+<sinanim amp="0.1" axis="y" freq="2.0" part="wodahs" shift="1" state="standing,walking,tank,attached,sleeping,pipe,detaching,climbing,falling" type="scale" />
+</sinvariance>
+</ball>

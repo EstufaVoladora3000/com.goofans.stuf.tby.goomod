@@ -1,0 +1,16 @@
+<!-- Created by WooBLE v0.14 RC2 -->
+<ResourceManifest>
+<Resources id="ball_alt_pokey">
+<SetDefaults idprefix="" path="./" />
+<Image id="BODY" path="res/balls/Pokey/body" />
+<Image id="BODYSTUCK" path="res/balls/Pokey/bodyStuck" />
+<Image id="STRAND" path="res/balls/Pokey/arm_connected" />
+<Image id="DSTRAND" path="res/balls/Pokey/arm_detach" />
+<Image id="SPLAT1" path="res/balls/Pokey/splat1" />
+<Image id="SPLAT2" path="res/balls/Pokey/splat2" />
+<Image id="DRAGMARKER_P1" path="res/balls/_generic/dragmarker_80_p1" />
+<Image id="DRAGMARKER_P2" path="res/balls/_generic/dragmarker_80_p2" />
+<Image id="DETACHMARKER_P1" path="res/balls/_generic/detachmarker_80_p1" />
+<Image id="DETACHMARKER_P2" path="res/balls/_generic/detachmarker_80_p2" />
+</Resources>
+</ResourceManifest>

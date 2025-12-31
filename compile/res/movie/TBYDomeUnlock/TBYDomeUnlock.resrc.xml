@@ -1,0 +1,14 @@
+<ResourceManifest>
+	<Resources id="movie_TBYDomeUnlock">
+		<SetDefaults idprefix="" path="./" />
+<Image id="BlackSquare" path="res/images/TBY/Useful_blacksquare" />
+<Image id="S2BG" path="res/movie/_generic/s2bg" />
+<Image id="G0" path="res/movie/_generic/girl0" />
+<Image id="G1" path="res/movie/_generic/girl1" />
+<Image id="G2" path="res/movie/_generic/girl2" />
+<Image id="G3" path="res/movie/_generic/girl3" />
+<Image id="SPP" path="res/images/TBY/animimages/SignPost_Pole" />
+<Image id="RITAD" path="res/images/TBY/animimages/DomeAd" />
+<Sound id="GPCDUS" path="res/sounds/TBY/GPCDomeUnlocks" />
+</Resources>
+</ResourceManifest>

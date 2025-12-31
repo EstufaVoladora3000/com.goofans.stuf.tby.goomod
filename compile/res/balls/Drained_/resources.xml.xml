@@ -1,0 +1,37 @@
+<ResourceManifest>
+
+  <Resources id="ball_Drained_">
+
+    
+    <SetDefaults idprefix="" path="./" />
+<Image id="BODY" path="res/balls/Drained_/body" />
+<Image id="STRAND" path="res/balls/Drained_/spring_goo" />
+<Image id="SPLAT1" path="res/balls/Drained_/splat1" />
+<Image id="SPLAT2" path="res/balls/Drained_/splat2" />
+<SetDefaults idprefix="" path="./" />
+<Image id="DRAGMARKER_P1" path="res/balls/_generic/dragmarker_80_p1" />
+<Image id="DETACHMARKER_P1" path="res/balls/_generic/detachmarker_80_p1" />
+<SetDefaults idprefix="" path="./" />
+<Sound id="SQUEAK01" path="res/balls/common/batsqueak01" />
+<Sound id="SQUEAK02" path="res/balls/common/batsqueak02" />
+<Sound id="SQUEAK03" path="res/balls/common/batsqueak03" />
+<Sound id="SQUEAK04" path="res/balls/common/batsqueak04" />
+<Sound id="SQUEAK05" path="res/balls/common/batsqueak05" />
+<Sound id="SQUEAK06" path="res/balls/common/batsqueak06" />
+<Sound id="SQUEAK07" path="res/balls/common/batsqueak07" />
+<Sound id="SQUEAK08" path="res/balls/common/batsqueak08" />
+<Sound id="SQUEAK09" path="res/balls/common/batsqueak09" />
+<Sound id="SQUEAK10" path="res/balls/common/batsqueak10" />
+<Sound id="SQUEAK11" path="res/balls/common/batsqueak11" />
+<Sound id="SQUEAK12" path="res/balls/common/batsqueak12" />
+<Sound id="SQUEAK13" path="res/balls/common/batsqueak13" />
+<Sound id="SQUEAK14" path="res/balls/common/batsqueak14" />
+<Sound id="SQUEAK15" path="res/balls/common/batsqueak15" />
+<Sound id="SQUEAK16" path="res/balls/common/batsqueak16" />
+<Image id="eye1" path="res/balls/_generic/eye_glass_1R" />
+<Image id="eye2" path="res/balls/_generic/eye_glass_2R" />
+<Image id="strand_pull" path="res/balls/Drained_/strand_pull" />
+<Image id="PUPILR" path="res/balls/Drained_/pupil2" />
+<Image id="air" path="res/balls/Drained_/Nothing" />
+</Resources>
+</ResourceManifest>

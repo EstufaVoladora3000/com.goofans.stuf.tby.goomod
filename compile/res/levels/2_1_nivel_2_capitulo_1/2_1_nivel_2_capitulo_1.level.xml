@@ -1,0 +1,94 @@
+<!-- Created by WooGLE v0.78 RC7 -->
+<level allowskip="false" autobounds="false" ballsrequired="16" letterboxed="false" retrytime="60" strandgeom="false" textcolor="255,255,255" timebugprobability="0.1" visualdebug="false">
+
+	
+	<camera aspect="normal" endpos="19.94,339.73" endzoom="0.66">
+		<poi pause="0" pos="-502.1,650.17" traveltime="0" zoom="2" />
+<poi pause="0" pos="-255.45,532.38" traveltime="3" zoom="0.9" />
+</camera>
+<camera aspect="widescreen" endpos="20.44,363.43" endzoom="0.8">
+		<poi pause="0" pos="-468.79,651.23" traveltime="0" zoom="2.2" />
+<poi pause="0" pos="-197.7,566.75" traveltime="3" zoom="1" />
+</camera>
+<levelexit id="theExit" pos="370.56,196.81" radius="75">
+	</levelexit>
+<pipe>
+<Vertex x="370.56" y="196.81" />
+<Vertex x="704.99" y="196.81" />
+<Vertex x="704.99" y="427.32" />
+<Vertex x="497.56" y="427.32" />
+<Vertex x="497.56" y="37.8" />
+<Vertex x="799.58" y="37.8" />
+</pipe>
+<BallInstance angle="0" id="goo2" type="comun" x="-557.37" y="583.16" />
+<BallInstance angle="0" id="goo3" type="comun" x="-541.2" y="689.66" />
+<BallInstance angle="0" id="goo4" type="comun" x="-653.49" y="707.2" />
+<BallInstance angle="0" discovered="false" id="goo7" type="comun" x="-600.36" y="644.79" />
+<BallInstance angle="0" id="goo8" type="comun" x="-598.62" y="646.03" />
+<BallInstance angle="0" id="goo9" type="comun" x="-614.76" y="642.81" />
+<BallInstance angle="0" id="goo10" type="comun" x="-613.61" y="640.09" />
+<BallInstance angle="0" id="goo11" type="comun" x="-615.97" y="648.04" />
+<BallInstance angle="0" id="goo12" type="comun" x="-594.6" y="654.31" />
+<BallInstance angle="0" id="goo13" type="comun" x="-609.7" y="649.11" />
+<BallInstance angle="0" id="goo14" type="comun" x="-607.3" y="644.78" />
+<BallInstance angle="0" id="goo15" type="GooProduct" x="-615.55" y="657.93" />
+<BallInstance angle="0" id="goo17" type="GooProduct" x="-595.57" y="649.22" />
+<BallInstance angle="0" id="goo19" type="GooProduct" x="-603.93" y="645.77" />
+<BallInstance angle="0" id="goo20" type="GooProduct" x="-604.01" y="647.53" />
+<BallInstance angle="0" id="goo21" type="comun" x="-612.54" y="642.45" />
+<Strand gb1="goo2" gb2="goo3" />
+<Strand gb1="goo3" gb2="goo4" />
+<Strand gb1="goo2" gb2="goo4" />
+<BallInstance angle="0" id="goo22" type="comun" x="-605.08" y="650.99" />
+<BallInstance angle="0" discovered="false" id="goo23" type="comun" x="447.53" y="347.04" />
+<BallInstance angle="0" discovered="false" id="goo24" type="comun" x="630.44" y="154.53" />
+<BallInstance angle="0" discovered="false" id="goo25" type="comun" x="581.11" y="391.88" />
+<BallInstance angle="0" discovered="false" id="goo26" type="comun" x="666.58" y="302.17" />
+<BallInstance angle="0" discovered="false" id="goo27" type="comun" x="486.79" y="150.05" />
+<BallInstance angle="0" discovered="false" id="goo28" type="comun" x="546.03" y="249.4" />
+<BallInstance angle="0" discovered="false" id="goo1" type="Anchor_Common" x="-674.13" y="595.89" />
+<Strand gb1="goo1" gb2="goo3" />
+<Strand gb1="goo1" gb2="goo2" />
+<Strand gb1="goo1" gb2="goo4" />
+<BallInstance angle="0" discovered="false" id="goo36" type="water" x="-210.66" y="917.5" />
+<BallInstance angle="0" discovered="false" id="goo37" type="water" x="-259.67" y="917.13" />
+<BallInstance angle="0" discovered="false" id="goo38" type="water" x="-305.23" y="918.0" />
+<BallInstance angle="0" discovered="false" id="goo48" type="water" x="272.28" y="967.11" />
+<BallInstance angle="0" discovered="false" id="goo50" type="water" x="219.1" y="970.15" />
+<BallInstance angle="0" discovered="false" id="goo51" type="water" x="155.67" y="966.94" />
+<BallInstance angle="0" discovered="false" id="goo52" type="water" x="550.61" y="677.27" />
+<BallInstance angle="0" discovered="false" id="goo53" type="water" x="495.3" y="680.3" />
+<BallInstance angle="0" discovered="false" id="goo54" type="water" x="442.27" y="677.32" />
+<BallInstance angle="0" discovered="false" id="goo55" type="water" x="43.89" y="448.42" />
+<BallInstance angle="0" discovered="false" id="goo56" type="water" x="-15.93" y="451.46" />
+<BallInstance angle="0" discovered="false" id="goo60" type="water" x="-71.83" y="448.13" />
+<BallInstance angle="0" discovered="false" id="goo5" type="Ivy" x="60.79" y="196.13" />
+<BallInstance angle="0" discovered="false" id="goo6" type="Ivy" x="203.14" y="193.47" />
+<BallInstance angle="0" discovered="false" id="goo16" type="Ivy" x="84.98" y="100.75" />
+<BallInstance angle="0" discovered="false" id="goo18" type="Ivy" x="138.43" y="247.15" />
+<BallInstance angle="0" discovered="false" id="goo33" type="Ivy" x="182.77" y="98.97" />
+<Strand gb1="goo33" gb2="goo5" />
+<Strand gb1="goo5" gb2="goo6" />
+<Strand gb1="goo6" gb2="goo18" />
+<Strand gb1="goo18" gb2="goo16" />
+<Strand gb1="goo16" gb2="goo33" />
+<Strand gb1="goo33" gb2="goo6" />
+<Strand gb1="goo5" gb2="goo16" />
+<Strand gb1="goo5" gb2="goo18" />
+<Strand gb1="goo33" gb2="goo18" />
+<Strand gb1="goo6" gb2="goo16" />
+<signpost alpha="1" colorize="255,255,255" depth="0" image="SIGNPOST_S.P." name="Sign1" pulse="true" rotation="-16.39" scalex="0.6915" scaley="0.7075" text="ch1lv2sgn1" x="-184.81" y="379.18" />
+<BallInstance angle="0" discovered="false" id="goo29" type="comun" x="-607.32" y="638.02" />
+<BallInstance angle="0" discovered="false" id="goo30" type="comun" x="-613.58" y="644.76" />
+<BallInstance angle="0" discovered="false" id="goo31" type="comun" x="-606.8" y="646.83" />
+<BallInstance angle="0" discovered="false" id="goo32" type="comun" x="-599.02" y="647.71" />
+<BallInstance angle="0" discovered="false" id="goo34" type="comun" x="-590.17" y="641.21" />
+<BallInstance angle="0" discovered="false" id="goo35" type="comun" x="-610.135135135" y="628.981008035" />
+<BallInstance angle="0" discovered="false" id="goo39" type="comun" x="-610.96" y="645.33" />
+<BallInstance angle="0" discovered="false" id="goo40" type="comun" x="-609.55" y="649.04" />
+<BallInstance angle="0" discovered="false" id="goo41" type="comun" x="-616.72" y="631.6" />
+<BallInstance angle="0" discovered="false" id="goo42" type="comun" x="-601.79" y="645.02" />
+<BallInstance angle="0" discovered="false" id="goo43" type="comun" x="-601.16" y="646.49" />
+<BallInstance angle="0" discovered="false" id="goo44" type="comun" x="-598.16" y="647.95" />
+<music id="song" />
+</level>

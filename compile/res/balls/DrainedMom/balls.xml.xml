@@ -1,0 +1,9 @@
+<ball climber="false" climbspeed="0" collidewithattached="true" contains="40,Drained_" draggable="false" invulnerable="true" jump="0.0,0.0" mass="60" material="ServerPlatform" name="DrainedMom" popduration="0.25" popparticles="beautypop" popsound="pop" shape="circle,200" speedvariance="0" statescales="tank,0.12" strands="0" suckable="false" towermass="60" walkspeed="0">
+
+  <shadow image="shadow" />
+<part image="b" layer="0" name="body" rotate="true" scale="0.52" stretch="24,1.2,0.9" x="0" y="0" />
+<sinvariance amp="0.0045" freq="0.2" shift="0.0">
+    <sinanim amp="0.02" axis="x" freq="1" part="body" shift="0" state="falling" type="scale" />
+<sinanim amp="0.02" axis="y" freq="1" part="body" shift="0.5" state="falling" type="scale" />
+</sinvariance>
+</ball>

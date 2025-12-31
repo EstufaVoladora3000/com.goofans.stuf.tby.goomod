@@ -1,0 +1,59 @@
+<!-- Created by WooGLE v0.78 RC7 -->
+<level allowskip="true" autobounds="false" ballsrequired="15" letterboxed="false" retrytime="200" strandgeom="false" textcolor="255,255,255" timebugprobability="0.4" visualdebug="false">
+
+	
+	<camera aspect="normal" endpos="-105,500" endzoom="0.7">
+		<poi pause="0" pos="-459,258" traveltime="0" zoom="2" />
+<poi pause="0" pos="-366,304" traveltime="3" zoom="1.2" />
+</camera>
+<camera aspect="widescreen" endpos="-105,500" endzoom="0.9">
+		<poi pause="0" pos="-459,258" traveltime="0" zoom="2.2" />
+<poi pause="0" pos="-318,289" traveltime="3" zoom="1.3" />
+</camera>
+<BallInstance angle="0" discovered="false" id="1" type="GooProduct" x="270.57" y="639.94" />
+<BallInstance angle="0" id="2" type="Ivy" x="-553.44" y="175.86" />
+<BallInstance angle="0" discovered="false" id="3" type="Ivy" x="-426.56" y="338.86" />
+<BallInstance angle="0" discovered="false" id="4" type="Ivy" x="-566.72" y="316.76" />
+<BallInstance angle="0" discovered="false" id="5" type="Ivy" x="-404.45" y="202.75" />
+<BallInstance angle="0" discovered="false" id="6" type="Drained_" x="-486.85" y="263.02" />
+<BallInstance angle="0" discovered="false" id="7" type="Drained_" x="-524.39" y="285.07" />
+<BallInstance angle="0" discovered="false" id="8" type="Drained_" x="-456.71" y="297.85" />
+<BallInstance angle="0" discovered="false" id="9" type="Drained_" x="-492.47" y="299.87" />
+<BallInstance angle="0" discovered="false" id="10" type="Drained_" x="-442.06" y="267.43" />
+<BallInstance angle="0" discovered="false" id="11" type="Drained_" x="-451.46" y="234.22" />
+<BallInstance angle="0" discovered="false" id="12" type="Drained_" x="-480.98" y="217.71" />
+<BallInstance angle="0" discovered="false" id="13" type="Drained_" x="-531.72" y="252.55" />
+<BallInstance angle="0" discovered="false" id="14" type="Drained_" x="-514.73" y="224.04" />
+<BallInstance angle="0" discovered="false" id="15" type="water" x="-471.87" y="495.88" />
+<BallInstance angle="0" discovered="false" id="16" type="water" x="-395.49" y="498.23" />
+<BallInstance angle="0" discovered="false" id="17" type="water" x="-320.42" y="500.45" />
+<BallInstance angle="0" discovered="false" id="18" type="water" x="-278.72" y="1100.28" />
+<BallInstance angle="0" discovered="false" id="19" type="water" x="-194.58" y="1105.64" />
+<BallInstance angle="0" discovered="false" id="20" type="water" x="-124.92" y="1104.4" />
+<BallInstance angle="0" discovered="false" id="21" type="water" x="-409.28" y="852.83" />
+<BallInstance angle="0" discovered="false" id="22" type="water" x="-493.53" y="849.43" />
+<BallInstance angle="0" discovered="false" id="23" type="water" x="-574.18" y="850.09" />
+<BallInstance angle="0" discovered="false" id="24" type="water" x="-98.85" y="794.92" />
+<BallInstance angle="0" discovered="false" id="25" type="water" x="-28.35" y="795.4" />
+<BallInstance angle="0" discovered="false" id="26" type="water" x="54.05" y="794.26" />
+<BallInstance angle="0" discovered="false" id="27" type="water" x="192.08" y="1035.16" />
+<BallInstance angle="0" discovered="false" id="28" type="water" x="262.75" y="1035.53" />
+<BallInstance angle="0" discovered="false" id="29" type="water" x="337.42" y="1036.65" />
+<music id="m" />
+<BallInstance angle="0" discovered="false" id="30" type="GooProduct" x="392.94" y="683.81" />
+<BallInstance angle="0" discovered="false" id="31" type="GooProduct" x="182.1" y="543.67" />
+<pipe>
+<Vertex x="410" y="770" />
+<Vertex x="410" y="930" />
+<Vertex x="600" y="930" />
+</pipe>
+<levelexit pos="410,770" radius="75" />
+<Strand gb1="4" gb2="2" />
+<Strand gb1="2" gb2="5" />
+<Strand gb1="4" gb2="5" />
+<Strand gb1="3" gb2="4" />
+<Strand gb1="5" gb2="3" />
+<Strand gb1="3" gb2="2" />
+<signpost alpha="1" colorize="255,255,255" depth="0" image="SPSP" name="sgn1" rotation="5.34" scalex="0.526" scaley="0.526" text="ch1lv5sgn1" x="-288.93" y="329.33" />
+<signpost alpha="1" colorize="255,255,255" depth="-1" image="SPSP" name="sgn2" rotation="24.22" scalex="0.427" scaley="0.427" text="ch1lv5sgn2" x="298.28" y="741.69" />
+</level>

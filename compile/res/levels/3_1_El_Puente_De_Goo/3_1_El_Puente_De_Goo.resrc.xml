@@ -1,0 +1,18 @@
+<!-- Created by WooGLE v0.78 RC7 -->
+<ResourceManifest>
+	<Resources id="scene_3_1_El_Puente_De_Goo">
+		<SetDefaults idprefix="" path="./" />
+<Image id="BGV" path="res/images/levelimages/bgVeggies" />
+<Image id="BG" path="res/levels/island1/bg" />
+<Image id="ground1" path="res/images/TBY/levelimages/GBF" />
+<Image id="ground2" path="res/images/TBY/levelimages/GBF2" />
+<Sound id="Song" path="res/music/TBY/Island_Divide" />
+<Image id="fade" path="res/images/TBY/Fade" />
+<Image id="bush" path="res/images/levelimages/bush_leafy_1" />
+<Image id="SIGNPOST_S.P." path="res/images/levelimages/signpost_brown" />
+<Image id="SIGNSTICK_S.P." path="res/images/levelimages/signpostPole_brown" />
+<Image id="Leaves" path="res/images/TBY/Leaves" />
+<Image id="Trunk" path="res/images/levelimages/tree_stripe1" />
+<Image id="Sign" path="res/images/TBY/levelimages/TimeBugSign" />
+</Resources>
+</ResourceManifest>

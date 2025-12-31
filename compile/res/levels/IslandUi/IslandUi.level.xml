@@ -1,0 +1,20 @@
+<level ballsrequired="" letterboxed="false" visualdebug="false" autobounds="false" textcolor="255,255,255" timebugprobability="" >
+
+	<!-- Camera -->
+	<camera>
+		<poi pos="0,0" traveltime="0" pause="0" zoom="1" />
+	</camera>
+
+	<!-- Fire -->
+
+	<!-- Signposts -->
+
+	<!-- Pipes -->
+
+	<!-- Balls -->
+
+	<!-- Arms -->
+
+	<!-- Level Exit -->
+
+</level>

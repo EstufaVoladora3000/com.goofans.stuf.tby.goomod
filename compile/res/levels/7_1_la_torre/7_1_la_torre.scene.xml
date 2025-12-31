@@ -1,0 +1,41 @@
+<!-- Created by WooGLE v0.78 RC7 -->
+<scene backgroundcolor="0,0,0" maxx="700" maxy="1600" minx="-800" miny="150">
+	<linearforcefield antigrav="false" dampeningfactor="0" force="0,-10" type="gravity" />
+<line anchor="710,0" id="right" normal="-1,0" />
+<line anchor="-810,0" id="left" normal="1,0" />
+<line anchor="0,330" id="ground" normal="0,1" />
+<SceneLayer alpha="1" depth="-1" image="firewood" rotation="-110.36" scalex="0.638" scaley="0.303" tilex="false" tiley="false" x="-649.19" y="1285.69" />
+<SceneLayer alpha="1" depth="-1" image="firewood" rotation="-79.22" scalex="0.638" scaley="0.303" tilex="false" tiley="false" x="-660.74" y="1246.92" />
+<SceneLayer alpha="1" depth="-1" image="firewood" rotation="-47.96" scalex="0.638" scaley="0.303" tilex="false" tiley="false" x="-699.96" y="1215.13" />
+<line anchor="0,1900" id="roof" material="BouncyThing" normal="0,-1" />
+<SceneLayer alpha="1" depth="-50" image="BG" rotation="0" scalex="0.725" scaley="0.725" tilex="false" tiley="false" x="-50" y="1000" />
+<SceneLayer alpha="1" depth="1.01" image="MAIN" rotation="0" scalex="0.744" scaley="0.839" tilex="false" tiley="false" x="-50.03" y="200" />
+<SceneLayer alpha="1" depth="1" image="S" rotation="37.21" scalex="0.776" scaley="0.72" tilex="false" tiley="false" x="-335.84" y="645.74" />
+<SceneLayer alpha="1" depth="1" image="S" rotation="218.57" scalex="0.776" scaley="0.72" tilex="false" tiley="false" x="903.69" y="539.9" />
+<SceneLayer alpha="1" depth="1" image="Thing" rotation="0" scalex="1" scaley="1" tilex="false" tiley="false" x="-550.7" y="1006.63" />
+<SceneLayer alpha="1" depth="1" image="Thing" rotation="0" scalex="1" scaley="1" tilex="false" tiley="false" x="546.9" y="949.25" />
+<SceneLayer alpha="0.75" depth="2" image="FG" rotation="0" scalex="0.725" scaley="0.725" tilex="false" tiley="false" x="-136.96" y="908.76" />
+<SceneLayer alpha="1" depth="0" image="SIGNSTICK_S.P." rotation="177" scalex="0.278" scaley="0.365" tilex="false" tiley="false" x="413.01" y="813.24" />
+<rectangle height="137.98" id="geometry1" rotation="0.0" static="true" width="569.37" x="-555.13" y="1005.11" />
+<rectangle height="137.17" id="geometry2" rotation="0.0" static="true" width="571.47" x="561.72" y="947.47" />
+<circle id="geometry3" radius="25.14" static="true" x="-272.96" y="1048.97" />
+<rectangle height="89.83" id="geometry4" rotation="0.0" static="true" width="27.55" x="-261.89" y="1003.5" />
+<circle id="geometry5" radius="23.26" static="true" x="-271.2" y="959.22" />
+<rectangle height="83.59" id="geometry6" rotation="0.0" static="true" width="49.19" x="265.76" y="945.73" />
+<circle id="geometry7" radius="30.87" static="true" x="271.78" y="986.09" />
+<circle id="geometry8" radius="30.06" static="true" x="271.02" y="908.38" />
+<circle id="geometry9" radius="236.96" static="true" x="552.8" y="157.7" />
+<rectangle height="364.29" id="geometry10" rotation="0.0" static="true" width="1222.97" x="-62.86" y="212.34" />
+<circle id="geometry11" radius="299.2" static="true" x="-680.69" y="95.77" />
+<rectangle height="100" id="geometry12" mass="500" material="machine" rotation="0.0" static="false" tag="break=1" width="100" x="654.7" y="823.64" />
+<hinge anchor="694.71,863.59" body1="geometry12" />
+<hinge anchor="614.7,783.62" body1="geometry12" />
+<SceneLayer alpha="1" depth="0" image="._." rotation="0" scalex="0.175" scaley="0.175" tilex="false" tiley="false" x="654.7" y="823.64" />
+<SceneLayer alpha="1" depth="0" image="DARK" rotation="0" scalex="0.175" scaley="0.175" tilex="false" tiley="false" x="654.7" y="823.64" />
+<SceneLayer alpha="1" depth="0" image="DARK" rotation="0" scalex="0.175" scaley="0.175" tilex="false" tiley="false" x="621.85" y="823.64" />
+<SceneLayer alpha="1" depth="0" image="DARK" rotation="0" scalex="0.175" scaley="0.175" tilex="false" tiley="false" x="687" y="823.64" />
+<SceneLayer alpha="1" anim="BlinkGG1" animdelay="0.36" animloop="true" animspeed="0.9" depth="1" image="Light" rotation="0" scalex="0.175" scaley="0.175" tilex="false" tiley="false" x="654.7" y="823.64" />
+<SceneLayer alpha="1" anim="BlinkRR1" animloop="true" animspeed="0.9" depth="1" image="Light" rotation="0" scalex="0.175" scaley="0.175" tilex="false" tiley="false" x="621.85" y="823.64" />
+<SceneLayer alpha="1" anim="BlinkBB1" animdelay="1.73" animloop="true" animspeed="0.9" depth="1" image="Light" rotation="0" scalex="0.175" scaley="0.175" tilex="false" tiley="false" x="687" y="823.64" />
+<SceneLayer alpha="1" depth="0" image="SIGNSTICK_S.P." rotation="357.4" scalex="0.354" scaley="0.457" tilex="false" tiley="false" x="-377.55" y="472.9" />
+</scene>

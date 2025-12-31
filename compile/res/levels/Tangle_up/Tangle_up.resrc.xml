@@ -1,0 +1,20 @@
+<!-- Created by WooGLE v0.78 RC7 -->
+<ResourceManifest>
+	<Resources id="scene_Tangle_up">
+		<SetDefaults idprefix="" path="./" />
+<Image id="MBG" path="res/images/TBY/levelimages/Mbg" />
+<Image id="STAR" path="res/images/TBY/star" />
+<Image id="TOWERLEFT" path="res/images/TBY/levelimages/Tangle/TowerLeft" />
+<Image id="TOWERRIGHT" path="res/images/TBY/levelimages/Tangle/TowerRight" />
+<Image id="FLOOR" path="res/images/TBY/levelimages/Tangle/Floor" />
+<Image id="GRASSBLACK" path="res/images/levelimages/grassBlack" />
+<Image id="BGVEGGIES" path="res/images/levelimages/bgVeggies" />
+<Image id="SPIKEBLACK_GROUP" path="res/images/levelimages/spikeBlack_group" />
+<Image id="SPIKEGRAY_GROUP" path="res/images/levelimages/spikeGray_group" />
+<Sound id="song" path="res/music/temp_DWtD2" />
+<Image id="WOGCCLOUD1" path="res/images/levelimages/wogcCloud1" />
+<Image id="WOGCCLOUD2" path="res/images/levelimages/wogcCloud2" />
+<Image id="SPSPP" path="res/images/TBY/signpostPole" />
+<Image id="SPSP" path="res/images/TBY/signpost" />
+</Resources>
+</ResourceManifest>

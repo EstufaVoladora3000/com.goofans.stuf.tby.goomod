@@ -1,0 +1,11 @@
+<ResourceManifest>
+	<Resources id="scene_IslandUi" >
+		<SetDefaults path="./" idprefix="" />
+		<Image id="IMAGE_SCENE_ISLANDUI_WOGC_BUTTON_OVER" path="res/levels/IslandUi/WoGC_button_over" />
+		<Image id="IMAGE_SCENE_ISLANDUI_WOGC_BUTTON_UP" path="res/levels/IslandUi/WoGC_button_up" />
+		<Image id="IMAGE_SCENE_ISLANDUI_ZOOMOUT_OVER" path="res/levels/IslandUi/zoomout_over" />
+    <Image id="IMAGE_SCENE_ISLANDUI_ZOOMOUT_UP" path="res/levels/IslandUi/zoomout_up" />
+    <Image id="IMAGE_SCENE_ISLANDUI_NEWMAIL" path="res/images/newmail" />
+    <SetDefaults path="./" idprefix="" />
+	</Resources>
+</ResourceManifest>

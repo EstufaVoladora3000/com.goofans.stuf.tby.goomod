@@ -1,0 +1,95 @@
+<strings>
+<!--Override chapter name in mapworldview-->
+<string id="CHAPTER1_DESCRIPTION" text="&quot;Some islands filled with Goo&quot;" es="&quot;Unas islas llenas de Goo&quot;"/>
+
+<!--Signpost texts-->
+<string id="LBDE" text="When the Gooballs built a bridge,|and reached the-|...|The pipe?|What happened to it?|Where is it?|...|Well, it seems this is the end,|the end,|thanks for playing and-|...|Wait!|This doesn't have to end here!|There's still more!|And the best part is|You can download it via Google Drive from the official mod page on the Goofans forum!|What are you waiting for?|Go!|Run and get the &quot;Full&quot; version of the mod!" es="Cuando las Gooballs construyeron un puente,|y llegaron a la-|...|¿Y la tubería?|¿Qué le paso?|¿Dónde está?|...|Bueno|parece que aquí se acaba,|fin,|gracias por jugar y-|...|¡Espera!|¡Esto no tiene por qué acabar aquí!|¡Todavía hay más!|y la mejor parte es|¡Que puedes descargarlo por Goo-gle Drive en la página oficial del mod en el foro de los Goofans!|¡Que esperas!|¡Ve!|¡Corre para hacerte con la versión &quot;Completa&quot; del mod!"/>
+<string id="ch1lv2sgn1" text="Hello!|It's so good to be back.|It's been 10 years since Goo was last seen.|Many things have happened in that time.|Where do I begin...?|First things first.|The old World of Goo Corporation campus|has weakened over the years!|And some intrepid Gooballs|managed to escape!|Since then, they've been spreading across the world,|recovering their essence,|and evolving in the process.|Also,|it seems they've been absorbing water and air pollution,|slowly cleaning the world.|And apparently, there were Gooballs of different species|that weren't absorbed by the World of Goo Corporation's pneumatic tubes,|and that's great.|By the way,|don't you think this poster is a bit too long?|-The sign painter." es="¡Hola!|Que bueno es estar devuelta.|Han pasado 10 años desde que se ha visto Goo por ultima ves.|En ese tiempo han ocurrido muchas cosas.|¿Por donde empiezo...?|Primero lo mas importante.|El antiguo campus de World of Goo corporation,|¡se ha debilitado con los años!,|y algunas Gooballs intrépidas,|¡lograron escapar!.|Desde entonces se han estado expandiendo por el mundo,|recuperando su esencia,|y evolucionando en el proceso.|Además,|parece que han estado absorbiendo la contaminación del agua y el aire,|limpiando el mundo de a poco.|Y al parecer, hubieron Gooballs de distintas especies,|que no fueron absorbidas por los tubos neumáticos de la World of Goo Corporation,|y eso es muy bueno.|A propósito,|¿no crees que este cartel es demasiado largo?|-El que escribe los carteles."/>
+<string id="ch1lv3sgn1" text="Look!|These Gooballs are much stronger than the others.|It seems they absorbed the metals that fell into the water after the explosion,|strengthening their bonds.|-The studious sign painter." es="¡Mira!|Estas Gooballs son mucho mas resistentes que las otras.|Parece que absorvieron los metales que calleron al agua despues de la explosion,|reforsando sus uniones.|-El estudioso que escribe los carteles."/>
+<string id="ch1lv3sgn2" text="The pneumatic tubes are back.|But these aren't from the World of Goo Corporation.|This is an improved Goo transport and collection system.|Created by the Gooball Protection Company.|G.P.C. for short.|I've heard they've hired former WoG.corp. employees.|And that they're looking out for the safety of the various Goo species.|At least I have my doubts.|But whatever the case, I missed the delicious Goo sodas.|For now, I'll stare through the telescope.|And don't forget,|-The sign painter is watching you." es="Las tuberías neumáticas han vuelto.|Pero estas, no son de la World of Goo Corporation.|Este es un mejorado sistema de transporte y recolección de Goo.|Creado por la Gooball Protection Company.|G.P.C. para abreviar.|Me han contado, que han contratado a ex-empleados de la WoG.corp.|Y que velan por la seguridad de las distintas especies de Goo.|Al menos yo, lo dudo un poco.|Pero sea como sea, extrañaba los deliciosos refrescos de Goo.|Por ahora, veré las estrellas por el telescopio.|Y no lo olvides,|-El que escribe los carteles te observa."/>
+<string id="ch1lvO1sgn1" text="Sometimes, Gooballs like to bother others,|they often throw themselves at those that are sleeping.|In this case, that's beneficial.|-The sign painter knows it." es="A veces, a las Gooballs les gusta molestar a otras,|suelen lanzarse hacia las que duermen.|En este caso, eso es beneficioso.|-El que escribe los carteles lo sabe."/>
+<string id="ch1lvO1sgn2" text="This place is very quiet.|And besides, it doesn't get in the way.|You can skip it if you want.|-But the sign painter will know." es="Este lugar es muy tranquilo.|Y además, no se interpone en el camino.|puedes omitirlo si quieres.|-Pero el que escribe los carteles los sabra."/>
+<string id="ch1lv4sgn1" text="All over the island, gears are spinning at high speed.|They say those gears power an ancient mining and Goo harvesting system.|Because when the Gooballs weren't roaming these lands,|the gears stood still.|And generally, it was cooler in this area during those years.|But now that the Gooballs have returned,|the gears are spinning again,|and the heat has risen once again.|On the other hand,|someone is using them as a power source.|And since that tower was built at the top of the hill,|the gears have started spinning even harder,|and the heat has intensified even further.|Therefore, I think it's clear what's going on.|-The sign painter was here." es="En toda la isla, hay engranajes girando con gran rapidez.|Dicen que esos engranajes, mueven un antiguo sistema de minería y recolección de Goo.|Porque cuando las Gooballs no rondaban por estas tierras,|los engranajes se quedaron quietos.|Y en general, hubo menos calor en esta zona durante esos años.|Pero ahora que las Gooballs han vuelto,|los engranajes volvieron a girar,|y el calor volvió a subir.|Por otro lado,|alguien los esta usando como fuente de energía.|Y desde que se construyo esa torre en lo mas alto de la colina,|los engranajes, comenzaron a girar con mas fuerza,|y el calor se ha intensificado aun mas.|Por ende, creo que es claro por donde va la cosa.|-El que escribe los carteles estuvo aquí."/>
+<string id="ch1lv5sgn1" text="Currently, the sun is at its solar maximum.|What does that mean?|It's when the sun is at its peak magnetic activity, generating enormous solar storms.|Storms that hurl hot plasma toward our planet.|They say that when this happens,|a golden Gooball falls from the sky,|leaving behind vibrant, colorful auroras.|-The astronomer sign painter." es="Actualmente, el sol se encuentra en su máximo solar.|¿Que que es eso.?|Es cuando el sol se encuentra en su maxima actividad magnética.|Generando enormes tormentas solares.|Tormentas que lanzan plasma caliente hacia nuestro planeta.|Dicen, que cuando eso pasa,|una Gooball dorada cae del cielo,|dejando atrás, vibrantes auroras de colores.|-El astrónomo que escribe los carteles."/>
+<string id="ch1lv5sgn2" text="Clouds and fog are very common in this area.|This is due to the lagoons, lakes, and rivers in this area.|They say that if you look carefully,|you can find water Gooballs floating among the clouds.|Try throwing something into the air.|If you're lucky, a Gooball or two might fall.|-The sign painter listens." es="Las nubes y la niebla son muy comunes en esta zona.|Esto se debe a las lagunas, lagos y ríos de esta zona.|Dicen, que si observas con cautela,|podrás encontrar Gooballs de agua flotando entre las nubes.|Prueba lanzar algo al aire.|Si tienes suerte, puede que caiga una que otra Gooball.|-El que escribe los carteles escucha."/>
+<string id="ch1lvO2sgn1" text="The Gooballs will always remember their beginnings.|Back then, all of this was more experimental.|This place doesn't stand in the way.|If you leave, the Gooballs won't care.|-But the sign painter will remember it." es="Las Gooballs siempre recordaran sus inicios.|Cuando todo esto, era mas experimental.|Este lugar no se interpone en el camino.|Si te vas, a las Gooballs no les importara.|-Pero el que escribe los carteles lo recordara."/>
+<string id="ch1lv6sgn1" text="When the last of the Gooballs looked up,|she saw a beautiful sunset.|She couldn't prevent the calm from seeping into his being.|And for just a moment,|she saw the aurora borealis in the distance.|She knew what awaited her.|She also knew who was about to arrive.|-But the sign painter just sat and watched." es="Cuando la ultima de las Gooballs levanto la mirada,|vio un hermoso atardecer.|No pudo evitar que la calma se colara en su ser.|Y durante tan solo un momento,|vio una aurora a lo lejos.|Ella sabía lo que le esperaba.|Tambien sabía quien estaba por llegar.|-Pero el que escribe los carteles, solo se sentó a observar."/>
+<string id="ch1lv7sgn1" text="CAUTION!|Stabilizing device!|DO NOT touch!" es="¡CUIDADO!|¡Artefacto estabilizador!|¡NO tocar!"/>
+<string id="ch1lv7sgn2" text="This tower is a Goo research center.|Center built by: Gooball Protection Company.|Scientist in charge of the tower: Dr. T. (Owner and founder of the G.P.C.)|Primary use of the center: Research on Goo behavior.|Purpose: To discover how Goos reproduce.|Invited delegates for today: Employee #084" es="Esta torre es un centro de investigación de Goo.|Centro construido por: Gooball Protection Company.|Científico encargado de la torre: Dr. T. (Dueño y fundador de la G.P.C.)|Utilidad principal del centro: Investigación del comportamiento del Goo.|Finalidad: descubrir como se reproduce el Goo.|Delegados invitados para hoy: empleado #084"/>
+<string id="ch1lvO3sgn1" text="Once, a group of Gooballs fell into a pit similar to this one.|To get out, they clung to the walls with all their might,|using friction to their advantage.|Now, spikes have grown from the walls.|If only there were Gooballs resistant to spikes,|they could climb back up.|This place doesn't stand in their way.|You can leave if you find it hard to understand;|these Gooballs could use some help,|but the decision is yours.|Anyway...|-The sign painter doesn't judge." es="Una vez, un grupo de Gooballs, cayo a un poso similar a este.|Para salir, se aferraron con todas sus fuerzas a las paredes,|y usaron la fricción a su favor.|Ahora, pinchos han crecido de las paredes.|Si tan solo existieran Gooballs resistentes a los pinchos,|podrían volver a subir.|Este lugar no se interpone en el camino.|Puedes irte si te cuesta comprenderlo;|no le vendría mal una mano a estas Gooballs,|pero la decisión es tuya.|De todos modos...|-El que escribe los carteles no juzga."/>
+<string id="ch1MOM" text="It says...|'Hello?'|'Is anyone there?'|'Please come home.'|'Love, MOM.'" es="Dice...|'¿Hola.?'|'¿Hay alguien ahí.?'|'Por favor vuelve a casa.'|'Con amor, MAMÁ.'"/>
+<string id="ch1lv8sgn1" text="When the Gooballs found a cable system under construction,|they saw that it could be useful for reaching the next island.|And when the light of sunset arrived,|they decided it was time to leave.|See you on the other side.|-The sign painter is already on his way." es="Cuando las Gooballs encontraron un sistema de cableado en construcción,|vieron que podía serles util para llegar a la siguiente isla.|Y cuando la luz del atardecer llego,|decidieron que ya era el momento de partir.|Nos vemos del otro lado.|-El que escribe los carteles ya esta en camino."/>
+
+<!--Level names-->
+<string id="LEVEL_NAME_TANGLE_UP" text="Vines up" es="Enmarañate"/>
+<string id="LEVEL_NAME_THROW_A_BALL" text="Throw a Gooball" es="Lanza una Gooball"/>
+<string id="LEVEL_NAME_1_MEMORY" text="A memory" es="Un recuerdo"/>
+<string id="LEVEL_NAME_UN_BELLO_ATARDESER" text="A beautiful sunset" es="Un bello atardecer"/>
+<string id="LEVEL_NAME_LA_ESCALADA" text="The climb" es="La escalada"/>
+<string id="LEVEL_NAME_1_8_HASIA_ARIBA" text="Goo up" es="Subiendo"/>
+<string id="LEVEL_NAME_3_1_EL_PUENTE_DE_GOO" text="The Goo Bridge" es="El Puente De Goo"/>
+<string id="LEVEL_NAME_7_1_LA_TORRE" text="The tower" es="La torre"/>
+<string id="LEVEL_NAME_LA_CUEVA" text="The cave" es="La cueva"/>
+<string id="LEVEL_NAME_2_1_NIVEL_2_CAPITULO_1" text="Brave Adventurers" es="Valientes Aventureros"/>
+<string id="LEVEL_NAME_CH1F" text="Cable transportation" es="Transporte por cables"/>
+
+<!--Level subtitles-->
+<string id="LEVEL_TEXT_TANGLE_UP" text="get tangled" es="enrredaderas arriva"/>
+<string id="LEVEL_TEXT_CH1F" text="Innovation Committee" es="Comité de innovación"/>
+<string id="LEVEL_TEXT_THROW_A_BALL" text="The hidden technique" es="La técnica oculta"/>
+<string id="LEVEL_TEXT_1_MEMORY" text="Tower of Goo." es="Torre de Goo."/>
+<string id="LEVEL_TEXT_LA_ESCALADA" text="cloudy" es="nublado"/>
+<string id="LEVEL_TEXT_1_8_HASIA_ARIBA" text="Generic tutorial" es="Tutorial genérico"/>
+<string id="LEVEL_TEXT_3_1_EL_PUENTE_DE_GOO" text="another bridge" es="otro puente"/>
+<string id="LEVEL_TEXT_7_1_LA_TORRE" text="time to destroy" es="hora de destruir"/>
+<string id="LEVEL_TEXT_LA_CUEVA" text="spooky" es="tenebrooso"/>
+<string id="LEVEL_TEXT_2_1_NIVEL_2_CAPITULO_1" text="sticky" es="pegajoso"/>
+<string id="LEVEL_TEXT_UN_BELLO_ATARDESER" text="a piece of sun" es="un trozo de sol"/>
+
+<!--Seasons-->
+<string id="CHAPTER_1_SEASON" text="At some islands..." es="En unas islas..."/>
+<string id="CHAPTER_2_SEASON" text="At some desert..." es="En un desierto..."/>
+<string id="CHAPTER_3_SEASON" text="At some mountains..." es="En unas montañas..."/>
+<string id="CHAPTER_4_SEASON" text="At the Information Superhighway..." es="En la Superautopista de la informacion..."/>
+<string id="CHAPTER_5_SEASON" text="At some forest..." es="En un bosque..."/>
+<string id="CHAPTER_6_SEASON" text="At some beach..." es="En una playa..."/>
+<string id="CHAPTER_7_SEASON" text="At some strange place..." es="En un lugar extraño..."/>
+<string id="CHAPTER_8_SEASON" text="At the GPC central..." es="En la central GPC..."/>
+
+<!--Animations-->
+<!--Intro-->
+<string id="WagIntroCredit1" text="credits for" es="créditos para"/>
+<string id="WagIntroCredit2" text="and also for" es="y también para"/>
+<string id="TTU" text="Ten years ago" es="Hace díez años"/>
+<string id="TTD" text="The goos lived|happy and free" es="Las goo vivían|felices y en libertad"/>
+<string id="M1" text="But an evil corporation absorbed them all." es="Pero una malvada corporacion las absorbió a todas"/>
+<string id="M2" text="sending them to an infinite campus|where they have been building|a giant tower towards the sky" es="enviándolas a un campus infinito|donde han estado construyendo|una torre gigante hacia el cielo"/>
+<string id="M3" text="After some years,|the campus weakened,|letting them out|and repopulate the earth" es="Después de unos años,|el campus de debilitó,|dejándolas salir|y repoblar la tierra"/>
+<string id="WT" text="Ten years later" es="Diez años despues"/>
+<string id="WT0" text="Looking for a job" es="Buscando trabajo"/>
+<string id="WT1" text="You find an interesting one..." es="Encuentras uno interesante..."/>
+<string id="S" text="And so it starts:" es="Y así comienza:"/>
+<!--Demo End-->
+<!--Credits-->
+
+<!--Miscellaneous-->
+<string id="LABEL_LABEL" text="Warning: Flashing Lights!!!" es="¡¡¡Advertencia: Luces parpadeantes!!!"/>
+<string id="LOADING_TEXT" text="Growing trees..., Making new species of goo..., Thinking about new level names..., Painting some backgrounds..., Hoping that everything works..., Hiding easter eggs..., Error 404..., Making some special effects..., Trying not to make a spellimg miztake..., Toxic Goo reference here..., Falling to spiky pits..., Fixing .xml files..., Fixing chapter maps..., Discovering new elements..., Sketching the levels..., Burning fuse balls..., Finishing the spoon bending..., Bending the universe..., Eating some loops..., Don't look at Dave's basement..., NOOT NOOT..., Recording low quality sounds..., Exploring the Unknown World..., Living at the edge..., Deleting unused images..., The cake is a lie..., Eating MOM'S cookies..., Unlocking bonus levels..., Burning kilobytes..., Loading impossibilities..., Playing n2.ogg..., Reading the files..., Making FNF Mods..., Watching a movie..., Playing Games..., Don't Play with fire..., waiting for Ratatan..., playing Patapon..., Wondering how old is the Sign Painter..., Writing something..., Waiting for Silksong..., Something's wrong..., Mixing songs..., Buying World of Goo 2..." es="Comprando World of Goo 2..., escribiendo algo..., No jueges con fuego..., jugando Patapon..., Esperando Ratatan..., Plantando Arboles..., Creando nuevas especies de Goo..., Pensando en nuevos nombres..., Pintando algunos fondos..., Esperando que todo funcione..., Escondiendo easter eggs..., Error 404..., Haciendo algunos efectos especiales..., Tratando no cometer un error de otografía..., Referencia a Toxic Goo..., Cayendo a pozos puntiagudos..., Arreglando archivos .xml..., Arreglando capítulos..., Descubriendo nuevos elementos..., Dividiendo por cero..., Dibujando los niveles..., Quemando gooballs..., Doblando la cuchara..., Doblando el universo..., Comiendo cereal..., No mires el sótano de Dave..., NOOT NOOT..., Grabando sonidos de baja calidad..., Explorando el Mundo Desconocido..., Viviendo al límite..., Borrando imágenes en desuso..., El pastel es una mentira..., Comiendo las cookies de MOM..., Desbloqueando niveles bonus..., Quemando kilobytes..., Cargando lo imposible..., Reproduciendo n2.ogg..., Leyendo los archivos..., Creando Mods de FNF..., Viendo el Peliculas..., Jugando un juego..., Esperando Silksong..., Preguntándome cuantos años tiene el que escribe los carteles..., Algo va mal..., Mesclando la musica"/>
+<!--Buttons-->
+<string id="QUIT_GAME_BUTTON_TEXT" es="Cerrar Wog" text="quit game"/>
+<string id="RESTART_BUTTON_TEXT" text="retry" es="reintentar"/>
+<string id="BACK_TO_ISLAND_BUTTON_TEXT" text="quit level" es="salir del nivel"/>
+<string id="RESUME_BUTTON_TEXT" text="resume" es="reanudar"/>
+<string id="OCD_CRITERIA_BUTTON_TEXT" text="OCD" es="OCD"/>
+<!--Text-->
+<string id="Win7ModeWarning" text="Before playing, activate compatibility mode for Windows 7." es="Antes de jugar activa el modo de compatibilidad para Windows 7."/>
+<string id="OCD_CRITERIA_TITLE" text="Optional Completion|Distinctions" es="Obtención Compulsiva|de Distinciones"/>
+<string id="TERMS_AND_CONDITIONS_TITLE_BEFORE_MOM" text="GPC Dome Public Terminal|number: 139" es="Terminal público del Domo GPC|numero: 139"/>
+<string id="WOG_CORP_NAME" text="G.P.C.|Dome" es="Domo|G.P.C."/>
+<string id="WORLD_OF_GOO_CORPORATION_NAME" text="G.P.C.|Dome" es="Domo|G.P.C."/>
+<string id="WORLD_OF_GOO_CORPORATION_TEXT" text="Infinity towards all directions." es="Infinito hacia todas direcciones."/>
+<string id="ARE_YOU_SURE" es="¿Quieres eliminar esta partida?"/>
+<string id="PROFILE_SELECTION_LABEL" es="¿Quién eres?"/>
+<string id="PLAYER_NAME_LABEL" es="Escribe un nombre aquí"/>
+<string id="OCD_CRITERIA_NONE" es="Éste es mío...|-El que escribe de carteles."/>
+</strings>

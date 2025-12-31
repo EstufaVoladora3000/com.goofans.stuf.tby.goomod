@@ -1,0 +1,42 @@
+<!-- Created by WooGLE v0.78 RC7 -->
+<level allowskip="true" autobounds="true" ballsrequired="4" letterboxed="false" strandgeom="false" textcolor="255,255,255" timebugprobability="0" visualdebug="false">
+
+	
+	<camera aspect="normal" endpos="0,500" endzoom="0.8">
+		<poi pause="0" pos="-289.53,258.07" traveltime="0" zoom="3" />
+<poi pause="0" pos="-147.27,321.37" traveltime="3" zoom="1.6" />
+</camera>
+<camera aspect="widescreen" endpos="0,500" endzoom="1">
+		<poi pause="0" pos="-288.12,252.19" traveltime="0" zoom="3.2" />
+<poi pause="0" pos="-126.59,289.49" traveltime="3" zoom="1.8" />
+</camera>
+<levelexit id="theExit" pos="336,218" radius="50">
+	</levelexit>
+<pipe>
+<Vertex x="336" y="218" />
+<Vertex x="336" y="527" />
+<Vertex x="-170" y="527" />
+<Vertex x="-170" y="388" />
+<Vertex x="25" y="388" />
+<Vertex x="25" y="1600" />
+</pipe>
+<BallInstance angle="0" id="1" type="balloon" x="-302.44" y="250.26" />
+<BallInstance angle="0" discovered="false" id="2" type="balloon" x="-21.24" y="808.31" />
+<BallInstance angle="0" discovered="false" id="3" type="Drained_" x="-327.64" y="185.24" />
+<BallInstance angle="0" discovered="false" id="4" type="Drained_" x="-280.7" y="185.36" />
+<BallInstance angle="0" id="5" type="Drained_" x="-303.93" y="201.53" />
+<BallInstance angle="0" id="6" type="Drained_" x="-304.03" y="230.1" />
+<BallInstance angle="0" discovered="false" id="7" type="Pokey" x="-303.07" y="204.59" />
+<loopsound id="C" />
+<BallInstance angle="0" discovered="false" id="8" type="Drained_" x="0.28" y="762.13" />
+<BallInstance angle="0" discovered="false" id="9" type="Drained_" x="36.59" y="762.23" />
+<BallInstance angle="0" discovered="false" id="0" type="Drained_" x="72.23" y="762.4" />
+<BallInstance angle="0" discovered="false" id="10" type="Drained_" x="-38.46" y="760.73" />
+<BallInstance angle="0" discovered="false" id="11" type="Drained_" x="107.4" y="758.71" />
+<BallInstance angle="0" discovered="false" id="12" type="GooProduct" x="337.62" y="188.25" />
+<music id="R" />
+<Strand gb1="6" gb2="4" />
+<Strand gb1="4" gb2="3" />
+<Strand gb1="3" gb2="6" />
+<signpost alpha="1" colorize="255,255,255" depth="-1" image="SPSP" name="ch1lv4sgn1" rotation="53.4" scalex="0.606" scaley="0.606" text="ch1lv4sgn1" x="-178.03" y="822.35" />
+</level>

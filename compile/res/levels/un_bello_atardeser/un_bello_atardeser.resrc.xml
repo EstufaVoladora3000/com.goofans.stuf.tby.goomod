@@ -1,0 +1,16 @@
+<!-- Created by WooGLE v0.78 RC7 -->
+<ResourceManifest>
+	<Resources id="scene_un_bello_atardeser">
+		<SetDefaults idprefix="" path="./" />
+<Image id="pinchos" path="res/images/levelimages/spikeBlack_group" />
+<Image id="nubes" path="res/images/levelimages/wogcCloud1" />
+<Image id="SPSP" path="res/images/TBY/signpost" />
+<Image id="SPSPP" path="res/images/TBY/signpostPole" />
+<Image id="Hill" path="res/images/TBY/GUH" />
+<Sound id="Song" path="res/music/TBY/kaptainpolka_end" />
+<Image id="fondo" path="res/images/TBY/levelimages/sunset_sky" />
+<Image id="BGHB" path="res/levels/Ch1F/bg_hills_bleeding" />
+<Image id="Fade" path="res/images/TBY/Fade" />
+<Image id="Light" path="res/images/TBY/Useful_Ligt" />
+</Resources>
+</ResourceManifest>

@@ -1,0 +1,140 @@
+<!-- Created by WooGLE v0.78 RC7 -->
+<level allowskip="false" autobounds="false" letterboxed="false" retrytime="480" strandgeom="false" textcolor="255,255,255" timebugprobability="0.08" visualdebug="false">
+
+	
+	<camera aspect="normal" endpos="0,0" endzoom="9">
+		<poi pause="0.25" pos="-559.3,1253.63" traveltime="0" zoom="1.7" />
+<poi pause="0" pos="-16,1117" traveltime="2" zoom="1.3" />
+<poi pause="0.5" pos="465.5,1118.64" traveltime="2" zoom="1.74" />
+<poi pause="0" pos="-50,635" traveltime="2" zoom="1" />
+</camera>
+<camera aspect="widescreen" endpos="0,0" endzoom="9">
+		<poi pause="0.25" pos="-546.52,1261.61" traveltime="0" zoom="2" />
+<poi pause="0" pos="-16,1117" traveltime="1.9" zoom="1.5" />
+<poi pause="0.5" pos="446.95,1120.87" traveltime="2" zoom="2" />
+<poi pause="0" pos="-50,635" traveltime="2" zoom="1" />
+</camera>
+<fire depth="1" particles="fireRobotHead" radius="104.07" x="-586.19" y="1255.53" />
+<BallInstance angle="0" discovered="false" id="ExitLevelGooBall" type="BombSticky" x="670" y="1057" />
+<BallInstance angle="0" discovered="false" id="1" type="Fuse" x="192.31" y="409.5" />
+<BallInstance angle="0" id="3" type="common_albino" x="-122.28" y="408.5" />
+<BallInstance angle="0" id="4" type="common_albino" x="35.45" y="410.72" />
+<Strand gb1="4" gb2="3" />
+<BallInstance angle="0" id="5" type="Fuse" x="3.85" y="534.08" />
+<BallInstance angle="0" discovered="false" id="6" type="Fuse" x="-56.42" y="785.16" />
+<BallInstance angle="0" discovered="false" id="7" type="Fuse" x="-152.11" y="666.17" />
+<BallInstance angle="0" discovered="false" id="8" type="Fuse" x="45.7" y="669.19" />
+<BallInstance angle="0" discovered="false" id="9" type="Fuse" x="-209.78" y="550.34" />
+<BallInstance angle="0" discovered="false" id="10" type="Fuse" x="-48.23" y="534.51" />
+<BallInstance angle="0" discovered="false" id="11" type="Fuse" x="126.11" y="537.29" />
+<BallInstance angle="0" discovered="false" id="12" type="Fuse" x="-281.3" y="409.21" />
+<BallInstance angle="0" id="13" type="Fuse" x="76.97" y="533.65" />
+<BallInstance angle="0" id="14" type="Fuse" x="-167.37" y="544.73" />
+<BallInstance angle="0" id="15" type="Fuse" x="-185.7" y="604.64" />
+<BallInstance angle="0" id="16" type="Fuse" x="83.67" y="604.72" />
+<Strand gb1="6" gb2="7" />
+<Strand gb1="7" gb2="9" />
+<Strand gb1="9" gb2="12" />
+<Strand gb1="4" gb2="1" />
+<Strand gb1="1" gb2="11" />
+<Strand gb1="11" gb2="8" />
+<Strand gb1="8" gb2="6" />
+<Strand gb1="7" gb2="8" />
+<Strand gb1="9" gb2="10" />
+<Strand gb1="4" gb2="10" />
+<Strand gb1="3" gb2="10" />
+<Strand gb1="10" gb2="11" />
+<Strand gb1="3" gb2="9" />
+<Strand gb1="4" gb2="11" />
+<Strand gb1="7" gb2="10" />
+<Strand gb1="10" gb2="8" />
+<BallInstance angle="0" id="17" type="Fuse" x="-48.0" y="409.87" />
+<BallInstance angle="0" id="18" type="Fuse" x="-47.19" y="478.01" />
+<BallInstance angle="0" id="19" type="Fuse" x="34.78" y="409.08" />
+<BallInstance angle="0" id="20" type="Fuse" x="155.22" y="475.7" />
+<BallInstance angle="0" id="21" type="Fuse" x="123.37" y="411.21" />
+<BallInstance angle="0" id="22" type="Fuse" x="-123.09" y="409.21" />
+<BallInstance angle="0" id="23" type="comun" x="-124.99" y="462.78" />
+<BallInstance angle="0" id="24" type="Fuse" x="-94.22" y="535.72" />
+<BallInstance angle="0" id="25" type="Fuse" x="-55.09" y="669.57" />
+<BallInstance angle="0" id="26" type="Fuse" x="-226.48" y="407.62" />
+<BallInstance angle="0" id="27" type="Fuse" x="-6.57" y="733.54" />
+<BallInstance angle="0" id="28" type="comun" x="36.15" y="463.81" />
+<BallInstance angle="0" id="29" type="comun" x="-51.08" y="618.31" />
+<BallInstance angle="0" discovered="false" id="30" type="comun" x="552.7" y="1164.69" />
+<BallInstance angle="0" discovered="false" id="31" type="comun" x="617.8" y="1041.48" />
+<BallInstance angle="0" discovered="false" id="32" type="Fuse" x="336.55" y="1072.13" />
+<BallInstance angle="0" discovered="false" id="33" type="comun" x="372.37" y="1072.13" />
+<BallInstance angle="0" discovered="false" id="34" type="Fuse" x="406.45" y="1040.34" />
+<BallInstance angle="0" discovered="false" id="35" type="Fuse" x="445.68" y="1073.8" />
+<BallInstance angle="0" discovered="false" id="36" type="comun" x="474.94" y="1038.53" />
+<BallInstance angle="0" discovered="false" id="37" type="Fuse" x="515.14" y="1043.83" />
+<BallInstance angle="0" discovered="false" id="38" type="comun" x="550.64" y="1089.66" />
+<BallInstance angle="0" discovered="false" id="39" type="Fuse" x="586.15" y="1061.87" />
+<BallInstance angle="0" discovered="false" id="40" type="Fuse" x="589.45" y="1096.92" />
+<BallInstance angle="0" discovered="false" id="41" type="Fuse" x="642.77" y="1126.46" />
+<BallInstance angle="0" discovered="false" id="42" type="comun" x="682.11" y="1119.31" />
+<BallInstance angle="0" discovered="false" id="43" type="Fuse" x="557.27" y="1037.64" />
+<BallInstance angle="0" discovered="false" id="44" type="comun" x="517.56" y="1089.03" />
+<BallInstance angle="0" discovered="false" id="45" type="Fuse" x="481.54" y="1068.96" />
+<BallInstance angle="0" discovered="false" id="46" type="comun" x="446.83" y="1107.71" />
+<BallInstance angle="0" discovered="false" id="47" type="comun" x="411.91" y="1104.47" />
+<BallInstance angle="0" discovered="false" id="48" type="Fuse" x="603.75" y="1193.22" />
+<BallInstance angle="0" discovered="false" id="49" type="Fuse" x="640.98" y="1192.21" />
+<BallInstance angle="0" discovered="false" id="50" type="Fuse" x="464.94" y="1137.45" />
+<BallInstance angle="0" discovered="false" id="51" type="comun" x="500.5" y="1135.51" />
+<BallInstance angle="0" discovered="false" id="52" type="Fuse" x="534.13" y="1132.92" />
+<BallInstance angle="0" discovered="false" id="53" type="Fuse" x="569.05" y="1133.57" />
+<BallInstance angle="0" discovered="false" id="54" type="comun" x="605.91" y="1130.34" />
+<BallInstance angle="0" discovered="false" id="55" type="comun" x="676.77" y="1192.16" />
+<BallInstance angle="0" discovered="false" id="56" type="Fuse" x="680.29" y="1227.75" />
+<BallInstance angle="0" discovered="false" id="57" type="Fuse" x="628.29" y="1093.68" />
+<BallInstance angle="0" discovered="false" id="58" type="comun" x="584.57" y="1162.66" />
+<BallInstance angle="0" discovered="false" id="59" type="Fuse" x="616.25" y="1160.08" />
+<BallInstance angle="0" discovered="false" id="60" type="comun" x="649.23" y="1158.79" />
+<BallInstance angle="0" discovered="false" id="61" type="Fuse" x="681.57" y="1158.14" />
+<BallInstance angle="0" discovered="false" id="GooInDangerOfExtinction" type="alt_pokey" x="-768.81" y="429.47" />
+<BallInstance angle="0" discovered="false" id="63" type="Fuse" x="-496.56" y="417.98" />
+<BallInstance angle="0" discovered="false" id="64" type="Fuse" x="-667.21" y="420.39" />
+<BallInstance angle="0" discovered="false" id="65" type="comun" x="-727.51" y="436.38" />
+<BallInstance angle="0" discovered="false" id="66" type="comun" x="-791.28" y="393.13" />
+<BallInstance angle="0" discovered="false" id="67" type="comun" x="-750.06" y="467.89" />
+<BallInstance angle="0" discovered="false" id="68" type="Fuse" x="-717.09" y="465.56" />
+<BallInstance angle="0" discovered="false" id="69" type="comun" x="-788.12" y="527.25" />
+<BallInstance angle="0" discovered="false" id="70" type="comun" x="-651.46" y="465.56" />
+<BallInstance angle="0" discovered="false" id="71" type="Fuse" x="-780.55" y="468.96" />
+<BallInstance angle="0" discovered="false" id="72" type="comun" x="-525.19" y="483.17" />
+<BallInstance angle="0" discovered="false" id="73" type="Fuse" x="-601.61" y="524.51" />
+<BallInstance angle="0" discovered="false" id="74" type="comun" x="-584.26" y="499.02" />
+<BallInstance angle="0" discovered="false" id="75" type="Fuse" x="-642.5" y="530.49" />
+<BallInstance angle="0" discovered="false" id="76" type="Fuse" x="-632.0" y="426.83" />
+<BallInstance angle="0" discovered="false" id="77" type="comun" x="-700.03" y="415.63" />
+<BallInstance angle="0" discovered="false" id="78" type="comun" x="-665.78" y="558.41" />
+<BallInstance angle="0" discovered="false" id="79" type="comun" x="-696.84" y="496.37" />
+<BallInstance angle="0" discovered="false" id="80" type="Fuse" x="-103.73" y="730.7" />
+<Strand gb1="3" gb2="12" />
+<BallInstance angle="0" discovered="false" id="84" type="comun" x="-731.41" y="561.17" />
+<BallInstance angle="0" discovered="false" id="89" type="Fuse" x="-684.16" y="452.31" />
+<BallInstance angle="0" discovered="false" id="90" type="Fuse" x="-665.48" y="496.19" />
+<BallInstance angle="0" discovered="false" id="91" type="Fuse" x="-552.99" y="471.38" />
+<BallInstance angle="0" discovered="false" id="92" type="Fuse" x="-567.76" y="418.31" />
+<BallInstance angle="0" discovered="false" id="93" type="comun" x="-503.46" y="451.9" />
+<BallInstance angle="0" discovered="false" id="94" type="Fuse" x="-599.88" y="429.42" />
+<BallInstance angle="0" discovered="false" id="95" type="comun" x="-696.09" y="591.14" />
+<BallInstance angle="0" discovered="false" id="96" type="comun" x="-533.86" y="433.53" />
+<BallInstance angle="0" discovered="false" id="97" type="Fuse" x="-617.52" y="465.04" />
+<BallInstance angle="0" discovered="false" id="98" type="comun" x="-582.75" y="463.23" />
+<BallInstance angle="0" discovered="false" id="99" type="comun" x="-633.56" y="496.03" />
+<BallInstance angle="0" discovered="false" id="100" type="comun" x="-682.19" y="525.0" />
+<BallInstance angle="0" discovered="false" id="101" type="Fuse" x="-730.72" y="494.97" />
+<BallInstance angle="0" discovered="false" id="102" type="comun" x="-748.9" y="525.46" />
+<BallInstance angle="0" discovered="false" id="103" type="Fuse" x="-765.2" y="497.52" />
+<BallInstance angle="0" discovered="false" id="104" type="Fuse" x="-718.69" y="530.59" />
+<BallInstance angle="0" discovered="false" id="105" type="Fuse" x="-764.67" y="556.42" />
+<BallInstance angle="0" discovered="false" id="106" type="comun" x="-783.07" y="584.75" />
+<music id="song" />
+<signpost alpha="1" colorize="255,255,255" depth="0.1" image="SIGNPOST_S.P." name="sgn1" rotation="-1.4" scalex="0.45" scaley="0.45" text="ch1lv7sgn1" x="411.33" y="784.5" />
+<endonnogeom />
+<BallInstance angle="0" id="107" type="Fuse" x="-245" y="480" />
+<signpost alpha="1" colorize="255,255,255" depth="0.1" image="SIGNPOST_S.P." name="sgn2" rotation="-2.09" scalex="0.45" scaley="0.45" text="ch1lv7sgn2" x="-371.74" y="517.63" />
+</level>

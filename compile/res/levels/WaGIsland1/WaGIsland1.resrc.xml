@@ -1,0 +1,49 @@
+<!-- Created by WooGLE v0.78 RC7 -->
+<ResourceManifest>
+	<Resources id="scene_WaGIsland1">
+		<SetDefaults idprefix="" path="./" />
+<Sound id="island" path="res/music/temp_islandam" />
+<Sound id="fireWater" path="res/sounds/loop_firewater" />
+<Image id="PIPECON1" path="res/images/TBY/chapters/pipecon2" />
+<Image id="TREE_STRIPE1" path="res/images/TBY/levelimages/Trunk-Flip" />
+<Image id="MAIN" path="res/images/TBY/chapters/CH1M" />
+<Image id="GEAR1BLUR" path="res/images/levelimages/gear1blur" />
+<Image id="GEAR1" path="res/images/levelimages/gear1" />
+<Image id="FIRERAFTER" path="res/levels/island1/fireRafter" />
+<Image id="FIREBG" path="res/levels/island1/fireBg" />
+<Image id="BGVEGGIES" path="res/images/levelimages/bgVeggies" />
+<Image id="BG" path="res/levels/island1/bg" />
+<Image id="LEVELMARKERA_OVER" path="res/images/levelimages/levelMarkerA_over" />
+<Image id="LEVELMARKERA_UP" path="res/images/levelimages/levelMarkerA_up" />
+<Image id="LEVELMARKERB_OVER" path="res/images/levelimages/levelMarkerB_over" />
+<Image id="LEVELMARKERB_UP" path="res/images/levelimages/levelMarkerB_up" />
+<Image id="LEVELMARKERC_OVER" path="res/images/levelimages/levelMarkerC_over" />
+<Image id="LEVELMARKERC_UP" path="res/images/levelimages/levelMarkerC_up" />
+<Image id="CUSTOMLEVELPIPE1" path="res/images/TBY/chapters/pipeicon" />
+<Image id="TITLE.es" path="res/images/TBY/chapters/title.es" />
+<Image id="TITLE" path="res/images/TBY/chapters/title" />
+<Image id="cave" path="res/images/TBY/levelimages/CaveBG" />
+<Image id="CGroundL" path="res/images/TBY/levelimages/leftup" />
+<Image id="CF" path="res/images/TBY/levelimages/CaveFloor" />
+<Image id="tree" path="res/images/levelimages/tree_sil_1" />
+<Image id="pipecon2" path="res/images/TBY/chapters/pipecon2" />
+<Image id="prevew" path="res/levels/WaGIsland1/levelPreview" />
+<Image id="CH1P" path="res/images/TBY/chapters/CH1P" />
+<Image id="pipe1" path="res/images/TBY/chapters/pipecon1" />
+<Image id="GooBall" path="res/balls/comun/body" />
+<Image id="SpringGoo" path="res/balls/common/spring_goo" />
+<Image id="fade" path="res/images/TBY/Fade" />
+<Image id="Tower" path="res/images/TBY/chapters/Tower" />
+<Image id="pipe2" path="res/images/TBY/chapters/pipecon4" />
+<Image id="pipe3" path="res/images/TBY/chapters/pipecon3" />
+<Image id="OCD_FLAGG" path="res/levels/ch1/OCD_Goolden" />
+<Image id="pipecon0" path="res/images/TBY/chapters/pipecon0" />
+<Image id="pipeG" path="res/images/TBY/chapters/pipeconGoolden" />
+<Image id="post" path="res/levels/GoingUp/tutorialPost" />
+<Image id="OCD1" path="res/images/TBY/chapters/balls_ocd" />
+<Image id="BUSH_LEAFY_1" path="res/images/levelimages/bush_leafy_1" />
+<Image id="OCD_FLAGR" path="res/images/TBY/chapters/OCD_flagR" />
+<Image id="Tree_leaves" path="res/images/TBY/Leaves" />
+<Image id="OCD_FLAGO" path="res/images/levelimages/OCD_flag1" />
+</Resources>
+</ResourceManifest>

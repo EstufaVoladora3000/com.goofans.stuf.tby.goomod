@@ -1,0 +1,37 @@
+<!-- Created by WooGLE v0.78 RC7 -->
+<level allowskip="false" autobounds="false" ballsrequired="5" letterboxed="false" strandgeom="false" textcolor="255,255,255" timebugprobability="0" visualdebug="false">
+
+	
+	<camera aspect="normal" endpos="3.08,349.04" endzoom="1">
+		<poi pause="0" pos="-241.79,331.27" traveltime="0" zoom="2.5" />
+<poi pause="0" pos="0.0,322" traveltime="3" zoom="0.9" />
+</camera>
+<camera aspect="widescreen" endpos="3.08,349.04" endzoom="1">
+		<poi pause="0" pos="-228.43,338.17" traveltime="0" zoom="2.7" />
+<poi pause="0" pos="0.0,300" traveltime="3" zoom="1" />
+</camera>
+<levelexit filter="" id="theExit" pos="10,400" radius="90">
+	</levelexit>
+<pipe>
+<Vertex x="10" y="400" />
+<Vertex x="10" y="740" />
+<Vertex x="500" y="740" />
+</pipe>
+<BallInstance angle="0" discovered="false" id="1" type="comun" x="-55" y="230" />
+<BallInstance angle="0" discovered="false" id="2" type="comun" x="70" y="230" />
+<BallInstance angle="0" id="3" type="comun" x="70" y="110" />
+<BallInstance angle="0" id="4" type="comun" x="-55" y="110" />
+<Strand gb1="2" gb2="4" />
+<Strand gb1="1" gb2="3" />
+<Strand gb1="2" gb2="1" />
+<Strand gb1="1" gb2="4" />
+<Strand gb1="4" gb2="3" />
+<Strand gb1="3" gb2="2" />
+<BallInstance angle="0" id="5" type="comun" x="10" y="400" />
+<BallInstance angle="0" discovered="false" id="6" type="comun" x="-26" y="200" />
+<BallInstance angle="0" discovered="false" id="7" type="comun" x="40" y="200" />
+<BallInstance angle="0" discovered="false" id="8" type="comun" x="7" y="170" />
+<BallInstance angle="0" discovered="false" id="9" type="comun" x="-26" y="140" />
+<BallInstance angle="0" discovered="false" id="10" type="comun" x="40" y="140" />
+<music id="SOUND_LEVEL_1_8" />
+</level>

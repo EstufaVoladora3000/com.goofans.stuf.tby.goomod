@@ -1,0 +1,63 @@
+<scene backgroundcolor="235,80,80" maxx="450" maxy="600" minx="-650" miny="0">
+
+	
+	<radialforcefield antigrav="false" center="-155.5,297" dampeningfactor="0" forceatcenter="-15" forceatedge="0" id="worldGravity" radius="1000" />
+<linearforcefield antigrav="true" dampeningfactor="0.0" force="0,0" geomonly="false" type="gravity" />
+<particles depth="-24" effect="worldMap_FactorySmokeWhite" pos="-239.89,392.5" pretick="0" />
+<particles depth="8" effect="blackBallsRight" pretick="0" />
+<particles depth="-64" effect="mistRight" pretick="0" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="8.8" id="newmail" image="NEWMAIL" name="newmail" rotation="9.54" scalex="0.263" scaley="0.263" x="-163.71" y="378.4" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="0" image="GLOBE_SHADOW" name="globe_shadow" rotation="45" scalex="0.255" scaley="0.255" x="-158" y="295" />
+<SceneLayer alpha="1" anim="rot_1rps" animspeed="2" colorize="50,50,50" depth="-0.8" image="GEAR1BLURGRAY" name="gear1blurGray" rotation="7.96" scalex="0.125" scaley="0.125" x="-211.64" y="367.36" />
+<SceneLayer alpha="1" anim="rot_1rps" animspeed="-2.6" colorize="50,50,50" depth="-0.8" image="GEAR1BLURGRAY" name="gear1blurGray" rotation="7.96" scalex="0.099" scaley="0.099" x="-223.92" y="334.15" />
+<SceneLayer alpha="1" anim="rot_1rps" animspeed="-0.5" colorize="255,255,255" depth="-8" image="SWIRLMIST" name="swirlMist" rotation="-6.09" scalex="1" scaley="1" x="-157.5" y="295" />
+<SceneLayer alpha="1" anim="rot_1rps" animspeed="-0.2" colorize="255,255,255" depth="-8.8" image="SWIRLCLOUDS" name="swirlClouds" rotation="-6.01" scalex="0.837" scaley="0.837" x="-156.11" y="291.88" />
+<SceneLayer alpha="0.47" anim="rot_1rps" animspeed="-0.3" colorize="255,255,255" depth="-8.8" image="SWIRLCLOUDS" name="swirlClouds" rotation="-42.07" scalex="0.913" scaley="0.913" x="-155.78" y="293.16" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-17.6" image="TITLE_WORLD" name="title_WORLD" rotation="8.54" scalex="1" scaley="1" x="-180.5" y="407.5" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-17.6" image="TITLE_OF" name="title_OF" rotation="10.77" scalex="0.45" scaley="0.45" x="-295.45" y="253.65" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-17.6" image="TITLE_GOO" name="title_GOO" rotation="9.83" scalex="1" scaley="1" x="-136" y="168.99" />
+<SceneLayer alpha="0.4" anim="rot_1rps" animspeed="-0.05" colorize="255,255,255" depth="-24" image="BURST" name="burst" rotation="0" scalex="2.754" scaley="2.754" x="-154.49" y="288.97" />
+<SceneLayer alpha="0.75" colorize="255,100,100" depth="-80" image="BG" name="bg" rotation="0" scalex="4" scaley="3.375" tilex="true" tiley="true" x="0" y="300" />
+<buttongroup id="boringmenugroup" osx="54,1.12">
+		<button alpha="1" colorize="255,255,255" depth="2" id="changename" onclick="showselectprofile" onmouseenter="showtooltip" onmouseexit="hidetooltip" over="MM_PROFILES_OVER" overlay="true" rotation="0" scalex="0.45" scaley="0.45" tooltip="TOOLTIP_PROFILES" up="MM_PROFILES_UP" x="-55" y="90" />
+<button alpha="1" colorize="255,255,255" depth="2" id="credits" onclick="credits" onmouseenter="showtooltip" onmouseexit="hidetooltip" over="MM_CREDITS_OVER" overlay="true" rotation="0" scalex="0.45" scaley="0.45" tooltip="TOOLTIP_CREDITS" up="MM_CREDITS_UP" x="-2" y="90" />
+<button alpha="1" colorize="255,255,255" depth="2" id="quit" onclick="quit" onmouseenter="showtooltip" onmouseexit="hidetooltip" over="MM_EXIT_OVER" overlay="true" rotation="0" scalex="0.45" scaley="0.45" tooltip="TOOLTIP_QUIT" up="MM_EXIT_UP" x="50" y="90" />
+</buttongroup>
+<buttongroup id="mainbuttongroup" osx="130,1.2">
+		<button alpha="1" colorize="255,255,255" depth="0.2" id="island1" onclick="island1" onmouseenter="island1showtext" onmouseexit="islandhidetext" over="II_C1_OVER" rotation="-38" scalex="0.185" scaley="0.174" up="II_C1_UP" x="-109.06" y="357.96" />
+<button alpha="1" colorize="255,255,255" depth="0.1" disabled="Nilisland" id="island2" onclick="island2" onmouseenter="island2showtext" onmouseexit="islandhidetext" over="Nilisland" rotation="-78" scalex="0.181" scaley="0.188" up="Nilisland" x="-74.92" y="314.28" />
+<button alpha="1" colorize="255,255,255" depth="0.1" disabled="II_C4_DISABLED" id="island4" onclick="island4" onmouseenter="island4showtext" onmouseexit="islandhidetext" over="II_C4_OVER" rotation="-166" scalex="0.609" scaley="0.609" up="II_C4_UP" x="-140.71" y="209.18" />
+<button alpha="1" colorize="255,255,255" depth="0.1" disabled="Nilisland" id="island3" onclick="island3" onmouseenter="island3showtext" onmouseexit="islandhidetext" over="Nilisland" rotation="-118" scalex="0.203" scaley="0.24" up="Nilisland" x="-79.55" y="251.32" />
+<button alpha="1" colorize="255,255,255" depth="0.1" disabled="II_C5_DISABLED" id="island5" onclick="island5" onmouseenter="island5showtext" onmouseexit="islandhidetext" over="II_C5_OVER" rotation="-283" scalex="0.785" scaley="0.718" up="II_C5_UP" x="-257.36" y="312.93" />
+<button alpha="1" colorize="255,255,255" depth="0.1" disabled="DomeNil" id="wogcorp_intact" onclick="wogcorp" onmouseenter="wogcorpshowtext" onmouseexit="islandhidetext" over="Dome" rotation="3.61" scalex="0.16" scaley="0.16" up="DomeNight" x="-163.62" y="376.94" />
+<button alpha="1" colorize="255,255,255" depth="0.1" id="wogcorp_3d" onclick="wogcorp" onmouseenter="wogcorpshowtext" onmouseexit="islandhidetext" over="Dome" rotation="3.61" scalex="0.16" scaley="0.16" up="DomeNight" x="-163.62" y="376.94" />
+<button alpha="1" colorize="255,255,255" depth="0.1" id="wogcorp_destroyed" onclick="wogcorp" onmouseenter="wogcorpdshowtext" onmouseexit="islandhidetext" over="Dome" rotation="3.61" scalex="0.16" scaley="0.16" up="DomeNight" x="-163.62" y="376.94" />
+<button alpha="1" colorize="255,255,255" depth="8" disabled="II_C6_DISABLED" id="island6" onclick="island6" onmouseenter="island6showtext" onmouseexit="islandhidetext" over="II_C6_OVER" rotation="0" scalex="1" scaley="1" up="II_C6_UP" x="1" y="1" />
+</buttongroup>
+<label align="left" depth="0" font="FONT_OUTLINE_18" id="newballs" overlay="true" rotation="8.779" scale="1" screenspace="false" text="LABEL_PLUS_X" x="-176.97" y="393.47" />
+<circle id="world" material="verysticky" radius="72.5" static="true" tag="walkable" x="-158" y="295" />
+<line anchor="0,-700" id="" material="rock" normal="0,1" tag="detaching" />
+<line anchor="0,1215" id="" material="rock" normal="0,-1" tag="detaching" />
+<line anchor="820,0" id="" material="rock" normal="-1,0.0014" tag="detaching" />
+<line anchor="-1085,0" id="" material="rock" normal="1,-0.0014" tag="detaching" />
+<SceneLayer alpha="0.8" anim="rot_1rps" animspeed="0.05" colorize="255,255,255" depth="-24" image="BURST" name="burst" rotation="0" scalex="2.754" scaley="2.754" x="-154.49" y="288.97" />
+<radialforcefield antigrav="true" center="-155.5,297" dampeningfactor="0" forceatcenter="1" forceatedge="-5" id="worldGravity" radius="1500" />
+<circle id="Moon" material="verysticky" radius="36.56" static="true" tag="walkable" x="281.79" y="495.17" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="0" image="GLOBE_SHADOW" name="moon" rotation="45" scalex="0.13" scaley="0.13" x="281.79" y="495.17" />
+<radialforcefield antigrav="false" center="281.79,495.17" dampeningfactor="0" forceatcenter="-35" forceatedge="0" id="MoonGravity" radius="150" />
+<radialforcefield antigrav="false" center="-158,295" dampeningfactor="0.5" forceatcenter="-5" forceatedge="5" id="Air" radius="165.4" rotationaldampeningfactor="0.5" />
+<SceneLayer alpha="1" depth="-0.1" image="BlackSign" rotation="0" scalex="1.053" scaley="0.702" tilex="false" tiley="false" x="-2.39" y="89.86" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="1" image="LETTERBOX_TOP" name="letterbox_down" rotation="-180" scalex="2.406" scaley="0.626" x="-92.63" y="25.78" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="1" image="LETTERBOX_TOP" name="letterbox_up" rotation="0" scalex="2.356" scaley="0.787" x="-98.83" y="575" />
+<SceneLayer alpha="1" depth="-0.2" image="BlackSign" rotation="-90" scalex="0.664" scaley="0.243" tilex="false" tiley="false" x="-60" y="75" />
+<SceneLayer alpha="1" depth="-0.2" image="BlackSign" rotation="-90" scalex="0.664" scaley="0.243" tilex="false" tiley="false" x="55" y="75" />
+<SceneLayer alpha="1" depth="0" image="Nilisland" rotation="-210.75" scalex="0.183" scaley="0.195" tilex="false" tiley="false" x="-201.56" y="218.6" />
+<SceneLayer alpha="1" depth="0" image="Nilisland" rotation="-317.19" scalex="0.175" scaley="0.208" tilex="false" tiley="false" x="-219.06" y="360.34" />
+<SceneLayer alpha="1" depth="0" image="TBY" name="Mod Name" rotation="0" scalex="0.2" scaley="0.2" x="200" y="128" />
+<SceneLayer alpha="1" depth="0" image="Nilisland" rotation="-245.59" scalex="0.163" scaley="0.183" tilex="false" tiley="false" x="-236.83" y="260.66" />
+<label align="right" colorize="120,120,120" depth="10" font="FONT_BIGWHITE_52" id="" rotation="0" scale="0.3" text="Win7ModeWarning" x="346" y="30" />
+<circle id="g1" material="verysticky" radius="14.8" static="true" tag="walkable" x="-226.15" y="306.64" />
+<circle id="g2" material="verysticky" radius="20.54" static="true" tag="walkable" x="-117.48" y="344.28" />
+<circle id="g3" material="verysticky" radius="17.26" static="true" tag="walkable" x="-163.6" y="372.44" />
+<SceneLayer alpha="1" depth="1" image="ADGS" rotation="0" scalex="0.45" scaley="0.45" tilex="false" tiley="false" x="50" y="90" />
+</scene>

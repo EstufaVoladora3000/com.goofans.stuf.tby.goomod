@@ -1,0 +1,44 @@
+<!-- Created by WooGLE v0.78 RC7 -->
+<level allowskip="true" autobounds="false" ballsrequired="4" letterboxed="false" retrytime="240" strandgeom="true" textcolor="255,255,255" texteffects="true" timebugprobability="1" visualdebug="false">
+
+	
+	<camera aspect="normal" endpos="75,550" endzoom="0.6">
+		<poi pause="0" pos="9.44,276.82" traveltime="0" zoom="2" />
+<poi pause="0" pos="17.81,330" traveltime="3" zoom="1" />
+</camera>
+<camera aspect="widescreen" endpos="75,550" endzoom="0.7">
+		<poi pause="0" pos="9.44,276.82" traveltime="0" zoom="2" />
+<poi pause="0" pos="17.81,330" traveltime="3" zoom="1" />
+</camera>
+<levelexit filter="GooProduct,Goolden" id="theExit" pos="595,642" radius="75">
+	</levelexit>
+<pipe type="BLACK">
+<Vertex x="595" y="642" />
+<Vertex x="705.49" y="642.0" />
+<Vertex x="705.49" y="777.49" />
+<Vertex x="577.01" y="777.49" />
+<Vertex x="577.01" y="947.78" />
+<Vertex x="704.42" y="947.78" />
+<Vertex x="704.42" y="855.21" />
+<Vertex x="791.8" y="855.21" />
+<Vertex x="791.8" y="444.41" />
+<Vertex x="971.29" y="444.41" />
+</pipe>
+<BallInstance angle="0" discovered="false" id="OCD Golden GooBall" type="Goolden" x="627" y="220" />
+<BallInstance angle="0" discovered="false" id="1" type="common_black" x="91" y="147" />
+<BallInstance angle="0" discovered="false" id="2" type="common_black" x="-56" y="147" />
+<BallInstance angle="0" discovered="true" id="3" type="common_black" x="13.0" y="252.0" />
+<BallInstance angle="0" discovered="false" id="4" type="balloon" x="15" y="183" />
+<BallInstance angle="0" discovered="false" id="5" type="balloon" x="10" y="395" />
+<Strand gb1="1" gb2="3" />
+<Strand gb1="3" gb2="2" />
+<Strand gb1="2" gb2="1" />
+<music id="Song" />
+<BallInstance angle="0" discovered="false" id="6" type="GooProduct" x="-443" y="678" />
+<BallInstance angle="0" discovered="false" id="7" type="GooProduct" x="-483" y="678" />
+<BallInstance angle="0" discovered="false" id="8" type="GooProduct" x="-526" y="679" />
+<BallInstance angle="0" discovered="false" id="9" type="GooProduct" x="-568" y="680" />
+<BallInstance angle="0" discovered="false" id="0" type="GooProduct" x="-612" y="679" />
+<Strand gb1="3" gb2="5" />
+<signpost alpha="1" colorize="255,255,255" depth="0.11" image="SPSP" name="sgn1" rotation="-25.91" scalex="0.6" scaley="0.6" text="ch1lv6sgn1" x="248" y="185" />
+</level>

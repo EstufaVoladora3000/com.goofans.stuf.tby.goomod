@@ -1,0 +1,171 @@
+<!-- Created by WooGLE v0.78 RC7 -->
+<level allowskip="false" autobounds="false" ballsrequired="56" letterboxed="false" retrytime="300" strandgeom="false" textcolor="255,255,255" timebugprobability="0.5" visualdebug="false">
+
+	
+	<camera aspect="normal" endpos="277,424" endzoom="0.5">
+		<poi pause="0" pos="-780,660" traveltime="0" zoom="1.9" />
+<poi pause="0" pos="-660,650" traveltime="3" zoom="1" />
+</camera>
+<camera aspect="widescreen" endpos="277,424" endzoom="0.5">
+		<poi pause="0" pos="-780,660" traveltime="0" zoom="2" />
+<poi pause="0" pos="-580,650" traveltime="3" zoom="1" />
+</camera>
+<levelexit filter="" id="theExit" pos="870,130" radius="75.83">
+	</levelexit>
+<BallInstance angle="0" discovered="false" id="1" type="comun" x="-888.67" y="558.02" />
+<BallInstance angle="0" discovered="false" id="2" type="comun" x="-822.17" y="561.67" />
+<BallInstance angle="0" discovered="false" id="3" type="comun" x="-890.49" y="507.96" />
+<BallInstance angle="0" discovered="false" id="4" type="comun" x="-855.82" y="557.02" />
+<BallInstance angle="0" discovered="false" id="5" type="comun" x="-872.05" y="532.14" />
+<BallInstance angle="0" discovered="false" id="6" type="comun" x="-826.61" y="595.97" />
+<BallInstance angle="0" discovered="false" id="7" type="comun" x="-870.59" y="583.09" />
+<BallInstance angle="0" discovered="false" id="8" type="comun" x="-855.62" y="506.37" />
+<BallInstance angle="0" discovered="false" id="9" type="comun" x="-906.15" y="532.75" />
+<BallInstance angle="0" discovered="false" id="10" type="comun" x="-923.48" y="508.28" />
+<BallInstance angle="0" id="11" type="Anchor_Common" x="-798.4" y="499.49" />
+<BallInstance angle="0" id="12" type="comun" x="-796.17" y="616.27" />
+<BallInstance angle="0" id="13" type="comun" x="-680.78" y="612.6" />
+<BallInstance angle="0" id="14" type="Anchor_Common" x="-689.1" y="495.81" />
+<BallInstance angle="0" id="15" type="comun" x="-711.68" y="510.67" />
+<BallInstance angle="0" id="16" type="comun" x="-786.17" y="522.6" />
+<BallInstance angle="0" id="17" type="comun" x="-758.88" y="530.81" />
+<BallInstance angle="0" id="18" type="comun" x="-771.34" y="511.68" />
+<BallInstance angle="0" id="19" type="comun" x="-711.66" y="601.12" />
+<BallInstance angle="0" id="20" type="comun" x="-769.12" y="595.82" />
+<BallInstance angle="0" id="21" type="comun" x="-724.63" y="522.25" />
+<BallInstance angle="0" id="22" type="comun" x="-697.01" y="537.79" />
+<BallInstance angle="0" id="23" type="comun" x="-787.61" y="592.6" />
+<BallInstance angle="0" id="24" type="comun" x="-692.17" y="590.63" />
+<BallInstance angle="0" discovered="false" id="25" type="comun" x="1236.82" y="588.48" />
+<BallInstance angle="0" discovered="false" id="26" type="comun" x="1168.9" y="596.4" />
+<BallInstance angle="0" discovered="false" id="27" type="comun" x="1169.8" y="562.2" />
+<BallInstance angle="0" discovered="false" id="28" type="comun" x="1142.06" y="635.36" />
+<BallInstance angle="0" discovered="false" id="29" type="comun" x="1177.75" y="627.72" />
+<BallInstance angle="0" discovered="false" id="30" type="comun" x="1204.78" y="592.99" />
+<BallInstance angle="0" discovered="false" id="31" type="comun" x="1137.64" y="570.23" />
+<BallInstance angle="0" discovered="false" id="32" type="comun" x="1068.45" y="570.01" />
+<BallInstance angle="0" discovered="false" id="33" type="comun" x="1097.32" y="602.74" />
+<BallInstance angle="0" discovered="false" id="34" type="comun" x="1269.84" y="552.39" />
+<BallInstance angle="0" discovered="false" id="35" type="comun" x="1131.92" y="603.97" />
+<BallInstance angle="0" discovered="false" id="36" type="comun" x="1236.43" y="555.72" />
+<BallInstance angle="0" discovered="false" id="37" type="comun" x="1202.71" y="560.42" />
+<BallInstance angle="0" discovered="false" id="38" type="comun" x="1103.12" y="570.96" />
+<BallInstance angle="0" discovered="false" id="39" type="water" x="923.63" y="52.99" />
+<BallInstance angle="0" discovered="false" id="40" type="water" x="-322.06" y="50.02" />
+<BallInstance angle="0" discovered="false" id="41" type="water" x="669.59" y="57.5" />
+<BallInstance angle="0" discovered="false" id="42" type="water" x="-51.18" y="53.29" />
+<BallInstance angle="0" discovered="false" id="43" type="comun" x="531.13" y="53.92" />
+<BallInstance angle="0" discovered="false" id="44" type="comun" x="-782.0" y="548.74" />
+<BallInstance angle="0" discovered="false" id="45" type="comun" x="806.04" y="53.49" />
+<BallInstance angle="0" discovered="false" id="46" type="comun" x="-188.22" y="52.51" />
+<BallInstance angle="0" discovered="false" id="47" type="comun" x="-724.94" y="548.66" />
+<BallInstance angle="0" discovered="false" id="48" type="comun" x="117.26" y="54.72" />
+<BallInstance angle="0" discovered="false" id="49" type="comun" x="-753.42" y="571.31" />
+<BallInstance angle="0" discovered="false" id="50" type="comun" x="-726.55" y="572.74" />
+<BallInstance angle="0" discovered="false" id="51" type="comun" x="1065.06" y="52.57" />
+<BallInstance angle="0" discovered="false" id="52" type="comun" x="-477.75" y="61.15" />
+<BallInstance angle="0" discovered="false" id="53" type="Anchor_Common" x="382" y="550" />
+<BallInstance angle="0" discovered="false" id="54" type="Anchor_Common" x="240" y="400" />
+<BallInstance angle="0" discovered="false" id="55" type="Anchor_Common" x="385" y="400" />
+<BallInstance angle="0" discovered="false" id="56" type="Anchor_Common" x="240" y="550" />
+<BallInstance angle="0" discovered="false" id="57" type="Anchor_Common" x="385" y="250" />
+<BallInstance angle="0" discovered="false" id="58" type="Anchor_Common" x="240" y="250" />
+<BallInstance angle="0" discovered="false" id="59" type="Anchor_Common" x="240" y="100" />
+<BallInstance angle="0" discovered="false" id="60" type="Anchor_Common" x="385" y="100" />
+<BallInstance angle="0" discovered="false" id="61" type="Anchor_Common" x="385" y="-55" />
+<BallInstance angle="0" discovered="false" id="62" type="Anchor_Common" x="240" y="-55" />
+<BallInstance angle="0" discovered="false" id="63" type="Anchor_Common" x="385" y="-215" />
+<BallInstance angle="0" discovered="false" id="64" type="Anchor_Common" x="240" y="-215" />
+<BallInstance angle="0" discovered="false" id="65" type="GooProduct" x="-741.74" y="604.3" />
+<BallInstance angle="0" discovered="false" id="66" type="GooProduct" x="-698.85" y="558.07" />
+<BallInstance angle="0" discovered="false" id="67" type="GooProduct" x="-779.76" y="572.96" />
+<BallInstance angle="0" discovered="false" id="68" type="GooProduct" x="-748.18" y="543.01" />
+<BallInstance angle="0" discovered="false" id="69" type="GooProduct" x="-708.03" y="578.77" />
+<BallInstance angle="0" discovered="false" id="70" type="GooProduct" x="-742.14" y="508.52" />
+<BallInstance angle="0" discovered="false" id="71" type="comun" x="-809.63" y="527.69" />
+<BallInstance angle="0" discovered="false" id="72" type="comun" x="-825.2" y="627.18" />
+<BallInstance angle="0" discovered="false" id="73" type="comun" x="-840.26" y="532.39" />
+<BallInstance angle="0" discovered="false" id="74" type="comun" x="-857.7" y="610.11" />
+<BallInstance angle="0" discovered="false" id="75" type="comun" x="-841.51" y="577.5" />
+<BallInstance angle="0" discovered="false" id="76" type="comun" x="1107.56" y="635.46" />
+<BallInstance angle="0" discovered="false" id="77" type="comun" x="1215.25" y="625.72" />
+<BallInstance angle="0" discovered="false" id="78" type="comun" x="1269.39" y="586.18" />
+<BallInstance angle="0" discovered="false" id="79" type="comun" x="1303.01" y="546.63" />
+<BallInstance angle="0" discovered="false" id="80" type="comun" x="1303.76" y="582.22" />
+<BallInstance angle="0" discovered="false" id="81" type="comun" x="1338.14" y="543.29" />
+<BallInstance angle="0" discovered="false" id="82" type="comun" x="1253.57" y="619.03" />
+<BallInstance angle="0" discovered="false" id="83" type="comun" x="1290.38" y="615.07" />
+<BallInstance angle="0" discovered="false" id="84" type="comun" x="1274.87" y="646.1" />
+<BallInstance angle="0" discovered="false" id="85" type="comun" x="1240.8" y="651.58" />
+<BallInstance angle="0" discovered="false" id="86" type="comun" x="1199.12" y="657.97" />
+<BallInstance angle="0" discovered="false" id="87" type="comun" x="1164.14" y="661.92" />
+<BallInstance angle="0" discovered="false" id="88" type="comun" x="1125.81" y="666.79" />
+<BallInstance angle="0" discovered="false" id="89" type="comun" x="1259.59" y="682.61" />
+<BallInstance angle="0" discovered="false" id="90" type="comun" x="1224.86" y="687.13" />
+<BallInstance angle="0" discovered="false" id="91" type="comun" x="1187.33" y="692.03" />
+<BallInstance angle="0" discovered="false" id="92" type="comun" x="1149.55" y="696.21" />
+<BallInstance angle="0" discovered="false" id="93" type="comun" x="1247.67" y="717.79" />
+<BallInstance angle="0" discovered="false" id="94" type="comun" x="1210.14" y="720.98" />
+<BallInstance angle="0" discovered="false" id="95" type="comun" x="1169.91" y="724.17" />
+<BallInstance angle="0" discovered="false" id="96" type="comun" x="1231.97" y="750.67" />
+<BallInstance angle="0" discovered="false" id="97" type="comun" x="1193.95" y="755.82" />
+<BallInstance angle="0" discovered="false" id="98" type="comun" x="1220.69" y="784.52" />
+<BallInstance angle="0" discovered="false" id="99" type="GooProduct" x="-404.17" y="47.45" />
+<BallInstance angle="0" discovered="false" id="100" type="GooProduct" x="-248.42" y="46.89" />
+<BallInstance angle="0" discovered="false" id="101" type="GooProduct" x="-114.44" y="51.92" />
+<BallInstance angle="0" discovered="false" id="102" type="GooProduct" x="32.94" y="48.57" />
+<BallInstance angle="0" discovered="false" id="103" type="GooProduct" x="1001.37" y="47.92" />
+<BallInstance angle="0" discovered="false" id="104" type="GooProduct" x="860.09" y="50.4" />
+<BallInstance angle="0" discovered="false" id="105" type="GooProduct" x="741.94" y="53.7" />
+<BallInstance angle="0" discovered="false" id="106" type="GooProduct" x="605.61" y="52.88" />
+<BallInstance angle="0" discovered="false" id="107" type="GooProduct" x="457.72" y="53.7" />
+<BallInstance angle="0" discovered="false" id="108" type="GooProduct" x="-493.8" y="131.72" />
+<BallInstance angle="0" discovered="false" id="109" type="GooProduct" x="343.0" y="-102.9" />
+<BallInstance angle="0" discovered="false" id="110" type="GooProduct" x="274.4" y="-167.69" />
+<BallInstance angle="0" discovered="false" id="111" type="GooProduct" x="344.27" y="54.63" />
+<BallInstance angle="0" discovered="false" id="112" type="GooProduct" x="275.67" y="-6.35" />
+<BallInstance angle="0" discovered="false" id="113" type="GooProduct" x="343.0" y="203.26" />
+<BallInstance angle="0" discovered="false" id="114" type="GooProduct" x="279.48" y="147.36" />
+<BallInstance angle="0" discovered="false" id="115" type="GooProduct" x="343.0" y="349.36" />
+<BallInstance angle="0" discovered="false" id="116" type="GooProduct" x="274.4" y="301.08" />
+<BallInstance angle="0" discovered="false" id="117" type="GooProduct" x="314.03" y="426.85" />
+<BallInstance angle="0" discovered="false" id="118" type="GooProduct" x="358.99" y="479.43" />
+<BallInstance angle="0" discovered="false" id="119" type="GooProduct" x="311.29" y="522.13" />
+<BallInstance angle="0" discovered="false" id="120" type="GooProduct" x="263.79" y="477.17" />
+<BallInstance angle="0" discovered="false" id="121" type="GooProduct" x="1079.96" y="99.89" />
+<pipe>
+<Vertex x="870" y="130" />
+<Vertex x="1400" y="130" />
+</pipe>
+<music id="Song" />
+<signpost alpha="1" colorize="255,255,255" depth="0" image="SIGNPOST_S.P." name="Sign2" pulse="true" rotation="-28.15" scalex="1" scaley="1" text="ch1lv3sgn1" x="428.61" y="628.77" />
+<signpost alpha="1" colorize="255,255,255" depth="-2" image="SIGNPOST_S.P." name="Bridge_sign" rotation="9.23" scalex="1" scaley="1" text="ch1lv3sgn2" x="1084.29" y="684.35" />
+<Strand gb1="13" gb2="14" />
+<Strand gb1="14" gb2="11" />
+<Strand gb1="11" gb2="12" />
+<Strand gb1="12" gb2="13" />
+<Strand gb1="13" gb2="11" />
+<Strand gb1="14" gb2="12" />
+<Strand gb1="53" gb2="56" />
+<Strand gb1="56" gb2="54" />
+<Strand gb1="54" gb2="55" />
+<Strand gb1="55" gb2="53" />
+<Strand gb1="53" gb2="54" />
+<Strand gb1="56" gb2="55" />
+<Strand gb1="55" gb2="57" />
+<Strand gb1="57" gb2="54" />
+<Strand gb1="54" gb2="58" />
+<Strand gb1="58" gb2="57" />
+<Strand gb1="57" gb2="60" />
+<Strand gb1="60" gb2="58" />
+<Strand gb1="58" gb2="59" />
+<Strand gb1="59" gb2="60" />
+<Strand gb1="60" gb2="61" />
+<Strand gb1="61" gb2="59" />
+<Strand gb1="59" gb2="62" />
+<Strand gb1="62" gb2="61" />
+<Strand gb1="61" gb2="63" />
+<Strand gb1="63" gb2="62" />
+<Strand gb1="62" gb2="64" />
+<Strand gb1="64" gb2="63" />
+</level>

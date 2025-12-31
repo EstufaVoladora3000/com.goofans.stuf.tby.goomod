@@ -1,0 +1,58 @@
+	<island name="The Goo Filled Islands" map="WaGIsland1" icon="IMAGE_GLOBAL_ISLAND_1_ICON">
+	  
+	<level id="1_8_hasia_ariba" 
+		 name="LEVEL_NAME_1_8_HASIA_ARIBA" 
+		 text="LEVEL_TEXT_1_8_HASIA_ARIBA" 
+		 ocd="moves,1" 
+		 /><!--Goo up-->
+		 
+	<level id="2_1_nivel_2_capitulo_1" depends="1_8_hasia_ariba" 
+		 name="LEVEL_NAME_2_1_NIVEL_2_CAPITULO_1" 
+		 text="LEVEL_TEXT_2_1_NIVEL_2_CAPITULO_1" 
+		 ocd="balls,45" 
+		 /><!--Brave adventurers-->
+	  
+	<level id="3_1_El_Puente_De_Goo" depends="2_1_nivel_2_capitulo_1" 
+		 name="LEVEL_NAME_3_1_EL_PUENTE_DE_GOO" 
+		 text="LEVEL_TEXT_3_1_EL_PUENTE_DE_GOO" 
+		 ocd="balls,88" 
+		 oncomplete="unlockwogcorp" 
+		 cutscene="x,TBYDomeUnlock,gooTransition_out" 
+		 /><!--The Goo bredge-->
+	<level id="la_cueva" depends="3_1_El_Puente_De_Goo" 
+		 name="LEVEL_NAME_LA_CUEVA" 
+		 text="LEVEL_TEXT_LA_CUEVA" 
+		 ocd="balls,10"/><!--The cave-->
+	<level id="la_escalada" depends="la_cueva" 
+		 name="LEVEL_NAME_LA_ESCALADA" 
+		 text="LEVEL_TEXT_LA_ESCALADA" 
+		 ocd="balls,30"/><!--The climb-->
+	<level id="1_Memory" depends="la_escalada" 
+		 name="LEVEL_NAME_1_MEMORY" 
+		 text="LEVEL_TEXT_1_MEMORY" 
+		 ocd="balls,110"/><!--Memories-->
+	<level id="un_bello_atardeser" depends="la_escalada" 
+		 name="LEVEL_NAME_UN_BELLO_ATARDESER" 
+		 text="LEVEL_TEXT_UN_BELLO_ATARDESER" 
+		 ocd="balls,6"/><!--A beautiful sunset-->
+	<level id="throw_a_ball" depends="3_1_El_Puente_De_Goo" 
+		 name="LEVEL_NAME_THROW_A_BALL" 
+		 text="LEVEL_TEXT_THROW_A_BALL" 
+		 ocd="balls,50" /><!--Throw a Gooball-->
+	<level id="Tangle_up" depends="7_1_la_torre,1_Memory" 
+		 name="LEVEL_NAME_TANGLE_UP" 
+		 text="LEVEL_TEXT_TANGLE_UP" 
+		 ocd="balls,33" /><!--Vines up-->
+	<level id="7_1_la_torre" depends="un_bello_atardeser" 
+		 name="LEVEL_NAME_7_1_LA_TORRE" 
+		 text="LEVEL_TEXT_7_1_LA_TORRE"  
+		 cutscene="LevelEndBlackMovie,WaGTowerD,gooTransition_out"
+                 ocd="time,30"/><!--The tower-->
+	  <level id="Ch1F" depends="7_1_la_torre" 
+		 name="LEVEL_NAME_CH1F" 
+		 text="LEVEL_TEXT_CH1F"  
+		 cutscene="x,ModDemoEnd,gooTransition_out"
+                 ocd="balls,92"/><!--Cable transportation-->
+		 
+		 
+</island>

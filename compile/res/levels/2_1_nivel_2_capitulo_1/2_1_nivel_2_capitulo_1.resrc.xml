@@ -1,0 +1,19 @@
+<!-- Created by WooGLE v0.78 RC7 -->
+<ResourceManifest>
+	<Resources id="scene_2_1_nivel_2_capitulo_1">
+		<SetDefaults idprefix="" path="./" />
+<Image id="piso" path="res/images/TBY/levelimages/GoopyGrassHillL" />
+<Image id="bg" path="res/images/levelimages/sky_blue2a" />
+<Image id="n" path="res/images/levelimages/wogcCloud1" />
+<Image id="n2" path="res/images/levelimages/wogcCloud2" />
+<Image id="RoundFloor" path="res/images/TBY/levelimages/RoundFloor" />
+<Image id="t" path="res/images/levelimages/tree_stripe1" />
+<Image id="Leaves" path="res/images/TBY/Leaves" />
+<Image id="BG_VEGGIES" path="res/images/levelimages/bgVeggies" />
+<Image id="SIGNPOST_S.P." path="res/images/TBY/signpost" />
+<Image id="SIGNSTICK_S.P." path="res/images/TBY/signpostPole" />
+<Image id="b" path="res/images/levelimages/bush_leafy_1" />
+<Sound id="song" path="res/music/TBY/Bravest-Adventurers" />
+<Image id="LLeaves" path="res/images/levelimages/bush_fg1a" />
+</Resources>
+</ResourceManifest>

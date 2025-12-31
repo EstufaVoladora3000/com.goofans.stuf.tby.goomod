@@ -1,0 +1,26 @@
+<!-- Created by WooGLE v0.78 RC7 -->
+<ResourceManifest>
+	<Resources id="scene_throw_a_ball">
+		<SetDefaults idprefix="" path="./" />
+<Image id="Gear" path="res/images/TBY/gearDetach" />
+<Image id="Floor" path="res/images/TBY/levelimages/throw_a_ball/Floor" />
+<Image id="RIGHTUP" path="res/images/TBY/levelimages/rightup" />
+<Image id="STICK" path="res/images/TBY/SignPostPoleBig" />
+<Image id="SIGN" path="res/images/TBY/SignPost_Big" />
+<Sound id="Song" path="res/music/TBY/Island_Divide" />
+<Image id="BG" path="res/images/TBY/levelimages/Mbg" />
+<Image id="Signed" path="res/images/TBY/levelimages/throw_a_ball/sign" />
+<Image id="BGVEGGIES" path="res/images/levelimages/bgVeggies" />
+<Image id="SIGNTX" path="res/images/TBY/levelimages/throw_a_ball/SignTx" />
+<Image id="SIGNTX.es" path="res/images/TBY/levelimages/throw_a_ball/SignTx.es" />
+<Image id="Bush" path="res/images/levelimages/bush_fg1a" />
+<Image id="BushLeafy" path="res/images/levelimages/bush_leafy_1" />
+<Image id="Star" path="res/images/TBY/star" />
+<Image id="Trunk" path="res/images/TBY/levelimages/Trunk-Flip" />
+<Image id="Leaves" path="res/images/TBY/Leaves" />
+<Image id="WAG_Trunk" path="res/images/TBY/levelimages/Trunk" />
+<Image id="Bolt" path="res/images/TBY/GearBolt" />
+<Image id="SPSPP" path="res/images/TBY/signpostPole" />
+<Image id="SPSP" path="res/images/TBY/signpost" />
+</Resources>
+</ResourceManifest>

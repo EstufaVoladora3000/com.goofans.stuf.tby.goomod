@@ -1,0 +1,15 @@
+<!-- Created by WooGLE v0.78 RC7 -->
+<ResourceManifest>
+	<Resources id="scene_la_cueva">
+		<SetDefaults idprefix="" path="./" />
+<Image id="f" path="res/images/TBY/levelimages/CaveFloor" />
+<Image id="BG" path="res/images/TBY/levelimages/CaveBG" />
+<Image id="g" path="res/images/levelimages/gear1blur" />
+<Sound id="C" path="res/music/loop_darkCavern" />
+<Sound id="R" path="res/music/RainRainWindyWindy" />
+<Image id="fade" path="res/images/TBY/Fade" />
+<Image id="Floor" path="res/images/TBY/levelimages/middle" />
+<Image id="SPSP" path="res/images/TBY/signpost" />
+<Image id="SPSPP" path="res/images/TBY/signpostPole" />
+</Resources>
+</ResourceManifest>

@@ -1,0 +1,100 @@
+<level allowskip="true" autobounds="false" ballsrequired="" letterboxed="false" strandgeom="false" textcolor="255,255,255" texteffects="true" timebugprobability="" visualdebug="false">
+
+	
+	<camera aspect="normal">
+		<poi pause="0" pos="-0.5,300" traveltime="0" zoom="0.8" />
+</camera>
+<camera aspect="widescreen">
+		<poi pause="0" pos="0,300" traveltime="0" zoom="0.8" />
+</camera>
+<music id="N2" />
+<BallInstance angle="0" id="0" type="Distant_" x="-168.5" y="196" />
+<BallInstance angle="0" id="1" type="Distant_" x="-132.5" y="159" />
+<BallInstance angle="0" id="2" type="Distant_" x="-193.5" y="128" />
+<BallInstance angle="0" id="3" type="Distant_" x="-241.5" y="166" />
+<BallInstance angle="0" id="4" type="Distant_" x="35.15" y="394.24" />
+<BallInstance angle="0" id="5" type="Distant_" x="54.16" y="347.86" />
+<BallInstance angle="0" id="6" type="Distant_" x="104.44" y="247.45" />
+<BallInstance angle="0" id="7" type="Distant_" x="106.05" y="178.29" />
+<BallInstance angle="0" id="8" type="Distant_" x="223.35" y="160.53" />
+<BallInstance angle="0" id="9" type="Distant_" x="155.6" y="239.6" />
+<BallInstance angle="0" id="10" type="Distant_" x="161.38" y="358.51" />
+<BallInstance angle="0" id="11" type="Distant_" x="121.47" y="382.95" />
+<BallInstance angle="0" id="12" type="Distant_" x="169.99" y="295.42" />
+<BallInstance angle="0" id="13" type="Distant_" x="405.31" y="173.25" />
+<BallInstance angle="0" id="14" type="Distant_" x="49.61" y="458.01" />
+<BallInstance angle="0" id="15" type="Distant_" x="261.26" y="352.01" />
+<BallInstance angle="0" id="16" type="Distant_" x="292.29" y="352.82" />
+<BallInstance angle="0" id="17" type="Distant_" x="234.78" y="268.2" />
+<BallInstance angle="0" id="18" type="Distant_" x="330.54" y="495.69" />
+<BallInstance angle="0" id="19" type="Distant_" x="339.62" y="185.77" />
+<BallInstance angle="0" id="20" type="Distant_" x="321.6" y="264.6" />
+<BallInstance angle="0" id="21" type="Distant_" x="327.38" y="383.51" />
+<BallInstance angle="0" id="22" type="Distant_" x="239.64" y="485.01" />
+<BallInstance angle="0" id="23" type="Distant_" x="325.8" y="314.48" />
+<BallInstance angle="0" id="24" type="Distant_" x="290.91" y="71.45" />
+<BallInstance angle="0" id="25" type="Distant_" x="141.75" y="134.95" />
+<BallInstance angle="0" id="26" type="Distant_" x="-287.5" y="236" />
+<BallInstance angle="0" id="27" type="Distant_" x="-317.5" y="228" />
+<BallInstance angle="0" id="28" type="Distant_" x="-330.5" y="318" />
+<BallInstance angle="0" id="29" type="Distant_" x="-240.5" y="425" />
+<BallInstance angle="0" id="30" type="Distant_" x="-228.5" y="463" />
+<BallInstance angle="0" id="31" type="Distant_" x="-313.5" y="449" />
+<BallInstance angle="0" id="32" type="Distant_" x="-318.5" y="389" />
+<BallInstance angle="0" id="33" type="Distant_" x="-366.5" y="385" />
+<BallInstance angle="0" id="34" type="Distant_" x="-366.5" y="307" />
+<BallInstance angle="0" id="35" type="Distant_" x="-344.5" y="190" />
+<BallInstance angle="0" id="36" type="Distant_" x="127.04" y="328.28" />
+<BallInstance angle="0" id="37" type="Distant_" x="170.5" y="411" />
+<BallInstance angle="0" id="38" type="Distant_" x="-133.11" y="371.61" />
+<BallInstance angle="0" id="39" type="Distant_" x="-86.46" y="329.11" />
+<BallInstance angle="0" id="40" type="Distant_" x="55.5" y="292" />
+<BallInstance angle="0" id="41" type="Distant_" x="9.5" y="263" />
+<BallInstance angle="0" id="42" type="Distant_" x="-28.5" y="214" />
+<BallInstance angle="0" id="43" type="Distant_" x="-75.5" y="170" />
+<BallInstance angle="0" id="44" type="Distant_" x="-189.5" y="157" />
+<BallInstance angle="0" id="45" type="Distant_" x="-300" y="175.5" />
+<BallInstance angle="0" id="46" type="Distant_" x="-359" y="257.5" />
+<BallInstance angle="0" id="47" type="Distant_" x="-346.5" y="361" />
+<BallInstance angle="0" id="48" type="Distant_" x="-309" y="416.5" />
+<BallInstance angle="0" id="49" type="Distant_" x="-261.5" y="437" />
+<BallInstance angle="0" id="50" type="Distant_" x="-176.5" y="429" />
+<BallInstance angle="0" id="51" type="Distant_" x="-52.39" y="415.52" />
+<BallInstance angle="0" id="52" type="Distant_" x="-54" y="281.5" />
+<Strand gb1="38" gb2="39" />
+<Strand gb1="39" gb2="51" />
+<Strand gb1="51" gb2="38" />
+<BallInstance angle="0" id="53" type="Distant_" x="380.97" y="80.97" />
+<BallInstance angle="0" id="54" type="Distant_" x="340.58" y="531.55" />
+<BallInstance angle="0" id="55" type="Distant_" x="267.39" y="213.13" />
+<BallInstance angle="0" id="56" type="Distant_" x="154.54" y="77.25" />
+<BallInstance angle="0" id="57" type="Distant_" x="343.82" y="458.83" />
+<BallInstance angle="0" id="58" type="Distant_" x="176.73" y="189.04" />
+<BallInstance angle="0" id="59" type="Distant_" x="230.82" y="108.56" />
+<BallInstance angle="0" id="60" type="Distant_" x="327.59" y="518.97" />
+<BallInstance angle="0" id="61" type="Distant_" x="242.6" y="511.29" />
+<BallInstance angle="0" id="62" type="Distant_" x="354.62" y="490.75" />
+<BallInstance angle="0" id="63" type="Distant_" x="-98.48" y="79.63" />
+<BallInstance angle="0" id="64" type="Distant_" x="328.83" y="430.61" />
+<BallInstance angle="0" id="65" type="Distant_" x="357.7" y="466.66" />
+<BallInstance angle="0" id="66" type="Distant_" x="20.76" y="121.18" />
+<BallInstance angle="0" id="67" type="Distant_" x="233.72" y="451.17" />
+<BallInstance angle="0" id="68" type="Distant_" x="352.54" y="395.92" />
+<BallInstance angle="0" id="69" type="Distant_" x="383.02" y="455.97" />
+<BallInstance angle="0" id="70" type="Distant_" x="294.38" y="126.92" />
+<BallInstance angle="0" id="71" type="Distant_" x="442.63" y="391.17" />
+<BallInstance angle="0" id="72" type="Distant_" x="409.73" y="460.24" />
+<BallInstance angle="0" id="73" type="Distant_" x="385.63" y="483.68" />
+<BallInstance angle="0" id="74" type="Distant_" x="330.73" y="484.35" />
+<BallInstance angle="0" id="75" type="Distant_" x="372.35" y="416.08" />
+<BallInstance angle="0" id="76" type="Distant_" x="355.93" y="240.69" />
+<BallInstance angle="0" id="77" type="Distant_" x="384.66" y="352.32" />
+<BallInstance angle="0" id="78" type="Distant_" x="-386.86" y="267.05" />
+<BallInstance angle="0" id="79" type="Distant_" x="-323.26" y="281.11" />
+<BallInstance angle="0" id="80" type="Distant_" x="-302.51" y="323.95" />
+<BallInstance angle="0" id="Spawner" type="Distant_Spawner" x="441.38" y="8.59" />
+<BallInstance angle="0" id="Spawner0" type="Distant_Spawner" x="441.45" y="591.38" />
+<BallInstance angle="0" id="Spawner1" type="Distant_Spawner" x="-155.58" y="591.27" />
+<BallInstance angle="0" id="Spawner2" type="Distant_Spawner" x="-155.5" y="10.59" />
+<BallInstance angle="0" id="Spawner3" type="Distant_Spawner" x="50" y="90" />
+</level>

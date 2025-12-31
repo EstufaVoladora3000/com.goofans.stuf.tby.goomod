@@ -1,0 +1,47 @@
+<!-- Created by WooGLE v0.78 RC7 -->
+<scene backgroundcolor="200,200,255" maxx="505" maxy="1250" minx="-715" miny="0">
+	<linearforcefield antigrav="true" dampeningfactor="0" force="0,-10" type="gravity" />
+<line anchor="520,0" id="right" normal="-1,0" tag="detaching" />
+<line anchor="-730,0" id="left" normal="1,0" tag="detaching" />
+<line anchor="-43,171" id="ground" normal="-0.10,0.99" />
+<SceneLayer alpha="0.4" depth="-800" image="bg" name="bg" rotation="0" scalex="3" scaley="2.5" tilex="false" tiley="false" x="-105" y="500" />
+<circle contacts="true" id="geometry1" material="sticky" radius="202.89" static="true" x="380.54" y="454.54" />
+<rectangle height="100.6" id="geometry2" material="sticky" rotation="0.0376991118431" static="true" width="117.15" x="472.06" y="624.43" />
+<rectangle height="100" id="geometry3" material="sticky" rotation="0.258308729295" static="true" width="100" x="377.11" y="611.37" />
+<circle id="geometry4" material="grass" radius="1376.21" static="true" x="-229.68" y="-1179.38" />
+<rectangle height="155.04" id="geometry5" rotation="1.57655591333" static="true" width="672.03" x="436.0" y="312.24" />
+<rectangle height="645.09" id="geometry6" material="sticky" rotation="0.0" static="true" width="117.78" x="337.46" y="296.12" />
+<rectangle height="451.02" id="geometry7" material="sticky" rotation="-1.23429684701" static="true" width="285.49" x="177.22" y="87.42" />
+<rectangle height="100" id="geometry9" material="sticky" rotation="-0.989776218806" static="true" width="100" x="112.0" y="175.07" />
+<rectangle height="100" id="geometry10" material="sticky" rotation="-0.0185004900711" static="true" width="100" x="228.84" y="401.17" />
+<rectangle height="240.46" id="geometry11" material="sticky" rotation="-0.106116018521" static="true" width="139.28" x="241.81" y="329.83" />
+<rectangle height="100" id="geometry12" material="sticky" rotation="-0.714014196991" static="true" width="100" x="171.21" y="230.61" />
+<rectangle height="100" id="geometry13" material="sticky" rotation="-0.405614518163" static="true" width="100" x="206.67" y="292.24" />
+<SceneLayer alpha="1" depth="1" image="n" name="n" rotation="0" scalex="1" scaley="1" tilex="false" tiley="false" x="-29.77" y="787.67" />
+<SceneLayer alpha="1" depth="1" image="n" name="n" rotation="0" scalex="1" scaley="1" tilex="false" tiley="false" x="-203.48" y="1094.93" />
+<SceneLayer alpha="1" depth="1" image="n" name="n" rotation="0" scalex="1" scaley="1" tilex="false" tiley="false" x="-493.28" y="844.45" />
+<SceneLayer alpha="1" depth="1" image="n2" name="n2" rotation="0" scalex="1" scaley="1" tilex="false" tiley="false" x="-396.73" y="492.88" />
+<SceneLayer alpha="1" depth="1" image="n2" name="n2" rotation="0" scalex="1" scaley="1" tilex="false" tiley="false" x="261.36" y="1026.79" />
+<SceneLayer alpha="1" depth="0" image="p" rotation="0" scalex="1.117" scaley="0.499" tilex="false" tiley="false" x="130.23" y="353.7" />
+<SceneLayer alpha="1" depth="0" image="p2" name="p2" rotation="-5.41" scalex="0.842" scaley="0.579" tilex="false" tiley="false" x="-95.9" y="143.05" />
+<linearforcefield antigrav="true" center="-491.36,838.18" dampeningfactor="0.5" force="0,10" height="20.98" type="force" water="false" width="236.39" />
+<linearforcefield antigrav="true" center="-200.44,1088.2" dampeningfactor="0.5" force="0,10" height="20.98" type="force" water="false" width="236.39" />
+<linearforcefield antigrav="true" center="263.08,1019.25" dampeningfactor="0.5" force="0,10" height="20.98" type="force" water="false" width="236.39" />
+<linearforcefield antigrav="true" center="-25.9,779.28" dampeningfactor="0.5" force="0,10" height="20.98" type="force" water="false" width="236.39" />
+<linearforcefield antigrav="true" center="-396.57,485.23" dampeningfactor="0.5" force="0,10" height="20.98" type="force" water="false" width="236.39" />
+<SceneLayer alpha="0.9" depth="-600" image="BGVEGGIES" name="" rotation="-4.29" scalex="3.098" scaley="2.33" tilex="false" tiley="false" x="-148.94" y="232.56" />
+<line anchor="202,320" id="" normal="-0.73,0.67" />
+<SceneLayer alpha="1" anim="rot_1rps" animspeed="0.8" depth="-1" image="GEAR1BLUR" rotation="0" scalex="1" scaley="1" tilex="false" tiley="false" x="0" y="180" />
+<circle contacts="true" id="geometry8" radius="105" static="true" tag="deadly,unwalkable" x="0" y="180" />
+<circle contacts="true" id="geometry15" radius="195" static="true" tag="stopsign,unwalkable" x="-5" y="193" />
+<SceneLayer alpha="1" depth="50" image="BGVEGGIES" rotation="23.34" scalex="1.806" scaley="1.59" tilex="false" tiley="false" x="364.56" y="162.12" />
+<SceneLayer alpha="0.99" depth="50" image="BGVEGGIES" rotation="-4.58" scalex="2.037" scaley="1.577" tilex="false" tiley="false" x="-333.19" y="70.59" />
+<SceneLayer alpha="1" depth="-250" image="BGVEGGIES" rotation="5.46" scalex="1.613" scaley="1.118" tilex="false" tiley="false" x="-156.55" y="217.0" />
+<SceneLayer alpha="0.8" depth="200" image="MEGACLOUD" name="MEGACLOUD" rotation="0" scalex="1.4" scaley="1.3" tilex="false" tiley="false" x="-100" y="1100" />
+<SceneLayer alpha="0.8" depth="10" image="MEGACLOUD" name="MEGACLOUD" rotation="-1.25" scalex="1.4" scaley="1.3" tilex="false" tiley="false" x="28.53" y="1094.29" />
+<SceneLayer alpha="0.8" depth="-200" image="MEGACLOUD" name="MEGACLOUD" rotation="1.84" scalex="1.4" scaley="1.3" tilex="false" tiley="false" x="-319.02" y="1077.18" />
+<SceneLayer alpha="0.8" depth="-900" image="MEGACLOUD" name="MEGACLOUD" rotation="0" scalex="2.25" scaley="2.25" tilex="false" tiley="false" x="-185" y="1152" />
+<SceneLayer alpha="0.4" depth="300" image="MEGACLOUD" name="MEGACLOUD" rotation="0" scalex="3" scaley="3" tilex="false" tiley="false" x="-200" y="1160" />
+<SceneLayer alpha="1" depth="-1" image="SPSPP" rotation="4.21" scalex="0.397" scaley="0.49" tilex="false" tiley="false" x="-289.11" y="281.96" />
+<SceneLayer alpha="1" depth="-2" image="SPSPP" rotation="20.22" scalex="0.345" scaley="0.361" tilex="false" tiley="false" x="304.38" y="709.14" />
+</scene>

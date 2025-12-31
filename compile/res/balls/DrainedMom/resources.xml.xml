@@ -1,0 +1,12 @@
+<ResourceManifest>
+
+  <Resources id="ball_DrainedMom">
+
+    
+    <SetDefaults idprefix="" path="./" />
+<SetDefaults idprefix="" path="./" />
+<Sound id="pop" path="res/balls/ZBombMom/pop" />
+<Image id="b" path="res/images/TBY/gooimages/DMB" />
+<Image id="shadow" path="res/images/TBY/gooimages/GMS" />
+</Resources>
+</ResourceManifest>

@@ -1,0 +1,74 @@
+<!-- Created by WooGLE v0.78 RC7 -->
+<scene backgroundcolor="100,100,255" maxx="1000" maxy="1000" minx="-1000" miny="-250">
+	<linearforcefield antigrav="false" dampeningfactor="0" enabled="true" force="0,-9" id="gravity" type="gravity" />
+<line anchor="1010,0" id="right" normal="-1,0" />
+<line anchor="-1010,0" id="left" normal="1,0" tag="detaching" />
+<line anchor="0,-100" id="ground" material="grass" normal="0,1" />
+<rectangle height="318.47" id="geometry1" material="slightlysticky" rotation="0.413817565648" static="true" width="658.85" x="-624.18" y="-9.41" />
+<rectangle height="307.12" id="geometry2" material="grass" rotation="0.0" static="true" width="602.54" x="-713.85" y="133.21" />
+<rectangle height="100.66" id="geometry3" image="RIGHTUP" imagepos="864.84,631.4" imagerot="-0.0802851455917" imagescale="1.06,0.722" material="ServerPlatform" rotation="-0.0872664625997" static="true" width="286.58" x="891.53" y="628.04" />
+<circle contacts="true" id="Gear" mass="2000" material="NotDedlyGear" nogeomcollisions="true" radius="137.96" rotspeed="-0.0872664625997" static="false" tag="ballbuster" x="560" y="50" />
+<linearforcefield antigrav="false" center="824,26" color="185,0,165,255" dampeningfactor="0.4" depth="-0.002" force="0,10" height="106.38" type="force" water="true" width="398.31" />
+<SceneLayer alpha="1" depth="-0.001" image="Floor" rotation="0" scalex="0.312" scaley="0.499" tilex="false" tiley="false" x="-708.52" y="117.91" />
+<SceneLayer alpha="1" depth="-0.002" image="RIGHTUP" rotation="-66.1" scalex="1.132" scaley="0.798" tilex="false" tiley="false" x="-376.7" y="115.22" />
+<circle id="geometry6" radius="25.86" static="true" x="727.8" y="617.06" />
+<circle id="geometry7" radius="25.86" static="true" x="732.04" y="664.01" />
+<rectangle height="50.36" id="geometry8" rotation="-0.0839503370209" static="true" width="49.11" x="729.3" y="643.08" />
+<rectangle height="14.71" id="geometry9" rotation="0.0509636141582" static="true" width="26.24" x="741.23" y="682.71" />
+<rectangle height="14.52" id="geometry10" rotation="-0.0680678408278" static="true" width="34.39" x="744.54" y="597.1" />
+<circle id="geometry11" material="slosh" radius="28.86" static="true" x="-413.39" y="258.11" />
+<SceneLayer alpha="1" depth="-0.006" image="STICK" name="" rotation="-6.15" scalex="0.242" scaley="0.299" tilex="false" tiley="false" x="-408.82" y="395.32" />
+<SceneLayer alpha="1" depth="0" image="Floor" rotation="0" scalex="1.017" scaley="0.677" tilex="false" tiley="false" x="4.3" y="-209.67" />
+<rectangle height="446.82" id="Grass" material="grass" rotation="0.0" static="true" width="2021.0" x="4.26" y="-204.13" />
+<SceneLayer alpha="0.9" depth="-3000" image="BG" name="BG" rotation="0" scalex="2.912" scaley="2.005" tilex="false" tiley="false" x="2.95" y="355.81" />
+<SceneLayer alpha="1" anim="rot_1rps" animspeed="-0.1" colorize="0,255,0" depth="-0.001" image="Gear" rotation="0" scalex="0.46" scaley="0.46" tilex="false" tiley="false" x="560" y="50" />
+<linearforcefield antigrav="false" center="-182.6,655.48" dampeningfactor="0.1" enabled="true" force="2,0" height="743.29" type="force" water="false" width="1780.84" />
+<radialforcefield antigrav="false" center="864,481" dampeningfactor="0" forceatcenter="-2.5" forceatedge="0" radius="75" />
+<radialforcefield antigrav="false" center="1000,670" dampeningfactor="0" forceatcenter="2.5" forceatedge="0" radius="95" />
+<particles depth="-0.003" effect="breezeRight" enabled="true" pos="585,-115" pretick="0" />
+<SceneLayer alpha="1" colorize="200,255,200" depth="-1600" image="BGVEGGIES" name="bgVeggies" rotation="-6.33" scalex="3.917" scaley="2.135" x="42.68" y="0" />
+<SceneLayer alpha="0.99" colorize="200,255,200" depth="-160" image="BGVEGGIES" name="bgVeggies" rotation="5.06" scalex="2.36" scaley="2.164" x="477.29" y="-132.21" />
+<SceneLayer alpha="0.99" colorize="200,255,200" depth="-160" image="BGVEGGIES" name="bgVeggies" rotation="-8.62" scalex="2.36" scaley="2.164" x="-516.63" y="-94.34" />
+<SceneLayer alpha="1" depth="-0.005" image="SIGN" name="" rotation="-6.98" scalex="0.235" scaley="0.3" tilex="false" tiley="false" x="-405.46" y="452.41" />
+<radialforcefield antigrav="false" center="1007.5,618.25" dampeningfactor="0" forceatcenter="30" forceatedge="0" radius="45.5" />
+<radialforcefield antigrav="false" center="958.7,621.79" dampeningfactor="0" forceatcenter="30" forceatedge="0" radius="44.63" />
+<radialforcefield antigrav="false" center="907.08,627.5" dampeningfactor="0" forceatcenter="30" forceatedge="0" radius="46.75" />
+<radialforcefield antigrav="false" center="845.64,633.04" dampeningfactor="0" forceatcenter="30" forceatedge="0" radius="44.03" />
+<radialforcefield antigrav="false" center="800.89,636.86" dampeningfactor="0" forceatcenter="30" forceatedge="0" radius="44.4" />
+<radialforcefield antigrav="false" center="755.95,641.53" dampeningfactor="0" forceatcenter="30" forceatedge="0" radius="45.8" />
+<radialforcefield antigrav="false" center="-672,-142" dampeningfactor="0" forceatcenter="30" forceatedge="30" radius="422" />
+<linearforcefield antigrav="false" center="0,-77.88" dampeningfactor="0" force="0,50" height="186.35" type="force" water="false" width="2122.57" />
+<SceneLayer alpha="0.97" depth="-0.004" image="SIGNTX" name="SignTx" rotation="-6.56" scalex="0.5" scaley="0.5" tilex="false" tiley="false" x="-398.15" y="502.36" />
+<radialforcefield antigrav="false" center="-456,194" dampeningfactor="0" forceatcenter="30" forceatedge="20" radius="89" />
+<SceneLayer alpha="1" colorize="200,255,200" depth="160" image="BGVEGGIES" name="bgVeggies" rotation="-25.36" scalex="3.112" scaley="2.221" x="-782.17" y="-43.51" />
+<SceneLayer alpha="1" colorize="200,255,200" depth="160" image="BGVEGGIES" name="bgVeggies" rotation="13.81" scalex="3.133" scaley="2.062" x="809.82" y="-199.4" />
+<SceneLayer alpha="1" colorize="200,255,200" depth="160" image="BGVEGGIES" name="bgVeggies" rotation="-0.05" scalex="3.161" scaley="1.844" x="-8.47" y="-177.29" />
+<SceneLayer alpha="0.99" colorize="200,255,200" depth="160" image="BGVEGGIES" name="bgVeggies" rotation="177.95" scalex="3.108" scaley="1.54" x="640.0" y="924.02" />
+<SceneLayer alpha="0.99" colorize="200,255,200" depth="160" image="BGVEGGIES" name="bgVeggies" rotation="185.23" scalex="3.194" scaley="1.593" x="-360.37" y="905.56" />
+<SceneLayer alpha="0.99" depth="0" image="Bush" rotation="144.38" scalex="1" scaley="1" tilex="false" tiley="false" x="961.29" y="527.26" />
+<SceneLayer alpha="0.99" depth="-0.005" image="Bush" rotation="319.04" scalex="1" scaley="1" tilex="false" tiley="false" x="-374.2" y="291.43" />
+<SceneLayer alpha="0.99" depth="-0.003" image="Bush" rotation="366.48" scalex="1" scaley="1" tilex="false" tiley="false" x="-682.68" y="330.19" />
+<SceneLayer alpha="1" depth="-0.004" image="BushLeafy" rotation="0" scalex="1" scaley="1" tilex="false" tiley="false" x="-852.14" y="342.37" />
+<SceneLayer alpha="1" depth="-0.001" image="BushLeafy" rotation="5.45" scalex="0.623" scaley="0.595" tilex="false" tiley="false" x="802.68" y="703.38" />
+<SceneLayer alpha="0.99" depth="0.1" image="Bush" rotation="38.16" scalex="1" scaley="1" tilex="false" tiley="false" x="963.74" y="708.19" />
+<SceneLayer alpha="0.96" depth="-0.003" image="BushLeafy" rotation="15.69" scalex="1.027" scaley="1.069" tilex="false" tiley="false" x="852.36" y="36.98" />
+<SceneLayer alpha="0.99" depth="0.1" image="Bush" rotation="89.14" scalex="1" scaley="1" tilex="false" tiley="false" x="958.49" y="625.77" />
+<rectangle height="50" id="GearThing" material="machine" rotation="0.555712833835" static="true" tag="ballbuster,detaching,unwalkable" width="50" x="686" y="16" />
+<SceneLayer alpha="1" colorize="90,130,90" depth="-0.005" image="BushLeafy" rotation="-11.16" scalex="1" scaley="1" tilex="false" tiley="false" x="-825.43" y="341.21" />
+<SceneLayer alpha="1" colorize="90,130,90" depth="-0.005" image="BushLeafy" rotation="15.61" scalex="1" scaley="1" tilex="false" tiley="false" x="380.02" y="63.96" />
+<SceneLayer alpha="1" colorize="90,130,90" depth="-0.005" image="BushLeafy" rotation="160.01" scalex="1" scaley="1" tilex="false" tiley="false" x="846.77" y="588.87" />
+<particles depth="-20" effect="bigleaves1" pos="0,0" pretick="0" />
+<particles depth="-20" effect="bigleaves1" pos="0,-40" pretick="0" />
+<line anchor="-667.89,160.06" id="line" normal="0.3496,0.9369" />
+<line anchor="0,1200" id="roof" normal="0,-1" />
+<SceneLayer alpha="0.25" anim="rot_1rps" animspeed="0.001" depth="-2900" image="Star" rotation="0" scalex="1.35" scaley="1.35" tilex="false" tiley="false" x="0" y="0" />
+<SceneLayer alpha="0.25" anim="rot_1rps" animspeed="0.001" depth="-2900" image="Star" rotation="22.5" scalex="1.35" scaley="1.35" tilex="false" tiley="false" x="0" y="0" />
+<SceneLayer alpha="1" depth="-16" image="Trunk" rotation="169.99" scalex="0.272" scaley="0.195" tilex="false" tiley="false" x="-777.29" y="389.81" />
+<SceneLayer alpha="1" depth="-8" image="Leaves" rotation="-18.04" scalex="0.587" scaley="0.539" tilex="false" tiley="false" x="-748.5" y="645.19" />
+<SceneLayer alpha="1" depth="-8" image="Leaves" rotation="161.44" scalex="0.596" scaley="0.51" tilex="false" tiley="false" x="-769.88" y="574.46" />
+<SceneLayer alpha="1" depth="-16" image="WAG_Trunk" rotation="18.7" scalex="0.249" scaley="0.179" tilex="false" tiley="false" x="-943.7" y="511.56" />
+<SceneLayer alpha="1" depth="-16" image="Trunk" rotation="337.99" scalex="0.272" scaley="0.195" tilex="false" tiley="false" x="987.36" y="215.47" />
+<SceneLayer alpha="1" anim="rot_1rps" animspeed="-0.1" depth="-0.0009" image="Bolt" rotation="0" scalex="0.5" scaley="0.5" tilex="false" tiley="false" x="560" y="50" />
+<hinge anchor="560,50" body1="Gear" />
+<SceneLayer alpha="1" depth="-2" image="SPSPP" rotation="18.82" scalex="0.479" scaley="0.548" tilex="false" tiley="false" x="262.96" y="121.57" />
+</scene>

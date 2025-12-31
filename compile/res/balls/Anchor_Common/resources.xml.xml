@@ -1,0 +1,31 @@
+<!-- Created by WooBLE v0.14 RC2 -->
+<ResourceManifest>
+
+  <Resources id="ball_Anchor_Common">
+
+    
+    <SetDefaults idprefix="" path="./" />
+<Image id="IMAGE_BALL_ANCHOR_COMMON_BODY" path="res/balls/comun/body" />
+<Image id="IMAGE_BALL_ANCHOR_COMMON_STRAND" path="res/balls/common/spring_goo" />
+<Image id="IMAGE_BALL_ANCHOR_COMMON_SPLAT1" path="res/balls/common/splat1" />
+<Image id="IMAGE_BALL_ANCHOR_COMMON_SPLAT2" path="res/balls/common/splat2" />
+<Image id="IMAGE_BALL_COMUN_HILITE64" path="res/balls/comun/hilite64" />
+<Image id="IMAGE_BALL_COMUN_HILITE128" path="res/balls/comun/hilite128" />
+<Sound id="SOUND_BALL_ANCHOR_COMMON_SQUEAK01" path="res/balls/common/batsqueak01" />
+<Sound id="SOUND_BALL_ANCHOR_COMMON_SQUEAK02" path="res/balls/common/batsqueak02" />
+<Sound id="SOUND_BALL_ANCHOR_COMMON_SQUEAK03" path="res/balls/common/batsqueak03" />
+<Sound id="SOUND_BALL_ANCHOR_COMMON_SQUEAK04" path="res/balls/common/batsqueak04" />
+<Sound id="SOUND_BALL_ANCHOR_COMMON_SQUEAK05" path="res/balls/common/batsqueak05" />
+<Sound id="SOUND_BALL_ANCHOR_COMMON_SQUEAK06" path="res/balls/common/batsqueak06" />
+<Sound id="SOUND_BALL_ANCHOR_COMMON_SQUEAK07" path="res/balls/common/batsqueak07" />
+<Sound id="SOUND_BALL_ANCHOR_COMMON_SQUEAK08" path="res/balls/common/batsqueak08" />
+<Sound id="SOUND_BALL_ANCHOR_COMMON_SQUEAK09" path="res/balls/common/batsqueak09" />
+<Sound id="SOUND_BALL_ANCHOR_COMMON_SQUEAK10" path="res/balls/common/batsqueak10" />
+<Sound id="SOUND_BALL_ANCHOR_COMMON_SQUEAK11" path="res/balls/common/batsqueak11" />
+<Sound id="SOUND_BALL_ANCHOR_COMMON_SQUEAK12" path="res/balls/common/batsqueak12" />
+<Sound id="SOUND_BALL_ANCHOR_COMMON_SQUEAK13" path="res/balls/common/batsqueak13" />
+<Sound id="SOUND_BALL_ANCHOR_COMMON_SQUEAK14" path="res/balls/common/batsqueak14" />
+<Sound id="SOUND_BALL_ANCHOR_COMMON_SQUEAK15" path="res/balls/common/batsqueak15" />
+<Sound id="SOUND_BALL_ANCHOR_COMMON_SQUEAK16" path="res/balls/common/batsqueak16" />
+</Resources>
+</ResourceManifest>

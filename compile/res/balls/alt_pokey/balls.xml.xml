@@ -1,0 +1,48 @@
+<!-- Created by WooBLE v0.14 RC2 -->
+<ball attenuationdeselect="0.05, 1.2, 1.0" attenuationdrag="0.05, 1.2, 1.0" attenuationdrop="0.05, 1.2, 1.0" attenuationselect="0.05, 1.0, 1.2" blinkcolor="0,0,0" climbspeed="0.9" detachable="true" grumpy="false" hideeyes="false" mass="60" maxattachspeed="1000" name="alt_pokey" shape="circle,40" speedvariance="0.2" statescales="attached,1.25" stickyattached="true" stickyunattached="false" strands="4" stuckattachment="false" suckable="false" towermass="6" walkspeed="0.1">
+<marker detach="DETACHMARKER_P1" drag="DRAGMARKER_P1" rotspeed="2" />
+<shadow image="IMAGE_BALL_GENERIC_SHADOW1" />
+<particles id="sleepyZzz" overball="true" states="sleeping" />
+<strand dampfac="0.5" image="STRAND" inactiveimage="STRAND" maxforce="1600" maxlen2="140" minlen="130" shrinklen="80" springconstmax="6" springconstmin="6" type="spring" walkable="false" />
+<detachstrand image="DSTRAND" maxlen="60" />
+<splat image="SPLAT1,SPLAT2" />
+<part image="BODY" layer="0" name="body" rotate="true" scale="0.65" state="standing,walking,tank,stuck_attached,sleeping,pipe,stuck,detaching,stuck_detaching,climbing,falling,dragging" stretch="16,2,0.5" x="0" y="0" />
+<part image="BODYSTUCK" layer="0" name="bodyStuck" rotate="true" scale="0.65" state="attached" stretch="16,2,0.5" x="0" y="0" />
+<part eye="true" image="IMAGE_BALL_GENERIC_EYE_GLASS_1,IMAGE_BALL_GENERIC_EYE_GLASS_2,IMAGE_BALL_GENERIC_EYE_GLASS_3" layer="2" name="lefteye" pupil="IMAGE_BALL_GENERIC_PUPIL1" pupilinset="13" rotate="true" scale="0.5" state="standing,walking,tank,stuck_attached,stuck,detaching,stuck_detaching,climbing,falling,dragging" x="-18,-12" xrange="-20,-10" y="0,7" yrange="-12,12" />
+<part eye="true" image="IMAGE_BALL_GENERIC_EYE_GLASS_1,IMAGE_BALL_GENERIC_EYE_GLASS_2,IMAGE_BALL_GENERIC_EYE_GLASS_3" layer="2" name="righteye" pupil="IMAGE_BALL_GENERIC_PUPIL1" pupilinset="13" rotate="true" scale="0.5" state="standing,walking,tank,stuck_attached,stuck,detaching,stuck_detaching,climbing,falling,dragging" x="12,18" xrange="10,20" y="0,7" yrange="-12,12" />
+<part eye="true" image="IMAGE_BALL_GENERIC_EYE_GLASS_1,IMAGE_BALL_GENERIC_EYE_GLASS_2" layer="2" name="lefteyeStuck" pupil="IMAGE_BALL_GENERIC_PUPIL1" pupilinset="13" rotate="true" scale="0.65" state="attached" x="-32,-32" xrange="-32,-22" y="0,0" yrange="-12,12" />
+<part eye="true" image="IMAGE_BALL_GENERIC_EYE_GLASS_1,IMAGE_BALL_GENERIC_EYE_GLASS_2" layer="2" name="righteyeStuck" pupil="IMAGE_BALL_GENERIC_PUPIL1" pupilinset="13" rotate="true" scale="0.65" state="attached" x="32,32" xrange="22,32" y="0,0" yrange="-12,12" />
+<sinvariance amp="0.1" freq="0.8" shift="0.0">
+<sinanim amp="0.1" axis="x" freq="2.0" part="body" shift="0" state="walking" type="scale" />
+<sinanim amp="0.1" axis="y" freq="2.0" part="body" shift="0.5" state="walking" type="scale" />
+<sinanim amp="2" axis="y" freq="2.0" part="body" shift="0" state="walking" type="translate" />
+<sinanim amp="2" axis="y" freq="2.0" part="lefteye,righteye" shift="0" state="walking" type="translate" />
+<sinanim amp="0.5" axis="x" freq="2.0" part="righteye" shift="0" state="walking" type="translate" />
+<sinanim amp="0.5" axis="x" freq="2.0" part="lefteye" shift="0.5" state="walking" type="translate" />
+</sinvariance>
+<sinvariance amp="0.02" freq="1" shift="0.5">
+<sinanim amp="0.07" axis="x" freq="1.0" part="body" shift="0.5" state="falling" type="scale" />
+<sinanim amp="0.07" axis="y" freq="1.0" part="body" shift="0.5" state="falling" type="scale" />
+</sinvariance>
+<sinvariance amp="0.5" freq="2" shift="0.5">
+<sinanim amp="0.7" axis="x" freq="1.0" part="righteye" shift="0.5" state="falling" type="translate" />
+<sinanim amp="0.7" axis="x" freq="1.0" part="lefteye" shift="0.5" state="falling" type="translate" />
+</sinvariance>
+<sinvariance amp="0.03" freq="0.3" shift="0">
+<sinanim amp="0.05" axis="x" freq="1.0" part="body" shift="0" state="dragging" type="scale" />
+<sinanim amp="0.05" axis="y" freq="1.0" part="body" shift="0" state="dragging" type="scale" />
+</sinvariance>
+<sound event="drop" id="SOUND_BALL_GENERIC_MUMBLE1,SOUND_BALL_GENERIC_MUMBLE2,SOUND_BALL_GENERIC_MUMBLE3,SOUND_BALL_GENERIC_MUMBLE4,SOUND_BALL_GENERIC_MUMBLE5,SOUND_BALL_GENERIC_MUMBLE6,SOUND_BALL_GENERIC_MUMBLE7" />
+<sound event="throw" id="SOUND_BALL_GENERIC_MUMBLE1,SOUND_BALL_GENERIC_MUMBLE2,SOUND_BALL_GENERIC_MUMBLE3,SOUND_BALL_GENERIC_MUMBLE4,SOUND_BALL_GENERIC_MUMBLE5,SOUND_BALL_GENERIC_MUMBLE6,SOUND_BALL_GENERIC_MUMBLE7" />
+<sound event="bounce" id="SOUND_BALL_GENERIC_BOUNCE1,SOUND_BALL_GENERIC_BOUNCE2,SOUND_BALL_GENERIC_BOUNCE3,SOUND_BALL_GENERIC_BOUNCE4" />
+<sound event="land" id="SOUND_BALL_GENERIC_STICK1,SOUND_BALL_GENERIC_STICK2,SOUND_BALL_GENERIC_STICK3,SOUND_BALL_GENERIC_STICK4,SOUND_BALL_GENERIC_STICK5,SOUND_BALL_GENERIC_STICK6" />
+<sound event="marker" id="SOUND_BALL_GENERIC_ROLLOVER1,SOUND_BALL_GENERIC_ROLLOVER2,SOUND_BALL_GENERIC_ROLLOVER3,SOUND_BALL_GENERIC_ROLLOVER4,SOUND_BALL_GENERIC_ROLLOVER5,SOUND_BALL_GENERIC_ROLLOVER6,SOUND_BALL_GENERIC_ROLLOVER7,SOUND_BALL_GENERIC_ROLLOVER8" />
+<sound event="pickup" id="SOUND_BALL_GENERIC_PICKUP1,SOUND_BALL_GENERIC_PICKUP2,SOUND_BALL_GENERIC_PICKUP3,SOUND_BALL_GENERIC_PICKUP4,SOUND_BALL_GENERIC_PICKUP5,SOUND_BALL_GENERIC_PICKUP6,SOUND_BALL_GENERIC_PICKUP7,SOUND_BALL_GENERIC_PICKUP8,SOUND_BALL_GENERIC_PICKUP9,SOUND_BALL_GENERIC_PICKUP10" />
+<sound event="attach" id="SOUND_BALL_GENERIC_ATTACH01,SOUND_BALL_GENERIC_ATTACH02,SOUND_BALL_GENERIC_ATTACH03,SOUND_BALL_GENERIC_STICK1,SOUND_BALL_GENERIC_STICK2,SOUND_BALL_GENERIC_STICK3,SOUND_BALL_GENERIC_STICK4,SOUND_BALL_GENERIC_STICK5,SOUND_BALL_GENERIC_STICK6" />
+<sound event="detaching" id="SOUND_BALL_GENERIC_DETACHING1" />
+<sound event="detached" id="SOUND_BALL_GENERIC_ATTACH01,SOUND_BALL_GENERIC_ATTACH02,SOUND_BALL_GENERIC_ATTACH03,SOUND_BALL_GENERIC_DETACHED1" />
+<sound event="snap" id="SOUND_BALL_GENERIC_SNAP1" />
+<sound event="death" id="SOUND_BALL_GENERIC_DEATH1" />
+<sound event="suction" id="SOUND_BALL_GENERIC_DETACHED1" />
+<sound event="exit" id="" />
+</ball>

@@ -1,0 +1,18 @@
+<!-- Created by WooGLE v0.78 RC7 -->
+<ResourceManifest>
+	<Resources id="scene_7_1_la_torre">
+		<SetDefaults idprefix="" path="./" />
+<Sound id="song" path="res/music/TBY/RPS" />
+<Image id="firewood" path="res/images/TBY/levelimages/firewood" />
+<Image id="BG" path="res/images/TBY/levelimages/tower/TowerBG" />
+<Image id="MAIN" path="res/images/TBY/levelimages/tower/main" />
+<Image id="Thing" path="res/images/TBY/levelimages/middle" />
+<Image id="S" path="res/images/TBY/levelimages/tower/Sadow" />
+<Image id="FG" path="res/images/TBY/levelimages/tower/FG" />
+<Image id="SIGNPOST_S.P." path="res/images/TBY/signpost_gray" />
+<Image id="SIGNSTICK_S.P." path="res/images/TBY/signpostPole_gray" />
+<Image id="._." path="res/images/TBY/Explosive_thing" />
+<Image id="Light" path="res/images/TBY/Explosive_light" />
+<Image id="DARK" path="res/images/TBY/Explosive_dark" />
+</Resources>
+</ResourceManifest>

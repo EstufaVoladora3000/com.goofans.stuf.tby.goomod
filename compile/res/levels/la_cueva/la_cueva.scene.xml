@@ -1,0 +1,31 @@
+<!-- Created by WooGLE v0.78 RC7 -->
+<scene backgroundcolor="0,0,0" maxx="500" maxy="1000" minx="-505" miny="0">
+	<linearforcefield antigrav="true" dampeningfactor="0" force="0,-10" type="gravity" />
+<line anchor="515,0" id="right" material="rock" normal="-1,0" />
+<line anchor="-520,0" id="left" material="rock" normal="1,0" />
+<line anchor="0,160" id="ground" normal="0,1" />
+<SceneLayer alpha="0.8" colorize="222,222,222" depth="-1900" image="BG" name="" rotation="0" scalex="4.261" scaley="4.3" tilex="false" tiley="false" x="0" y="535" />
+<SceneLayer alpha="1" depth="1" image="f" name="" rotation="0" scalex="0.585" scaley="2.544" tilex="false" tiley="false" x="32.57" y="440.25" />
+<SceneLayer alpha="1" depth="2" image="Floor" name="" rotation="0" scalex="1.879" scaley="1.513" tilex="false" tiley="false" x="4.75" y="65.14" />
+<rectangle height="183.68" id="geometry1" material="rock" rotation="0.0" static="true" width="366.81" x="-364.13" y="76.42" />
+<rectangle height="184.62" id="geometry2" material="rock" rotation="-0.0514872129338" static="true" width="135.44" x="-119.43" y="72.57" />
+<rectangle height="703.95" id="geometry3" material="rock" rotation="0.0" static="true" width="206.13" x="23.67" y="331.96" />
+<rectangle height="630.64" id="geometry4" material="rock" rotation="0.0" static="true" width="31.06" x="129.65" y="304.31" />
+<rectangle height="99.48" id="geometry5" material="rock" rotation="-1.46921816433" static="true" width="93.69" x="90.44" y="659.26" />
+<rectangle height="97.45" id="geometry6" material="rock" rotation="0.0" static="true" width="184.24" x="34.89" y="690.97" />
+<rectangle height="27.97" id="geometry7" material="rock" rotation="-1.3166763877" static="true" width="30.43" x="117.5" y="721.28" />
+<rectangle height="41.12" id="geometry8" material="rock" rotation="-0.215199096771" static="true" width="33.02" x="-59.3" y="700.65" />
+<circle id="geometry9" material="rock" radius="14.79" static="true" x="-55.98" y="724.92" />
+<rectangle height="195.42" id="geometry10" material="rock" rotation="0.0509636141582" static="true" width="109.29" x="187.0" y="67.27" />
+<rectangle height="193.05" id="geometry11" material="rock" rotation="0.0" static="true" width="321.53" x="396.46" y="71.25" />
+<circle contacts="false" id="geometry12" material="machine" radius="180.29" static="true" tag="mostlydeadly,deadly" x="-507.9" y="1034.92" />
+<SceneLayer alpha="1" anim="rot_1rps" animloop="true" animspeed="-0.6" depth="0" image="g" name="" rotation="0" scalex="1.705" scaley="1.705" tilex="false" tiley="false" x="-507.23" y="1034.71" />
+<circle contacts="false" id="geometry13" material="machine" radius="136.8" static="true" tag="mostlydeadly,deadly" x="489.55" y="1022.58" />
+<SceneLayer alpha="1" anim="rot_1rps" animloop="true" animspeed="0.9" depth="0" image="g" name="" rotation="0" scalex="1.292" scaley="1.292" tilex="false" tiley="false" x="490.17" y="1022.64" />
+<line anchor="0,1130" id="roof" material="rock" normal="0,-1" tag="detaching" />
+<SceneLayer alpha="1" colorize="1,1,1" depth="10" image="fade" name="" rotation="0" scalex="25" scaley="1.1" tilex="false" tiley="false" x="5" y="253" />
+<SceneLayer alpha="1" colorize="1,1,1" depth="10" image="fade" name="" rotation="-180" scalex="25" scaley="1.1" tilex="false" tiley="false" x="33" y="772" />
+<SceneLayer alpha="1" colorize="1,1,1" depth="10" image="fade" name="" rotation="-90" scalex="25" scaley="1.1" tilex="false" tiley="false" x="-300" y="500" />
+<SceneLayer alpha="1" colorize="1,1,1" depth="10" image="fade" name="" rotation="90" scalex="25" scaley="1.1" tilex="false" tiley="false" x="350" y="500" />
+<SceneLayer alpha="1" depth="-2" image="SPSPP" rotation="52.04" scalex="0.438" scaley="0.552" tilex="false" tiley="false" x="-141.59" y="788.74" />
+</scene>

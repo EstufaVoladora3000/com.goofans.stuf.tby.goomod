@@ -1,0 +1,73 @@
+<!-- Created by WooGLE v0.78 RC7 -->
+<scene backgroundcolor="255,255,0" maxx="700" maxy="2055" minx="-700" miny="0">
+	<linearforcefield antigrav="true" dampeningfactor="0" force="0,-10" type="gravity" />
+<line anchor="710,0" id="" material="strand" normal="-1,0" tag="detaching" />
+<line anchor="-710,0" id="" material="strand" normal="1,0" tag="detaching" />
+<line anchor="0,90" id="" normal="0,1" />
+<SceneLayer alpha="0.9" depth="-1900" image="BG" rotation="0" scalex="2.01" scaley="2.01" tilex="false" tiley="false" x="4.77" y="850" />
+<SceneLayer alpha="1" depth="0" image="nube" rotation="0" scalex="1.295" scaley="1.412" tilex="false" tiley="false" x="-677.83" y="1522.9" />
+<SceneLayer alpha="1" depth="-0.1" image="nube" rotation="0" scalex="1.295" scaley="1.412" tilex="false" tiley="false" x="422.97" y="1525.91" />
+<SceneLayer alpha="1" depth="0" image="nube" rotation="180" scalex="1.295" scaley="1.412" tilex="false" tiley="false" x="291.47" y="1537.18" />
+<SceneLayer alpha="1" depth="-0.1" image="nube" rotation="180" scalex="1.295" scaley="1.412" tilex="false" tiley="false" x="-501.25" y="1494.47" />
+<SceneLayer alpha="1" depth="0" image="nube" rotation="180" scalex="1.295" scaley="1.412" tilex="false" tiley="false" x="-111.39" y="1513.04" />
+<SceneLayer alpha="1" depth="0" image="nube" rotation="0" scalex="1.295" scaley="1.412" tilex="false" tiley="false" x="74.26" y="1514.89" />
+<SceneLayer alpha="1" depth="0" image="nube" rotation="0" scalex="1.295" scaley="1.412" tilex="false" tiley="false" x="-336.02" y="1501.9" />
+<SceneLayer alpha="1" depth="0" image="nube" rotation="180" scalex="1.295" scaley="1.412" tilex="false" tiley="false" x="633.06" y="1520.46" />
+<linearforcefield antigrav="false" center="-722.0,1524.33" dampeningfactor="0" force="0,10" height="53.55" id="" type="force" water="false" width="180.13" />
+<linearforcefield antigrav="false" center="-432.32,1500" dampeningfactor="0" force="0,10" height="63.3" id="" type="force" water="false" width="397.27" />
+<linearforcefield antigrav="false" center="-22.37,1510.78" dampeningfactor="0" force="0,10" height="59.55" id="" type="force" water="false" width="420.58" />
+<linearforcefield antigrav="false" center="342.77,1530.25" dampeningfactor="0" force="0,10" height="63.45" id="" type="force" water="false" width="307.64" />
+<linearforcefield antigrav="false" center="629.01,1522.87" dampeningfactor="0" force="0,10" height="58.73" id="" type="force" water="false" width="258.9" />
+<SceneLayer alpha="1" depth="0.1" image="piso" rotation="0" scalex="0.95" scaley="0.95" tilex="false" tiley="false" x="0.74" y="241.58" />
+<rectangle height="192.56" id="" material="grass" rotation="0.365297412442" static="true" width="177.6" x="-591.45" y="53.57" />
+<rectangle height="238.77" id="" material="grass" rotation="0.291469985083" static="true" width="174.41" x="-426.96" y="85.48" />
+<circle id="" material="grass" radius="118.01" static="true" x="-314.34" y="116.74" />
+<rectangle height="200.04" id="" material="grass" rotation="0.174532925199" static="true" width="52.95" x="-334.84" y="130.67" />
+<rectangle height="145.24" id="" material="grass" rotation="-0.570897198327" static="true" width="175.29" x="-227.3" y="114.13" />
+<rectangle height="148.37" id="" material="grass" rotation="-0.464606646881" static="true" width="75.74" x="-137.9" y="59.75" />
+<rectangle height="150.17" id="" material="grass" rotation="-0.257086998819" static="true" width="96.49" x="-70.69" y="36.79" />
+<rectangle height="127.08" id="" material="grass" rotation="-0.00802851455917" static="true" width="114.68" x="35.23" y="34.47" />
+<rectangle height="95.06" id="" material="grass" rotation="0.189717289692" static="true" width="75.88" x="104.35" y="57.75" />
+<rectangle height="115.1" id="" material="grass" rotation="0.37158059775" static="true" width="113.61" x="189.6" y="74.56" />
+<circle id="" material="grass" radius="75" static="true" x="397.94" y="152.04" />
+<rectangle height="225.22" id="" material="grass" rotation="0.445233492184" static="true" width="96.72" x="377.97" y="99.68" />
+<rectangle height="219.23" id="" material="grass" rotation="-0.396364273128" static="true" width="99.04" x="429.3" y="101.36" />
+<rectangle height="147.4" id="" material="grass" rotation="-0.461988653003" static="true" width="221.32" x="583.54" y="68.06" />
+<rectangle height="171.54" id="" material="grass" rotation="0.446804288511" static="true" width="91.07" x="288.49" y="86.81" />
+<SceneLayer alpha="1" depth="-30" image="BG_VEGGIES" name="" rotation="13.39" scalex="0.812" scaley="0.755" tilex="false" tiley="false" x="-555.77" y="266.71" />
+<SceneLayer alpha="1" depth="-40" image="BG_VEGGIES" name="" rotation="-17.4" scalex="0.812" scaley="0.755" tilex="false" tiley="false" x="592.06" y="227.11" />
+<SceneLayer alpha="1" depth="-0.1" image="arbustoL" rotation="3.16" scalex="1" scaley="1" tilex="false" tiley="false" x="-553.06" y="180.86" />
+<SceneLayer alpha="1" depth="-0.01" image="arbustoL" rotation="-31.6" scalex="1" scaley="1" tilex="false" tiley="false" x="644.8" y="164.93" />
+<SceneLayer alpha="1" depth="-0.01" image="arbustoR" rotation="-8.92" scalex="1" scaley="001" tilex="false" tiley="false" x="-288.26" y="230.21" />
+<SceneLayer alpha="1" depth="-0.1" image="arbustoR" rotation="3.92" scalex="1" scaley="001" tilex="false" tiley="false" x="413.77" y="237.77" />
+<SceneLayer alpha="1" depth="0" image="Tower_of_Goo_Sign" name="ToG" rotation="23.77" scalex="0.6" scaley="0.6" tilex="false" tiley="false" x="-396.03" y="387.21" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-88" image="Tronco" name="" rotation="-27.66" scalex="1.02" scaley="1.02" x="718.84" y="407.72" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-32" image="Tronco" name="" rotation="-151.78" scalex="0.821" scaley="0.821" x="-651.2" y="442.52" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="200" image="leaves" name="" rotation="-4.54" scalex="1.214" scaley="1.106" x="605.59" y="79.2" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="200" image="leaves" name="" rotation="8.13" scalex="1.214" scaley="1.106" x="447.41" y="83.4" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="200" image="leaves" name="" rotation="-1.91" scalex="1.214" scaley="1.106" x="302.37" y="75.65" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="120" image="arbustoL" name="" rotation="-19.45" scalex="1.252" scaley="1.252" x="-546.64" y="58.29" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="120" image="arbustoL" name="" rotation="-0.04" scalex="1.252" scaley="1.252" x="563.32" y="67.79" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="120" image="arbustoL" name="" rotation="5.65" scalex="1.252" scaley="1.252" x="13.69" y="68.84" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="200" image="leaves" name="" rotation="-3.13" scalex="1.214" scaley="1.106" x="33.73" y="76.34" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="200" image="leaves" name="" rotation="-15.5" scalex="1.214" scaley="1.106" x="-112.79" y="88.36" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="200" image="leaves" name="" rotation="-4.01" scalex="1.214" scaley="1.106" x="-270.32" y="94.29" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="200" image="leaves" name="" rotation="12.38" scalex="1.214" scaley="1.106" x="-418.2" y="75.89" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="200" image="leaves" name="" rotation="-17.97" scalex="1.214" scaley="1.106" x="-564.28" y="88.59" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="200" image="leaves" name="" rotation="-4.85" scalex="1.214" scaley="1.106" x="-693.18" y="105.54" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="200" image="leaves" name="" rotation="-3.13" scalex="1.214" scaley="1.106" x="176.65" y="68.38" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="200" image="Arbol" name="" rotation="-3.13" scalex="1" scaley="1" x="-489.33" y="132.6" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="200" image="Arbol" name="" rotation="40.49" scalex="1" scaley="1" x="661.03" y="269.97" />
+<SceneLayer alpha="1" depth="-1" image="Arbol" name="" rotation="1.6" scalex="1.122" scaley="1.196" tilex="false" tiley="false" x="353.87" y="319.96" />
+<SceneLayer alpha="1" depth="-20" image="Arbol" name="" rotation="-6.61" scalex="1.122" scaley="1.196" tilex="false" tiley="false" x="-341.35" y="337.77" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="200" image="leaves" name="" rotation="-63.58" scalex="1.214" scaley="1.106" x="-714.94" y="282.87" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="200" image="leaves" name="" rotation="63.58" scalex="1.214" scaley="1.106" x="660.75" y="120.18" />
+<SceneLayer alpha="0.95" depth="-899" image="SUN" rotation="0" scalex="1" scaley="1" tilex="false" tiley="false" x="10" y="-100" />
+<SceneLayer alpha="0.3" anim="rot_1rps" animspeed="-0.0005" depth="-900" image="Star" name="" rotation="0" scalex="1" scaley="1" tilex="false" tiley="false" x="8" y="100" />
+<SceneLayer alpha="0.3" anim="rot_1rps" animspeed="0.0005" depth="-900" image="Star" name="" rotation="68" scalex="1" scaley="1" tilex="false" tiley="false" x="8" y="100" />
+<line anchor="0,2600" id="" normal="0,-1" tag="detaching,stopsign,unwalkable" />
+<line anchor="0,2660" id="" normal="0,-1" tag="detaching,unwalkable" />
+<linearforcefield antigrav="false" center="0,2350" dampeningfactor="1" force="1,20" height="500" type="force" water="false" width="1336" />
+<radialforcefield antigrav="false" center="0,3100" dampeningfactor="1" forceatcenter="16" forceatedge="10" radius="1000" />
+<SceneLayer alpha="1" depth="-2" image="SPSPP" rotation="-13.33" scalex="0.405" scaley="0.458" tilex="false" tiley="false" x="467.26" y="294.18" />
+</scene>

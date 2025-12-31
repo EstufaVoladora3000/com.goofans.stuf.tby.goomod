@@ -1,0 +1,51 @@
+<!-- Created by WooGLE v0.78 RC7 -->
+<level allowskip="false" autobounds="false" ballsrequired="25" letterboxed="false" retrytime="500" strandgeom="false" textcolor="255,255,255" timebugprobability="0.1" visualdebug="false">
+
+	
+	<camera aspect="normal" endpos="72,396" endzoom="0.7">
+		<poi pause="0" pos="-7.97,162.31" traveltime="0" zoom="1.3" />
+<poi pause="1" pos="-520.89,410.33" traveltime="1" zoom="1.2" />
+<poi pause="0" pos="36.92,490.94" traveltime="1" zoom="0.9" />
+<poi pause="1" pos="707.34,625.62" traveltime="1" zoom="1.2" />
+<poi pause="0" pos="215.49,346.02" traveltime="1" zoom="0.7" />
+<poi pause="0" pos="-19.57,230.69" traveltime="1" zoom="1.2" />
+</camera>
+<camera aspect="widescreen" endpos="46,396" endzoom="0.7">
+		<poi pause="0" pos="61.45,266.83" traveltime="0" zoom="1" />
+<poi pause="1" pos="-545.48,405.35" traveltime="2" zoom="1.6" />
+<poi pause="0" pos="125.88,477.09" traveltime="1.5" zoom="1" />
+<poi pause="1" pos="701.27,578.06" traveltime="1.5" zoom="1.6" />
+<poi pause="0" pos="58.34,366.16" traveltime="1" zoom="0.7" />
+<poi pause="0" pos="-82.22,251.03" traveltime="1" zoom="1.2" />
+</camera>
+<levelexit filter="" id="theExit" pos="864,481" radius="75">
+	</levelexit>
+<BallInstance angle="0" discovered="false" id="goo1" type="comun" x="68" y="185" />
+<BallInstance angle="0" discovered="false" id="goo2" type="comun" x="-103" y="179" />
+<BallInstance angle="0" discovered="false" id="goo3" type="comun" x="73" y="40" />
+<BallInstance angle="0" discovered="false" id="goo4" type="comun" x="-102" y="38" />
+<Strand gb1="goo3" gb2="goo1" />
+<Strand gb1="goo1" gb2="goo2" />
+<Strand gb1="goo2" gb2="goo4" />
+<Strand gb1="goo4" gb2="goo3" />
+<Strand gb1="goo3" gb2="goo2" />
+<Strand gb1="goo1" gb2="goo4" />
+<BallInstance angle="0" id="ThrowableGoo" type="Ivy" x="-22" y="281" />
+<BallInstance angle="0" discovered="false" id="goo6" type="Ivy" x="-561" y="305" />
+<BallInstance angle="0" discovered="false" id="goo10" type="Ivy" x="-632" y="304" />
+<BallInstance angle="0" discovered="false" id="goo11" type="Ivy" x="-732.89" y="302.49" />
+<BallInstance angle="0" discovered="false" id="goo13" type="Ivy" x="-697" y="305" />
+<BallInstance angle="0" discovered="false" id="goo15" type="Ivy" x="-598" y="305" />
+<BallInstance angle="0" discovered="false" id="goo18" type="Ivy" x="-765" y="304" />
+<pipe>
+<Vertex x="864" y="481" />
+<Vertex x="864.0" y="729.44" />
+<Vertex x="1180.02" y="729.44" />
+</pipe>
+<BallInstance angle="0" discovered="false" id="GooMom" type="DrainedMom" x="888.49" y="785.52" />
+<music id="Song" />
+<Strand gb1="goo1" gb2="ThrowableGoo" />
+<Strand gb1="goo2" gb2="ThrowableGoo" />
+<signpost alpha="1" colorize="255,255,255" depth="0" image="Signed" name="sgn1" pulse="false" rotation="-7" scalex="0.293" scaley="0.28" text="ch1lvO1sgn1" x="-404" y="435" />
+<signpost alpha="1" colorize="255,255,255" depth="0" image="SPSP" name="sgn2" rotation="18.09" scalex="0.593" scaley="0.593" text="ch1lvO1sgn2" x="249.89" y="178.85" />
+</level>

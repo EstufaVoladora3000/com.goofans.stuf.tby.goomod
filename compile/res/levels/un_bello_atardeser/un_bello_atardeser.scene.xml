@@ -1,0 +1,26 @@
+<!-- Created by WooGLE v0.78 RC7 -->
+<scene backgroundcolor="0,0,0" maxx="890" maxy="1100" minx="-738" miny="25">
+	<line anchor="0,0" id="" normal="0,1" tag="mostlydeadly,deadly,geomkiller" />
+<SceneLayer alpha="0.8" depth="1" image="nubes" name="aurora(WIP)" rotation="0" scalex="1" scaley="1" tilex="false" tiley="false" x="621.63" y="213.22" />
+<SceneLayer alpha="0.8" depth="1" image="nubes" rotation="0" scalex="1.169" scaley="0.955" tilex="false" tiley="false" x="-532.13" y="671.69" />
+<SceneLayer alpha="1" depth="-5" image="pinchos" rotation="0" scalex="1.942" scaley="1.285" tilex="false" tiley="false" x="665.84" y="20" />
+<SceneLayer alpha="1" depth="4" image="pinchos" rotation="0" scalex="1.937" scaley="0.911" tilex="false" tiley="false" x="604.85" y="30" />
+<SceneLayer alpha="1" depth="2" image="pinchos" rotation="0" scalex="1.714" scaley="1.26" tilex="false" tiley="false" x="-515.32" y="20" />
+<SceneLayer alpha="1" depth="-5" image="pinchos" rotation="0.0" scalex="1.837" scaley="1.031" tilex="false" tiley="false" x="-569.98" y="20" />
+<SceneLayer alpha="1" depth="-2800" image="fondo" rotation="0" scalex="1.2" scaley="1.1" tilex="false" tiley="false" x="25" y="560" />
+<SceneLayer alpha="1" depth="0.1" image="SPSPP" name="" rotation="-22.68" scalex="0.45" scaley="0.45" tilex="false" tiley="false" x="230.71" y="153.16" />
+<linearforcefield antigrav="false" center="626,207" dampeningfactor="1" enabled="true" force="0,10" height="15" type="force" water="false" width="207" />
+<linearforcefield antigrav="false" center="-530,667" dampeningfactor="1" enabled="true" force="0,15" height="20" type="force" water="false" width="242" />
+<linearforcefield antigrav="true" dampeningfactor="0" force="0,-15" id="" type="gravity" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="0" image="Hill" name="" rotation="0" scalex="0.195" scaley="0.31" x="21" y="69" />
+<circle id="" material="grass" radius="474.83" static="true" x="15.52" y="-348.27" />
+<linearforcefield antigrav="false" center="92.77,50.52" dampeningfactor="1" enabled="true" force="0,5" height="108.97" id="helper" type="force" water="false" width="1664.56" />
+<radialforcefield antigrav="false" center="595,642" dampeningfactor="0" forceatcenter="-2.5" forceatedge="0" radius="75" />
+<SceneLayer alpha="1" depth="-1600" image="BGHB" rotation="5.42" scalex="1.151" scaley="0.88" tilex="false" tiley="false" x="916" y="60" />
+<rectangle height="23.6" id="" material="grass" rotation="-0.478918346747" static="true" tag="unwalkable" width="177.64" x="296.5" y="29.99" />
+<rectangle height="15.5" id="" material="grass" rotation="0.502654824574" static="true" tag="unwalkable" width="166.87" x="-262.2" y="34.44" />
+<linearforcefield antigrav="false" center="80,300" dampeningfactor="0" force="0,-1.2" height="50" type="force" water="false" width="1730" />
+<SceneLayer alpha="1" colorize="172,114,40" depth="-1600" image="Fade" name="" rotation="3.36" scalex="24.597" scaley="0.152" tilex="false" tiley="false" x="1550" y="-490" />
+<SceneLayer alpha="0.6" colorize="255,250,0" depth="-1200" image="Light" rotation="0" scalex="0.7" scaley="0.7" tilex="false" tiley="false" x="917.79" y="-146.16" />
+<SceneLayer alpha="0.6" colorize="255,250,0" depth="-1200" image="Light" rotation="0" scalex="0.7" scaley="0.7" tilex="false" tiley="false" x="-835.98" y="-95.9" />
+</scene>

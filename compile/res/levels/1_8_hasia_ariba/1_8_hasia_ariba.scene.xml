@@ -1,0 +1,45 @@
+<!-- Created by WooGLE v0.78 RC7 -->
+<scene backgroundcolor="0,0,0" maxx="430" maxy="1000" minx="-432.5" miny="0">
+	<linearforcefield antigrav="true" dampeningfactor="0" force="0,-10" type="gravity" />
+<line anchor="500,0" id="right" material="strand" normal="-0.9,0.45" tag="detaching" />
+<line anchor="-500,0" id="left" material="strand" normal="0.9,0.45" tag="detaching" />
+<line anchor="0,0" id="ground" material="grass" normal="0,1" tag="detaching" />
+<SceneLayer alpha="1" depth="-1600" image="SKY_BLUE2A" name="" rotation="0.0" scalex="3.389" scaley="5.382" tilex="false" tiley="false" x="-1.16" y="498.85" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-8" image="TREE_STRIPE1" name="" rotation="-155.58" scalex="0.821" scaley="0.821" x="-386.22" y="200.68" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-200" image="TUTORIALPOST" name="" rotation="3.78" scalex="0.908" scaley="0.712" x="-216" y="208" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-120" image="BUSH_LEAFY_1" name="" rotation="12.97" scalex="1.253" scaley="1.25" x="-313.65" y="78.78" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="200" image="BUSH_FG1A" name="" rotation="-15.74" scalex="1.415" scaley="1.189" x="-347.92" y="73.49" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-80" image="BUSH_LEAFY_1B" name="" rotation="18.97" scalex="1.098" scaley="1.1" x="-270.15" y="49.81" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="120" image="BUSH_LEAFY_1" name="" rotation="19.04" scalex="1.252" scaley="1.252" x="-26.94" y="72.1" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-88" image="TREE_STRIPE1" name="" rotation="-27.66" scalex="1.02" scaley="1.02" x="377" y="256" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-120" image="BUSH_LEAFY_1" name="" rotation="-6.41" scalex="1.252" scaley="1.252" x="330.53" y="46.15" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="200" image="BUSH_FG1A" name="" rotation="-4.54" scalex="1.355" scaley="0.969" x="281.62" y="79.36" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="200" image="BUSH_FG1A" name="" rotation="1.25" scalex="1.172" scaley="0.97" x="-0.18" y="94.1" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="0" image="HILL_FG1A" name="" rotation="0" scalex="0.253" scaley="0.25" x="-0.04" y="50.53" />
+<circle id="" material="grass" radius="1140.09" static="true" x="-0.67" y="-1046.74" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="120" image="BUSH_LEAFY_1" name="" rotation="26.82" scalex="1.252" scaley="1.252" x="283.87" y="56.46" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="119" image="BUSH_LEAFY_1" name="" rotation="19.04" scalex="1.252" scaley="1.252" x="-310.48" y="75.81" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="200" image="BUSH_FG1A" name="" rotation="-19.0" scalex="1.153" scaley="1.153" x="138.93" y="79.17" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="200" image="BUSH_FG1A" name="" rotation="17.64" scalex="1.315" scaley="1.208" x="-179.48" y="46.17" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-300" image="TREE_STRIPE1" name="" rotation="-333.8" scalex="0.821" scaley="0.821" x="367.26" y="181.45" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-300" image="Leaves" name="" rotation="10.08" scalex="0.691" scaley="0.602" x="265.26" y="458.71" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-300" image="Leaves" name="" rotation="-169.31" scalex="0.691" scaley="0.602" x="290.75" y="340.7" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-300" image="TREE_STRIPE1" name="" rotation="-380.74" scalex="0.821" scaley="0.821" x="-396.53" y="190.88" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-300" image="Leaves" name="" rotation="7.35" scalex="0.691" scaley="0.602" x="-294.55" y="457.87" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-300" image="Leaves" name="" rotation="-162.49" scalex="0.691" scaley="0.602" x="-253.84" y="316.91" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-400" image="BUSH_LEAFY_1B" name="" rotation="9.8" scalex="1.098" scaley="1.1" x="-329.18" y="25.2" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-400" image="BUSH_LEAFY_1B" name="" rotation="-17.52" scalex="1.098" scaley="1.1" x="414.57" y="-2.93" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-400" image="BUSH_LEAFY_1B" name="" rotation="0.66" scalex="1.098" scaley="1.1" x="-0.25" y="13.01" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-400" image="BUSH_LEAFY_1B" name="" rotation="9.8" scalex="1.098" scaley="1.1" x="613.12" y="-19.96" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-400" image="BUSH_LEAFY_1B" name="" rotation="-18.44" scalex="1.098" scaley="1.1" x="-432.67" y="13.95" />
+<SceneLayer alpha="1" colorize="255,255,255" depth="-400" image="BUSH_LEAFY_1B" name="" rotation="348.04" scalex="1.098" scaley="1.1" x="218.0" y="-1.26" />
+<radialforcefield antigrav="false" center="550,0" dampeningfactor="1" forceatcenter="20" forceatedge="0" id="" radius="150" />
+<radialforcefield antigrav="false" center="-550,0" dampeningfactor="1" forceatcenter="20" forceatedge="0" radius="150" />
+<linearforcefield antigrav="false" center="600,1000" dampeningfactor="10" force="-10,-20" height="2000" type="force" water="false" width="100" />
+<linearforcefield antigrav="false" center="-600,1000" dampeningfactor="10" force="10,-20" height="2000" type="force" water="false" width="100" />
+<linearforcefield antigrav="false" center="0,1500" dampeningfactor="10" force="0,-10" height="100" type="force" water="false" width="1295" />
+<linearforcefield antigrav="false" center="0,1800" dampeningfactor="1" force="0,-50" height="400" type="force" water="false" width="1295" />
+<circle id="" radius="122" static="true" tag="stopsign,unwalkable" x="-515" y="0" />
+<circle id="geometry1" radius="122" static="true" tag="stopsign,unwalkable" x="510" y="0" />
+<SceneLayer alpha="0.99" depth="-800" image="Veggies" rotation="-4" scalex="2" scaley="1.1" tilex="false" tiley="false" x="6" y="30" />
+</scene>

@@ -1,0 +1,17 @@
+<!-- Created by WooBLE v0.14 RC2 -->
+<ResourceManifest>
+
+  <Resources id="ball_Distant_">
+
+    
+    <SetDefaults idprefix="" path="./" />
+<Image id="IMAGE_BALL_DISTANT__BODY" path="res/balls/common_black/common_ball" />
+<Image id="IMAGE_BALL_DISTANT__STRAND" path="res/balls/Distant/arm" />
+<Image id="IMAGE_BALL_DISTANT__SPLAT1" path="res/balls/Distant/splat1" />
+<Image id="IMAGE_BALL_DISTANT__SPLAT2" path="res/balls/Distant/splat2" />
+<Image id="IMAGE_BALL_DISTANT__DSTRAND" path="res/balls/Distant/strand_pull" />
+<Image id="IMAGE_BALL_DISTANT__DRAGMARKER" path="res/balls/Distant/dragmarker" />
+<Image id="IMAGE_BALL_DISTANT__DETACHMARKER" path="res/balls/Distant/detachmarker" />
+<SetDefaults idprefix="" path="./" />
+</Resources>
+</ResourceManifest>

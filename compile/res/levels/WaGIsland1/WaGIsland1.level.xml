@@ -1,0 +1,13 @@
+<!-- Created by WooGLE v0.78 RC7 -->
+<level textcolor="100,255,100" texteffects="true">
+
+	
+	<camera aspect="normal">
+		<poi pause="0" pos="-240.5,359.38" traveltime="0" zoom="0.75" />
+</camera>
+<camera aspect="widescreen">
+		<poi pause="0" pos="-160.49,358.73" traveltime="0" zoom="0.8" />
+</camera>
+<music id="island" />
+<loopsound id="fireWater" />
+</level>
